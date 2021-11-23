@@ -1,0 +1,44 @@
+------------------------------------
+--
+-- New Years Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(6666)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Celebratory"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "New Years Collection"
+
+mi.Item(6666)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Celebratory"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "New Years Collection"

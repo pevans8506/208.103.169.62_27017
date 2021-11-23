@@ -1,0 +1,987 @@
+------------------------------------
+--
+-- Effect Collection
+--
+------------------------------------
+
+
+mi.Item(275)
+	:SetRarity (5)
+	:SetType "Crate"
+	:SetName "Effect Crate"
+	:SetDesc "This crate contains an item from the Effect Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/effect_crate64.png"
+	:SetCollection "Effect Collection"
+	:SetShop (4500, true)
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(213)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Black Hole Effect"
+	:SetDesc "The center of the universe."
+	:SetModel "models/effects/vol_light128x128.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(215)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Black Ice Effect"
+	:SetDesc "Don't drive on this."
+	:SetModel "models/props_junk/cinderblock01a.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (6.9)
+	:SetCollection "Effect Collection"
+
+mi.Item(216)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Blue Data Effect"
+	:SetDesc "This is what's left from the DDoS attack."
+	:SetModel "models/props/cs_office/computer_caseb_p3b.mdl"
+	:SetEffectColor {0, 119, 255}
+	:SetEffectSize (3.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(217)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Burger Effect"
+	:SetDesc "Welcome to good burger, home of the good burger, can I take your order."
+	:SetModel "models/food/burger.mdl"
+	:SetEffectColor {241, 151, 17}
+	:SetCollection "Effect Collection"
+
+mi.Item(218)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Robot Effect"
+	:SetDesc "Boop beep bop boop."
+	:SetModel "models/perftest/loader.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(219)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Combine Ball Effect"
+	:SetDesc "Stop right there civilian scum."
+	:SetModel "models/effects/combineball.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(220)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Confusion Effect"
+	:SetDesc "uh ... huh."
+	:SetModel "models/effects/vol_light.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(221)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "WASD Effect"
+	:SetDesc "Just use WASD."
+	:SetModel "models/props/de_train/bush.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(223)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Diamond Effect"
+	:SetDesc "Shine bright."
+	:SetModel "models/gibs/hgibs.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(224)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Donut Effect"
+	:SetDesc "This donut reminds me so much of Homer from the Simpsons."
+	:SetModel "models/noesis/donut.mdl"
+	:SetEffectColor {255, 0, 238}
+	:SetCollection "Effect Collection"
+
+mi.Item(225)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Dr. Danger Effect"
+	:SetDesc "Woooah watch out guys."
+	:SetModel "models/props_wasteland/prison_toiletchunk01j.mdl"
+	:SetEffectColor {255, 238, 0}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(226)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Explosion Effect"
+	:SetDesc "This is so pretty."
+	:SetModel "models/gibs/strider_gib3.mdl"
+	:SetEffectColor {255, 97, 0}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(227)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Duhaf Effect"
+	:SetDesc "What the duhaf."
+	:SetModel "models/gibs/strider_gib3.mdl"
+	:SetEffectColor {0, 255, 63}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(228)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Dungo Effect"
+	:SetDesc "Stop looking at me."
+	:SetModel "models/gibs/antlion_gib_large_2.mdl"
+	:SetEffectColor {190, 255, 125}
+	:SetEffectSize (4.3)
+	:SetCollection "Effect Collection"
+
+mi.Item(229)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Editor Effect"
+	:SetDesc "Use this to help you edit your life."
+	:SetModel "models/editor/axis_helper_thick.mdl"
+	:SetEffectColor {0, 17, 255}
+	:SetEffectSize (2.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(230)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "GMan Effect"
+	:SetDesc "Good morning Mr. Freeman."
+	:SetModel "models/perftest/gman.mdl"
+	:SetEffectColor {124, 113, 175}
+	:SetCollection "Effect Collection"
+
+mi.Item(231)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Koi Effect"
+	:SetDesc "Just keep swimming, just keep swimming swimming swimming."
+	:SetModel "models/props/de_inferno/goldfish.mdl"
+	:SetEffectColor {241, 17, 17}
+	:SetCollection "Effect Collection"
+
+mi.Item(233)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Holy Effect"
+	:SetDesc ":O WOAH."
+	:SetModel "models/effects/vol_light128x128.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(234)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Horse Effect"
+	:SetDesc "Neighhhh."
+	:SetModel "models/props_phx/games/chess/white_knight.mdl"
+	:SetEffectColor {255, 231, 159}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(235)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Hotdog Effect"
+	:SetDesc "Hotdogs here! Get your hotdogs."
+	:SetModel "models/food/hotdog.mdl"
+	:SetEffectColor {241, 151, 17}
+	:SetEffectSize (6.5)
+	:SetCollection "Effect Collection"
+
+mi.Item(236)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Huladoll Effect"
+	:SetDesc "That's racist to my culture sir."
+	:SetModel "models/props_lab/huladoll.mdl"
+	:SetEffectColor {17, 241, 84}
+	:SetCollection "Effect Collection"
+
+mi.Item(237)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Snowman Effect"
+	:SetDesc "Frosty the snowman was jolly good fellow."
+	:SetModel "models/props/cs_office/snowman_face.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetCollection "Effect Collection"
+
+mi.Item(238)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "ILLIN Effect"
+	:SetDesc "That's sick."
+	:SetModel "models/props_phx/gibs/flakgib1.mdl"
+	:SetEffectColor {146, 202, 255}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(239)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Lamar Effect"
+	:SetDesc "Wazzup people."
+	:SetModel "models/nova/w_headcrab.mdl"
+	:SetEffectColor {255, 204, 0}
+	:SetCollection "Effect Collection"
+
+mi.Item(240)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "LAPIZ Effect"
+	:SetDesc "Oh great, another Minecraft reference."
+	:SetModel "models/props_wasteland/prison_toiletchunk01j.mdl"
+	:SetEffectColor {29, 0, 255}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(241)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "L.F. Effect"
+	:SetDesc "This only helps you if you're drowning."
+	:SetModel "models/props/de_nuke/lifepreserver.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(242)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Potke Effect"
+	:SetDesc "You a sexy motherfucka."
+	:SetModel "models/shadertest/vertexlittextureplusenvmappedbumpmap.mdl"
+	:SetEffectColor {0, 246, 255}
+	:SetCollection "Effect Collection"
+
+mi.Item(243)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Lovd Effect"
+	:SetDesc "Why can't you lovd me."
+	:SetModel "models/props_lab/pipesystem03d.mdl"
+	:SetEffectColor {255, 0, 255}
+	:SetEffectSize (4)
+	:SetCollection "Effect Collection"
+
+mi.Item(244)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "M Effect"
+	:SetDesc "Not any other letter."
+	:SetModel "models/props_rooftop/sign_letter_m001.mdl"
+	:SetEffectColor {255, 85, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(245)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Mage Effect"
+	:SetDesc "Nice magic."
+	:SetModel "models/noesis/donut.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(246)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Math Effect"
+	:SetDesc "I was never good at math, but hey, I made this description."
+	:SetModel "models/props_lab/bindergreen.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(248)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Metrocop Effect"
+	:SetDesc "Not as cool as Robocop."
+	:SetModel "models/nova/w_headgear.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetCollection "Effect Collection"
+
+mi.Item(249)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Trees Effect"
+	:SetDesc "God of trees."
+	:SetModel "models/props_foliage/tree_springers_card_01_skybox.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(250)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Nature Effect"
+	:SetDesc "God of nature."
+	:SetModel "models/props/pi_shrub.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(251)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Pantom Effect"
+	:SetDesc "You're a fucking demon."
+	:SetModel "models/props_lab/miniteleportarc.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(252)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Paradigm Effect"
+	:SetDesc "Be careful not to break the space time continuum."
+	:SetModel "models/props_c17/playgroundtick-tack-toe_block01a.mdl"
+	:SetEffectColor {129, 189, 244}
+	:SetEffectSize (4.3)
+	:SetCollection "Effect Collection"
+
+mi.Item(253)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Quartz Effect"
+	:SetDesc "George6120: Thats a tricky one - Unless you want to reference Minecraft (^:."
+	:SetModel "models/props/de_tides/menu_stand_p05.mdl"
+	:SetEffectColor {229, 90, 90}
+	:SetEffectSize (3.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(254)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Dead Bush Effect"
+	:SetDesc "Don't fuck with this shrub."
+	:SetModel "models/props/de_train/bush2.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(255)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Scan Effect"
+	:SetDesc "Scanning for possible scrub ... SCRUB FOUND."
+	:SetModel "models/props_lab/generatortube.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(256)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Rocket Effect"
+	:SetDesc "5 .. 4 .. 3 .. 2 .. 1 .. LIFT OFF."
+	:SetModel "models/weapons/w_missile_closed.mdl"
+	:SetEffectColor {255, 97, 0}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(257)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "QT Effect"
+	:SetDesc "I hope this helps you."
+	:SetModel "models/editor/cone_helper.mdl"
+	:SetEffectColor {0, 169, 255}
+	:SetEffectSize (8.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(258)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Particle Effect"
+	:SetDesc "So pretty."
+	:SetModel "models/effects/splodeglass.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(259)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Lava Effect"
+	:SetDesc "Feel the BURN."
+	:SetModel "models/props/cs_office/trash_can_p6.mdl"
+	:SetEffectColor {255, 0, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(260)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Toxin Effect"
+	:SetDesc "You're toxic."
+	:SetModel "models/props/cs_office/trash_can_p6.mdl"
+	:SetEffectColor {161, 255, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(261)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Wisp Effect"
+	:SetDesc "Woah that's pretty cool."
+	:SetModel "models/effects/vol_light128x128.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(262)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Stone Effect"
+	:SetDesc "You are the king of stone."
+	:SetModel "models/props_combine/breenbust_chunk03.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(264)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Gordon Effect"
+	:SetDesc "What small body you have there Mr. Freeman."
+	:SetModel "models/editor/playerstart.mdl"
+	:SetEffectColor {0, 255, 0}
+	:SetCollection "Effect Collection"
+
+mi.Item(265)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Tornado Effect"
+	:SetDesc "Don't let your house get swept up."
+	:SetModel "models/props_combine/stasisvortex.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(266)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Turtle Effect"
+	:SetDesc "Awww it's a turtle."
+	:SetModel "models/props/de_tides/vending_turtle.mdl"
+	:SetEffectColor {122, 230, 86}
+	:SetCollection "Effect Collection"
+
+mi.Item(267)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Valve Effect"
+	:SetDesc "The annoying intro everyone watches because it's cool anyways."
+	:SetModel "models/props_pipes/valvewheel001.mdl"
+	:SetEffectColor {255, 0, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(268)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "White Snake Effect"
+	:SetDesc "You sneaky bastard."
+	:SetModel "models/props_lab/teleportring.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (1.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(269)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Acid Effect"
+	:SetDesc "Get slimed."
+	:SetModel "models/dav0r/hoverball.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(270)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Yellow Data Effect"
+	:SetDesc "This is what's left from the yellow DDoS attack."
+	:SetModel "models/props/cs_office/computer_caseb_p3b.mdl"
+	:SetEffectColor {255, 242, 0}
+	:SetEffectSize (3.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(213)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Black Hole Effect"
+	:SetDesc "The center of the universe."
+	:SetModel "models/effects/vol_light128x128.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(215)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Black Ice Effect"
+	:SetDesc "Don't drive on this."
+	:SetModel "models/props_junk/cinderblock01a.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (6.9)
+	:SetCollection "Effect Collection"
+
+mi.Item(216)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Blue Data Effect"
+	:SetDesc "This is what's left from the DDoS attack."
+	:SetModel "models/props/cs_office/computer_caseb_p3b.mdl"
+	:SetEffectColor {0, 119, 255}
+	:SetEffectSize (3.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(217)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Burger Effect"
+	:SetDesc "Welcome to good burger, home of the good burger, can I take your order."
+	:SetModel "models/food/burger.mdl"
+	:SetEffectColor {241, 151, 17}
+	:SetCollection "Effect Collection"
+
+mi.Item(218)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Robot Effect"
+	:SetDesc "Boop beep bop boop."
+	:SetModel "models/perftest/loader.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(219)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Combine Ball Effect"
+	:SetDesc "Stop right there civilian scum."
+	:SetModel "models/effects/combineball.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(220)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Confusion Effect"
+	:SetDesc "uh ... huh."
+	:SetModel "models/effects/vol_light.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(221)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "WASD Effect"
+	:SetDesc "Just use WASD."
+	:SetModel "models/props/de_train/bush.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(223)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Diamond Effect"
+	:SetDesc "Shine bright."
+	:SetModel "models/gibs/hgibs.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(224)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Donut Effect"
+	:SetDesc "This donut reminds me so much of Homer from the Simpsons."
+	:SetModel "models/noesis/donut.mdl"
+	:SetEffectColor {255, 0, 238}
+	:SetCollection "Effect Collection"
+
+mi.Item(225)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Dr. Danger Effect"
+	:SetDesc "Woooah watch out guys."
+	:SetModel "models/props_wasteland/prison_toiletchunk01j.mdl"
+	:SetEffectColor {255, 238, 0}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(226)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Explosion Effect"
+	:SetDesc "This is so pretty."
+	:SetModel "models/gibs/strider_gib3.mdl"
+	:SetEffectColor {255, 97, 0}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(227)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Duhaf Effect"
+	:SetDesc "What the duhaf."
+	:SetModel "models/gibs/strider_gib3.mdl"
+	:SetEffectColor {0, 255, 63}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(228)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Dungo Effect"
+	:SetDesc "Stop looking at me."
+	:SetModel "models/gibs/antlion_gib_large_2.mdl"
+	:SetEffectColor {190, 255, 125}
+	:SetEffectSize (4.3)
+	:SetCollection "Effect Collection"
+
+mi.Item(229)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Editor Effect"
+	:SetDesc "Use this to help you edit your life."
+	:SetModel "models/editor/axis_helper_thick.mdl"
+	:SetEffectColor {0, 17, 255}
+	:SetEffectSize (2.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(230)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "GMan Effect"
+	:SetDesc "Good morning Mr. Freeman."
+	:SetModel "models/perftest/gman.mdl"
+	:SetEffectColor {124, 113, 175}
+	:SetCollection "Effect Collection"
+
+mi.Item(231)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Koi Effect"
+	:SetDesc "Just keep swimming, just keep swimming swimming swimming."
+	:SetModel "models/props/de_inferno/goldfish.mdl"
+	:SetEffectColor {241, 17, 17}
+	:SetCollection "Effect Collection"
+
+mi.Item(233)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Holy Effect"
+	:SetDesc ":O WOAH."
+	:SetModel "models/effects/vol_light128x128.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(234)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Horse Effect"
+	:SetDesc "Neighhhh."
+	:SetModel "models/props_phx/games/chess/white_knight.mdl"
+	:SetEffectColor {255, 231, 159}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(235)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Hotdog Effect"
+	:SetDesc "Hotdogs here! Get your hotdogs."
+	:SetModel "models/food/hotdog.mdl"
+	:SetEffectColor {241, 151, 17}
+	:SetEffectSize (6.5)
+	:SetCollection "Effect Collection"
+
+mi.Item(236)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Huladoll Effect"
+	:SetDesc "That's racist to my culture sir."
+	:SetModel "models/props_lab/huladoll.mdl"
+	:SetEffectColor {17, 241, 84}
+	:SetCollection "Effect Collection"
+
+mi.Item(237)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Snowman Effect"
+	:SetDesc "Frosty the snowman was jolly good fellow."
+	:SetModel "models/props/cs_office/snowman_face.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetCollection "Effect Collection"
+
+mi.Item(238)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "ILLIN Effect"
+	:SetDesc "That's sick."
+	:SetModel "models/props_phx/gibs/flakgib1.mdl"
+	:SetEffectColor {146, 202, 255}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(239)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Lamar Effect"
+	:SetDesc "Wazzup people."
+	:SetModel "models/nova/w_headcrab.mdl"
+	:SetEffectColor {255, 204, 0}
+	:SetCollection "Effect Collection"
+
+mi.Item(240)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "LAPIZ Effect"
+	:SetDesc "Oh great, another Minecraft reference."
+	:SetModel "models/props_wasteland/prison_toiletchunk01j.mdl"
+	:SetEffectColor {29, 0, 255}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(241)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "L.F. Effect"
+	:SetDesc "This only helps you if you're drowning."
+	:SetModel "models/props/de_nuke/lifepreserver.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(242)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Potke Effect"
+	:SetDesc "You a sexy motherfucka."
+	:SetModel "models/shadertest/vertexlittextureplusenvmappedbumpmap.mdl"
+	:SetEffectColor {0, 246, 255}
+	:SetCollection "Effect Collection"
+
+mi.Item(243)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Lovd Effect"
+	:SetDesc "Why can't you lovd me."
+	:SetModel "models/props_lab/pipesystem03d.mdl"
+	:SetEffectColor {255, 0, 255}
+	:SetEffectSize (4)
+	:SetCollection "Effect Collection"
+
+mi.Item(244)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "M Effect"
+	:SetDesc "Not any other letter."
+	:SetModel "models/props_rooftop/sign_letter_m001.mdl"
+	:SetEffectColor {255, 85, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(245)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Mage Effect"
+	:SetDesc "Nice magic."
+	:SetModel "models/noesis/donut.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(246)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Math Effect"
+	:SetDesc "I was never good at math, but hey, I made this description."
+	:SetModel "models/props_lab/bindergreen.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(248)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Metrocop Effect"
+	:SetDesc "Not as cool as Robocop."
+	:SetModel "models/nova/w_headgear.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetCollection "Effect Collection"
+
+mi.Item(249)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Trees Effect"
+	:SetDesc "God of trees."
+	:SetModel "models/props_foliage/tree_springers_card_01_skybox.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(250)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Nature Effect"
+	:SetDesc "God of nature."
+	:SetModel "models/props/pi_shrub.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(251)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Pantom Effect"
+	:SetDesc "You're a fucking demon."
+	:SetModel "models/props_lab/miniteleportarc.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(252)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Paradigm Effect"
+	:SetDesc "Be careful not to break the space time continuum."
+	:SetModel "models/props_c17/playgroundtick-tack-toe_block01a.mdl"
+	:SetEffectColor {129, 189, 244}
+	:SetEffectSize (4.3)
+	:SetCollection "Effect Collection"
+
+mi.Item(253)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Quartz Effect"
+	:SetDesc "George6120: Thats a tricky one - Unless you want to reference Minecraft (^:."
+	:SetModel "models/props/de_tides/menu_stand_p05.mdl"
+	:SetEffectColor {229, 90, 90}
+	:SetEffectSize (3.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(254)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Dead Bush Effect"
+	:SetDesc "Don't fuck with this shrub."
+	:SetModel "models/props/de_train/bush2.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(255)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Scan Effect"
+	:SetDesc "Scanning for possible scrub ... SCRUB FOUND."
+	:SetModel "models/props_lab/generatortube.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(256)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Rocket Effect"
+	:SetDesc "5 .. 4 .. 3 .. 2 .. 1 .. LIFT OFF."
+	:SetModel "models/weapons/w_missile_closed.mdl"
+	:SetEffectColor {255, 97, 0}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(257)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "QT Effect"
+	:SetDesc "I hope this helps you."
+	:SetModel "models/editor/cone_helper.mdl"
+	:SetEffectColor {0, 169, 255}
+	:SetEffectSize (8.6)
+	:SetCollection "Effect Collection"
+
+mi.Item(258)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Particle Effect"
+	:SetDesc "So pretty."
+	:SetModel "models/effects/splodeglass.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (3.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(259)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Lava Effect"
+	:SetDesc "Feel the BURN."
+	:SetModel "models/props/cs_office/trash_can_p6.mdl"
+	:SetEffectColor {255, 0, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(260)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Toxin Effect"
+	:SetDesc "You're toxic."
+	:SetModel "models/props/cs_office/trash_can_p6.mdl"
+	:SetEffectColor {161, 255, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(261)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Wisp Effect"
+	:SetDesc "Woah that's pretty cool."
+	:SetModel "models/effects/vol_light128x128.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(262)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Stone Effect"
+	:SetDesc "You are the king of stone."
+	:SetModel "models/props_combine/breenbust_chunk03.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(264)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Gordon Effect"
+	:SetDesc "What small body you have there Mr. Freeman."
+	:SetModel "models/editor/playerstart.mdl"
+	:SetEffectColor {0, 255, 0}
+	:SetCollection "Effect Collection"
+
+mi.Item(265)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Tornado Effect"
+	:SetDesc "Don't let your house get swept up."
+	:SetModel "models/props_combine/stasisvortex.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(266)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Turtle Effect"
+	:SetDesc "Awww it's a turtle."
+	:SetModel "models/props/de_tides/vending_turtle.mdl"
+	:SetEffectColor {122, 230, 86}
+	:SetCollection "Effect Collection"
+
+mi.Item(267)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Valve Effect"
+	:SetDesc "The annoying intro everyone watches because it's cool anyways."
+	:SetModel "models/props_pipes/valvewheel001.mdl"
+	:SetEffectColor {255, 0, 0}
+	:SetEffectSize (2)
+	:SetCollection "Effect Collection"
+
+mi.Item(268)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "White Snake Effect"
+	:SetDesc "You sneaky bastard."
+	:SetModel "models/props_lab/teleportring.mdl"
+	:SetEffectColor {255, 255, 255}
+	:SetEffectSize (1.7)
+	:SetCollection "Effect Collection"
+
+mi.Item(269)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Acid Effect"
+	:SetDesc "Get slimed."
+	:SetModel "models/dav0r/hoverball.mdl"
+	:SetCollection "Effect Collection"
+
+mi.Item(270)
+	:SetRarity (5)
+	:SetType "Effect"
+	:SetName "Yellow Data Effect"
+	:SetDesc "This is what's left from the yellow DDoS attack."
+	:SetModel "models/props/cs_office/computer_caseb_p3b.mdl"
+	:SetEffectColor {255, 242, 0}
+	:SetEffectSize (3.6)
+	:SetCollection "Effect Collection"

@@ -1,0 +1,677 @@
+------------------------------------
+--
+-- Lust Collection
+--
+------------------------------------
+
+
+mi.Item(10200)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Lust Crate"
+	:SetDesc "This crate contains an item from the Lust Crate, hell yeah.."
+	:SetImage "https://tera.gg/ttt/misc/lust_crate512.png"
+	:SetCollection "Lust Collection"
+	:SetShop (25000, true)
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(10203)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Hardcore"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10207)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Alyx Model"
+	:SetDesc "slut 2.0, but she still doesn't love you :(."
+	:SetModel "models/player/alyx.mdl"
+	:SetCollection "Lust Collection"
+
+mi.Item(10210)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Sticky"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10211)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Juicy"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(10212)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "What Are You Doing, Step"
+	:SetColor {0, 191, 255}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(10214)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Extreme"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(102147)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "The Sus Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(102146)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "The Amongus Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(10203)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Hardcore"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10207)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Alyx Model"
+	:SetDesc "slut 2.0, but she still doesn't love you :(."
+	:SetModel "models/player/alyx.mdl"
+	:SetCollection "Lust Collection"
+
+mi.Item(10210)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Sticky"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10211)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Juicy"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(10212)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "What Are You Doing, Step"
+	:SetColor {0, 191, 255}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(10214)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Extreme"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(102147)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "The Sus Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(102146)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "The Amongus Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(10209)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Petite"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10215)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Kinky"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(102142)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "The Shit Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(10150)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Ahegao Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/ahego.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/ahego.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Lust Collection"
+
+mi.Item(10209)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Petite"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10215)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Kinky"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(102142)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "The Shit Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(10201)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "One And Done"
+	:SetColor {23, 116, 89}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_m03a3"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+		:SetTalent (2, "*click*")
+	:SetCollection "Lust Collection"
+
+mi.Item(10202)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Unprotected"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10204)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Loving"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10206)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Disappointing"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10208)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Finishing"
+	:SetColor {0, 191, 255}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+mi.Item(10201)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "One And Done"
+	:SetColor {23, 116, 89}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_m03a3"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+		:SetTalent (2, "*click*")
+	:SetCollection "Lust Collection"
+
+mi.Item(10202)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Unprotected"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10204)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Loving"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10206)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Disappointing"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10208)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Finishing"
+	:SetColor {0, 191, 255}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Lust Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(10205)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Intimate"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10213)
+	:SetRarity (9)
+	:SetType "Unique"
+	:SetName "The Climaxer"
+	:SetWeapon "weapon_ttt_tmp"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+		:SetTalent (1, "paintball")
+		:SetTalent (2, "paintball")
+		:SetTalent (3, "paintball")
+		:SetTalent (4, "paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(10216)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Furry Model"
+	:SetDesc "You degenerates, is this what you wanted?."
+	:SetModel "models/player/alicede_sharkfurry.mdl"
+	:SetCollection "Lust Collection"
+
+mi.Item(10217)
+	:SetRarity (9)
+	:SetType "Unique"
+	:SetName "The Lust Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(10205)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Intimate"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Lust Collection"
+
+mi.Item(10213)
+	:SetRarity (9)
+	:SetType "Unique"
+	:SetName "The Climaxer"
+	:SetWeapon "weapon_ttt_tmp"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+		:SetTalent (1, "paintball")
+		:SetTalent (2, "paintball")
+		:SetTalent (3, "paintball")
+		:SetTalent (4, "paintball")
+	:SetCollection "Lust Collection"
+
+mi.Item(10216)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Furry Model"
+	:SetDesc "You degenerates, is this what you wanted?."
+	:SetModel "models/player/alicede_sharkfurry.mdl"
+	:SetCollection "Lust Collection"
+
+mi.Item(10217)
+	:SetRarity (9)
+	:SetType "Unique"
+	:SetName "The Lust Machine"
+	:SetColor {0, 191, 255}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Lust Collection"

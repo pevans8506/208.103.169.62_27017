@@ -1,0 +1,50 @@
+------------------------------------
+--
+-- Developer Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(3424)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "HANDS OFF MY"
+	:NotDroppable (true)
+	:SetEffect "glow"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", -60, -40)
+		:SetStat ("Reloadrate", 80, 120)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Developer Collection"
+
+mi.Item(3424)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "HANDS OFF MY"
+	:NotDroppable (true)
+	:SetEffect "glow"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", -60, -40)
+		:SetStat ("Reloadrate", 80, 120)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Developer Collection"

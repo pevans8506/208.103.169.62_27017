@@ -1,0 +1,1225 @@
+------------------------------------
+--
+-- Valentine Collection
+--
+------------------------------------
+
+
+mi.Item(586)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Valentines 2021 Crate"
+	:NotDroppable (true)
+	:SetDesc "This crate contains an item from the Valentines 2021 Crate Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/chocolate_crate64.png"
+	:SetCollection "Valentine Collection"
+	:SetShop (250, false)
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(3136)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Cover-Girl"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3137)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Splendid"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3138)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Amazing"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3136)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Cover-Girl"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3137)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Splendid"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3138)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Amazing"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(3139)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Prettier"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3137)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Gentle"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3140)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Cutie"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6824)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "H.U.G.E Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_huge"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 20, 10)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6572)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Heartband"
+	:SetColor {255, 0, 255}
+	:SetDesc "Wear this if you have no friends and want people to love you."
+	:SetModel "models/captainbigbutt/skeyler/hats/heartband.mdl"
+	:SetCollection "Valentine Collection"
+
+mi.Item(7430)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "HeartPepe Bouncy Ball"
+	:SetColor {255, 0, 255}
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Valentine Collection"
+
+mi.Item(8430)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "HeartPepe Mask"
+	:SetColor {255, 0, 255}
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Valentine Collection"
+
+mi.Item(7430)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "HeartPepe Bouncy Ball"
+	:SetColor {255, 0, 255}
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Valentine Collection"
+
+mi.Item(8430)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "HeartPepe Mask"
+	:SetColor {255, 0, 255}
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Valentine Collection"
+
+mi.Item(3139)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Prettier"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3137)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Gentle"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3140)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Cutie"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6824)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "H.U.G.E Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_huge"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 20, 10)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6572)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Heartband"
+	:SetColor {255, 0, 255}
+	:SetDesc "Wear this if you have no friends and want people to love you."
+	:SetModel "models/captainbigbutt/skeyler/hats/heartband.mdl"
+	:SetCollection "Valentine Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(3141)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Scrumptious"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3142)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Ravishing"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3142)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Purty"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3137)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Dainty"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6831)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Pistol Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_pistols"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 7, 4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6573)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Heart Hat"
+	:SetColor {255, 0, 255}
+	:SetDesc "I'm in love with my head."
+	:SetModel "models/balloons/balloon_classicheart.mdl"
+	:SetCollection "Valentine Collection"
+
+mi.Item(3141)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Scrumptious"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3142)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Ravishing"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3142)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Purty"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3137)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Dainty"
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6831)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Pistol Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_pistols"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 7, 4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6573)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Heart Hat"
+	:SetColor {255, 0, 255}
+	:SetDesc "I'm in love with my head."
+	:SetModel "models/balloons/balloon_classicheart.mdl"
+	:SetCollection "Valentine Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(3143)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Handsome"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3144)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Nice"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3145)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Enchanting"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3146)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Charming"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3145)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Dreamy"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3145)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Yummy"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6825)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Glock Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_glock"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 7, 4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 5, 13)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", -28, -19)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6822)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "SG550 Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_sg550"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 16, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6488)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Heart Bag"
+	:SetColor {255, 0, 255}
+	:SetDesc "Less than Three."
+	:SetModel "models/sal/halloween/bag.mdl"
+	:SetSkin (24)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6634)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Heart Welder Mask"
+	:SetColor {255, 0, 255}
+	:SetDesc "You weld broken hearts back together."
+	:SetModel "models/splicermasks/weldingmask.mdl"
+	:SetCollection "Valentine Collection"
+
+mi.Item(3143)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Handsome"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3144)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Nice"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3145)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Enchanting"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3146)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Charming"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3145)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Dreamy"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3145)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Yummy"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6825)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Glock Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_glock"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 7, 4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 5, 13)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", -28, -19)
+	:SetTalents (2, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6822)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "SG550 Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_sg550"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 16, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6488)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Heart Bag"
+	:SetColor {255, 0, 255}
+	:SetDesc "Less than Three."
+	:SetModel "models/sal/halloween/bag.mdl"
+	:SetSkin (24)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6634)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Heart Welder Mask"
+	:SetColor {255, 0, 255}
+	:SetDesc "You weld broken hearts back together."
+	:SetModel "models/splicermasks/weldingmask.mdl"
+	:SetCollection "Valentine Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(3147)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Fabulous"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3148)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Gorgeous"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3148)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Beautiful"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3148)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Adorable"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6923)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "M16 Lovers"
+	:SetColor {255, 153, 255}
+	:SetWeapon "weapon_ttt_dual_m16"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 14, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6823)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "MAC10 Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_mac10"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 14, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6929)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Rifle Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_rifle"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 35, 15)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6821)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "TMP Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_tmp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 4, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3147)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Fabulous"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3148)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Gorgeous"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3148)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Beautiful"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3148)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Adorable"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6923)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "M16 Lovers"
+	:SetColor {255, 153, 255}
+	:SetWeapon "weapon_ttt_dual_m16"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 14, 8)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6823)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "MAC10 Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_mac10"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 14, 8)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6929)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Rifle Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_rifle"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 35, 15)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6821)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "TMP Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_tmp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 4, -4)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(3149)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Lovable"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6930)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Deagle Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_deagle"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -15, -35)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6924)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Shotgun Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_shotgun"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 5, 0)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6820)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "UMP Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_ump"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 0, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(3149)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Lovable"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+	:SetTalents (4, 4)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6930)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Deagle Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_deagle"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -15, -35)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6924)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Shotgun Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_shotgun"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 5, 0)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"
+
+mi.Item(6820)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "UMP Lovers"
+	:SetColor {255, 153, 255}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_dual_ump"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 0, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Valentine Collection"

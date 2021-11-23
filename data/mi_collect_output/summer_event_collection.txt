@@ -1,0 +1,238 @@
+------------------------------------
+--
+-- Summer Event Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(3251)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Novice"
+	:SetStats (1, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3251)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Novice"
+	:SetStats (1, 3)
+	:SetTalents (1, 1)
+	:SetCollection "Summer Event Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(3252)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Amateur"
+	:SetStats (2, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3252)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Amateur"
+	:SetStats (2, 4)
+	:SetTalents (1, 1)
+	:SetCollection "Summer Event Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(3253)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Apprentice"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3253)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Apprentice"
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Summer Event Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(3254)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Professional"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3254)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Professional"
+	:SetStats (4, 6)
+	:SetTalents (1, 2)
+	:SetCollection "Summer Event Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(3256)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Expert"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3255)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Master"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3256)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Expert"
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3255)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Master"
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Summer Event Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(3257)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Legend"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3257)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Legend"
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Summer Event Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(3258)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "God"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Summer Event Collection"
+
+mi.Item(3258)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "God"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Summer Event Collection"

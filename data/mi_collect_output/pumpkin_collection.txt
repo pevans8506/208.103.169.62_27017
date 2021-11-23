@@ -1,0 +1,1636 @@
+------------------------------------
+--
+-- Pumpkin Collection
+--
+------------------------------------
+
+
+mi.Item(2001)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Pumpkin Crate"
+	:SetDesc "This crate contains an item from the Pumpkin Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/pumpkin64.png"
+	:SetCollection "Pumpkin Collection"
+	:SetShop (50000, false)
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(69421)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Insidious Shooters"
+	:SetColor {151, 19, 228}
+	:SetWeapon "weapon_ttt_dual_m16"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 15, -7)
+		:SetStat ("Firerate", 10, 20)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", -25, 20)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", 20, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+		:SetTalent (1, "Power Stone")
+		:SetTalent (2, "Power Stone")
+		:SetTalent (3, "Power Stone")
+		:SetTalent (4, "Power Stone")
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(69421)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Insidious Shooters"
+	:SetColor {151, 19, 228}
+	:SetWeapon "weapon_ttt_dual_m16"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 15, -7)
+		:SetStat ("Firerate", 10, 20)
+		:SetStat ("Accuracy", -25, 20)
+		:SetStat ("Kick", 20, -28)
+	:SetTalents (4, 4)
+		:SetTalent (1, "Power Stone")
+		:SetTalent (2, "Power Stone")
+		:SetTalent (3, "Power Stone")
+		:SetTalent (4, "Power Stone")
+	:SetCollection "Pumpkin Collection"
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(5136)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Scary"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5137)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Creepy"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5138)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Haunting"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5139)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Mystical"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5140)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Moonlit"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5141)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Startling"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5142)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bloody"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5143)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghostly"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5144)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Spooky"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5145)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Undead"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5146)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghoulish"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5147)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Spooktacular"
+	:SetColor {0, 255, 0}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5148)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Supernatural"
+	:SetColor {0, 255, 0}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5149)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Boo-Tiful"
+	:SetColor {0, 255, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -50, -70)
+		:SetStat ("Firerate", 170, 280)
+		:SetStat ("Magazine", 230, 330)
+		:SetStat ("Accuracy", 170, 280)
+		:SetStat ("Damage", 170, 280)
+		:SetStat ("Kick", -170, -280)
+		:SetStat ("Range", 230, 330)
+	:SetTalents (4, 4)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5134)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Halloween King Model"
+	:SetDesc "Truely the king of halloween, so let's party bitches."
+	:SetModel "models/player/zack/zackhalloween.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5135)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Scream Model"
+	:SetDesc "Please do not scream as loud as you can when wearing this model."
+	:SetModel "models/player/screamplayermodel/scream/scream.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5101)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Evil Clown Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/evil_clown.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5102)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Boar Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_boar.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5103)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "White Bunny Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_bunny.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5104)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gold Bunny Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_bunny_gold.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5105)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chicken Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_chicken.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5106)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Devil Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_devil_plastic.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5107)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Blue Doll Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_porcelain_doll_kabuki.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5108)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pumpkin Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_pumpkin.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5109)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Samurai Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_samurai.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5110)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bloody Sheep Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_sheep_bloody.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5111)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gold Sheep Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_sheep_gold.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5112)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sheep Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_sheep_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5113)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Skull Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_skull.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5114)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gold Skull Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_skull_gold.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5115)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Target Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_template.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5116)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Demo Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_demo_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5117)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Engineer Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_engi_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5118)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Heavy Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_heavy_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5119)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Medic Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_medic_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5120)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Pyro Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_pyro_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5121)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chains Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_chains.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5122)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dallas Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_dallas.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5123)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Scout Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_scout_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5124)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Hoxton Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_hoxton.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5125)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wolf Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_wolf.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5133)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pumpkin Head"
+	:SetDesc "An exclusive head mask from the Pumpkin Event."
+	:SetModel "models/gmod_tower/halloween_pumpkinhat.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5126)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Sniper Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_sniper_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5127)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Soldier Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_soldier_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5128)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Spy Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_spy_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5129)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tiki Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tiki.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5130)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Zombie Fortune Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_zombie_fortune_plastic.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5131)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Doll Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/porcelain_doll.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6257)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Deep Journey Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/deep_journey.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/deep_journey.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6273)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Parallel Cosmos Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/parallel_cosmos.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/parallel_cosmos.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6289)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Untouched Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/untouched.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/untouched.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6258)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Deluded Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/deluded.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/deluded.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6290)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Vibestrus Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/vibestrus.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/vibestrus.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6259)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Driptina Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/driptina.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/driptina.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6291)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Wavelength Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/wavelength.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/wavelength.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6260)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Eighteye Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/eighteye.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/eighteye.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6276)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Pringle Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/pringle.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/pringle.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6292)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Witchpink Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/witchpink.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/witchpink.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6261)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Factorion Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/factorian.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/factorion.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6277)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Pumpzag Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/pumpzag.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/pumpzag.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6293)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Zygzag Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/zygzag.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/zygzag.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6262)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Felice Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/felice.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/felice.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6247)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Acid Crater Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/acid_crater.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/acid_crater.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6263)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Gatsby Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/gatsby.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/gatsby.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6279)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Purpendicular Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/purpendicular.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/purpendicular.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6248)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Alduinity Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/alduinity.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/alduinity.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6264)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Granbow Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/granbow.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/granbow.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6280)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Quantum Realm Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/quantum_realm.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/quantum_realm.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6249)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Archaic Arcade Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/archaic_arcade.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/archaic_arcade.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6265)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Heavens Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/heavens.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/heavens.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6281)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Rajah Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/rajah.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/rajah.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6250)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Burple Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/burple.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/burple.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6266)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Hellbolt Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/hellbolt.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/hellbolt.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6251)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Californication Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/californication.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/californication.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6267)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Krakatoa Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/krakatoa.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/krakatoa.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6283)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Rygan Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/rygan.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/rygan.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6252)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Candypot Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/candypot.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/candypot.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6268)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Lost In Divine Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/lost_in_divine.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/lost_in_divine.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6284)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Splatter Space Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/splatter_space.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/splatter_space.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6253)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Choropleth Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/choropleth.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/choropleth.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6269)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Matrix Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/matrix.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/matrix.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6285)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Stained Glass Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/stained_glass.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/stained_glass.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6254)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Cuddly Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/cuddly.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/cuddly.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6270)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Neuralite Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/neauralite.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/neuralite.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6286)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Tiki Oasis Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/tiki_oasis.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/tiki_oasis.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6255)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Cyter Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/cyter.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/cyter.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6271)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Nightmare Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/nightmare.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/nightmare.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6287)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Trilogy Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/trilogy.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/trilogy.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6256)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Daydream Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/daydream.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/daydream.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6272)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "ŌKami Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/okami.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/okami.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6282)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Reppit Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/reppit.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/reppit.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6278)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Pupa Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/pupa.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/pupa.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6275)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Phoenix Feather Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/phoenix_feather.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/phoenix_feather.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6274)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Party City Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/partycity.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/party_city.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(6288)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Ultrabeam Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/ultrabeam.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/ultrabeam.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5136)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Scary"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5137)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Creepy"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5138)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Haunting"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5139)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Mystical"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5140)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Moonlit"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5141)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Startling"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5142)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bloody"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5143)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghostly"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5144)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Spooky"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5145)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Undead"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5146)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghoulish"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5147)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Spooktacular"
+	:SetColor {0, 255, 0}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5148)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Supernatural"
+	:SetColor {0, 255, 0}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5149)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Boo-Tiful"
+	:SetColor {0, 255, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -50, -70)
+		:SetStat ("Firerate", 170, 280)
+		:SetStat ("Magazine", 230, 330)
+		:SetStat ("Accuracy", 170, 280)
+		:SetStat ("Damage", 170, 280)
+		:SetStat ("Kick", -170, -280)
+		:SetStat ("Range", 230, 330)
+	:SetTalents (4, 4)
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5134)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Halloween King Model"
+	:SetDesc "Truely the king of halloween, so let's party bitches."
+	:SetModel "models/player/zack/zackhalloween.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5135)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Scream Model"
+	:SetDesc "Please do not scream as loud as you can when wearing this model."
+	:SetModel "models/player/screamplayermodel/scream/scream.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5101)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Evil Clown Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/evil_clown.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5102)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Boar Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_boar.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5103)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "White Bunny Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_bunny.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5104)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gold Bunny Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_bunny_gold.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5105)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chicken Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_chicken.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5106)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Devil Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_devil_plastic.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5107)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Blue Doll Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_porcelain_doll_kabuki.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5108)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pumpkin Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_pumpkin.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5109)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Samurai Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_samurai.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5110)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bloody Sheep Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_sheep_bloody.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5111)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gold Sheep Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_sheep_gold.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5112)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sheep Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_sheep_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5113)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Skull Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_skull.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5114)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gold Skull Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_skull_gold.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5115)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Target Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_template.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5116)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Demo Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_demo_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5117)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Engineer Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_engi_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5118)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Heavy Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_heavy_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5119)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Medic Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_medic_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5120)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Pyro Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_pyro_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5121)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chains Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_chains.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5122)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dallas Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_dallas.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5123)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Scout Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_scout_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5124)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Hoxton Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_hoxton.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5125)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wolf Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_wolf.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5133)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pumpkin Head"
+	:SetDesc "An exclusive head mask from the Pumpkin Event."
+	:SetModel "models/gmod_tower/halloween_pumpkinhat.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5126)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Sniper Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_sniper_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5127)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Soldier Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_soldier_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5128)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "TF2 Spy Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tf2_spy_model.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5129)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tiki Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_tiki.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5130)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Zombie Fortune Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/facemask_zombie_fortune_plastic.mdl"
+	:SetCollection "Pumpkin Collection"
+
+mi.Item(5131)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Doll Facemask"
+	:SetDesc "An exclusive face mask from the Pumpkin Event."
+	:SetModel "models/player/holiday/facemasks/porcelain_doll.mdl"
+	:SetCollection "Pumpkin Collection"

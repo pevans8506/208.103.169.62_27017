@@ -1,0 +1,28 @@
+------------------------------------
+--
+-- Extinct IRL Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(42)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "T-Rex Model"
+	:SetDesc "Tyrannosaurus is a genus of coelurosaurian theropod dinosaur. The species Tyrannosaurus rex, often called T. rex or colloquially T-Rex, is one of the most well-represented of the large theropods. Tyrannosaurus lived throughout what is now western North America, on what was then an island continent known as Laramidia.."
+	:SetModel "models/moat/player/foohysaurusrex_fixed.mdl"
+	:SetCollection "Extinct IRL Collection"
+
+mi.Item(42)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "T-Rex Model"
+	:SetDesc "Tyrannosaurus is a genus of coelurosaurian theropod dinosaur. The species Tyrannosaurus rex, often called T. rex or colloquially T-Rex, is one of the most well-represented of the large theropods. Tyrannosaurus lived throughout what is now western North America, on what was then an island continent known as Laramidia.."
+	:SetModel "models/moat/player/foohysaurusrex_fixed.mdl"
+	:SetCollection "Extinct IRL Collection"

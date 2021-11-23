@@ -1,0 +1,445 @@
+------------------------------------
+--
+-- Goodie Bag 2 Collection
+--
+------------------------------------
+
+
+mi.Item(9901)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Goodie Bag #2"
+	:NotDroppable (true)
+	:SetColor {255, 0, 255}
+	:SetDesc "This box contains an item from the Valentine Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/chocolate_crate64.png"
+	:SetCollection "Goodie Bag 2 Collection"
+	:SetShop (444, true)
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(5138)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Haunting"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(51390)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Mystical"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(99900)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Moonlit"
+	:SetColor {163, 142, 142}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(96018)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Wailing"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90023)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Screaming"
+	:SetColor {59, 99, 126}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+		:SetTalent (2, "Mute")
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(5138)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Haunting"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(51390)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Mystical"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(99900)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Moonlit"
+	:SetColor {163, 142, 142}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(96018)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Wailing"
+	:SetColor {255, 0, 0}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90023)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Screaming"
+	:SetColor {59, 99, 126}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+		:SetTalent (2, "Mute")
+	:SetCollection "Goodie Bag 2 Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(90015)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Spectral"
+	:SetColor {105, 0, 131}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 20, 30)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 20, 30)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(5145)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Undead"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90020)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Howling"
+	:SetColor {128, 101, 135}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90015)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Spectral"
+	:SetColor {105, 0, 131}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Magazine", 20, 30)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 20, 30)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(5145)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Undead"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90020)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Howling"
+	:SetColor {128, 101, 135}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(90007)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Merciless"
+	:SetColor {194, 61, 52}
+	:SetEffect "glow"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90008)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Full Moon"
+	:SetColor {255, 255, 255}
+	:SetEffect "glow"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90012)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Seance"
+	:SetColor {255, 255, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90013)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Demonic"
+	:SetColor {255, 255, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90036)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Rathica"
+	:SetColor {80, 14, 14}
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_te_sr25"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 25, 35)
+		:SetStat ("Firerate", -20, 5)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90007)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Merciless"
+	:SetColor {194, 61, 52}
+	:SetEffect "glow"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90008)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Full Moon"
+	:SetColor {255, 255, 255}
+	:SetEffect "glow"
+	:SetStats (9, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90012)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Seance"
+	:SetColor {255, 255, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90013)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Demonic"
+	:SetColor {255, 255, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90036)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Rathica"
+	:SetColor {80, 14, 14}
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_te_sr25"
+	:SetStats (9, 9)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Damage", 25, 35)
+		:SetStat ("Firerate", -20, 5)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 2 Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(90002)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Sinister"
+	:SetColor {255, 255, 255}
+	:SetEffect "enchanted"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -3, -5)
+		:SetStat ("Firerate", 21, 32)
+		:SetStat ("Magazine", 23, 28)
+		:SetStat ("Accuracy", 15, 20)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Kick", -15, -28)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (4, 4)
+	:SetCollection "Goodie Bag 2 Collection"
+
+mi.Item(90002)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Sinister"
+	:SetColor {255, 255, 255}
+	:SetEffect "enchanted"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -3, -5)
+		:SetStat ("Firerate", 21, 32)
+		:SetStat ("Magazine", 23, 28)
+		:SetStat ("Accuracy", 15, 20)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Kick", -15, -28)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (4, 4)
+	:SetCollection "Goodie Bag 2 Collection"

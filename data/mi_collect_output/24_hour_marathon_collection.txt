@@ -1,0 +1,44 @@
+------------------------------------
+--
+-- 24 Hour Marathon Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(912)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Insomnious"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "24 Hour Marathon Collection"
+
+mi.Item(912)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Insomnious"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "24 Hour Marathon Collection"

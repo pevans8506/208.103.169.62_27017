@@ -1,0 +1,88 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28009 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28009 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+
+[moat_addons] lua/includes/extensions/string.lua:234: bad argument #1 to 'match' (string expected, got nil)
+  1. match - [C]:-1
+   2. Trim - lua/includes/extensions/string.lua:234
+    3. unknown - addons/moat_addons/lua/plugins/moat/modules/chat/sv_chat.lua:127
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+       6. include - [C]:-1
+        7. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | David > https://steamcommunity.com/profiles/76561198000172622
+[moat.gg] | Johnathan > https://steamcommunity.com/profiles/76561199001957012
+[moat.gg] | Mighty sex > https://steamcommunity.com/profiles/76561198171722466
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] sql failedDatabase 0x1acffa40Lost connection to MySQL server at 'reading initial communication packet', system error: 22
+MGA | MySQL connection failed: Lost connection to MySQL server at 'reading initial communication packet', system error: 22
+Events | MySQL connection failed: Lost connection to MySQL server at 'reading initial communication packet', system error: 22
+MSE | MySQL connection failed: Lost connection to MySQL server at 'reading initial communication packet', system error: 22
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:2337024003(18947)].
+VAC secure mode is activated.
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases

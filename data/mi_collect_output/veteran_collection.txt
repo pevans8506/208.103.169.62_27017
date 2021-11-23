@@ -1,0 +1,34 @@
+------------------------------------
+--
+-- Veteran Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(920)
+	:SetRarity (8)
+	:SetType "Effect"
+	:SetName "Tesla Effect"
+	:SetColor {0, 191, 255}
+	:SetEffect "electric"
+	:SetDesc "A special effect given to the very dedicated Tera TTT players that reach level 100."
+	:SetImage "https://tera.gg/ttt/misc/tesla_effect.png"
+	:SetModel "models/weapons/w_missile_closed.mdl"
+	:SetCollection "Veteran Collection"
+
+mi.Item(920)
+	:SetRarity (8)
+	:SetType "Effect"
+	:SetName "Tesla Effect"
+	:SetColor {0, 191, 255}
+	:SetEffect "electric"
+	:SetDesc "A special effect given to the very dedicated Tera TTT players that reach level 100."
+	:SetImage "https://tera.gg/ttt/misc/tesla_effect.png"
+	:SetModel "models/weapons/w_missile_closed.mdl"
+	:SetCollection "Veteran Collection"

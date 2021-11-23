@@ -1,0 +1,94 @@
+------------------------------------
+--
+-- Testing Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(10101)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Moat's"
+	:SetColor {255, 255, 0}
+	:SetEffect "fire"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -13)
+		:SetStat ("Firerate", 15, 30)
+		:SetStat ("Magazine", 30, 50)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 20, 30)
+		:SetStat ("Kick", -15, -30)
+		:SetStat ("Range", 40, 50)
+	:SetTalents (4, 4)
+	:SetCollection "Testing Collection"
+
+mi.Item(12)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "TalentTest"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -13)
+		:SetStat ("Firerate", 15, 30)
+		:SetStat ("Magazine", 30, 50)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 20, 30)
+		:SetStat ("Kick", -15, -30)
+		:SetStat ("Range", 40, 50)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Accurate")
+		:SetTalent (2, "Mute")
+		:SetTalent (3, "Inferno")
+	:SetCollection "Testing Collection"
+
+mi.Item(6119)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Test Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://cdn.notfound.tech/2198b5d9d5c8a1e35fe2a4c833556fd6.png"
+	:SetTexture "https://i.imgur.com/dvRkf9t.png"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Testing Collection"
+
+mi.Item(10101)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Moat's"
+	:SetColor {255, 255, 0}
+	:SetEffect "fire"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -13)
+		:SetStat ("Firerate", 15, 30)
+		:SetStat ("Magazine", 30, 50)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 20, 30)
+		:SetStat ("Kick", -15, -30)
+		:SetStat ("Range", 40, 50)
+	:SetTalents (4, 4)
+	:SetCollection "Testing Collection"
+
+mi.Item(12)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "TalentTest"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -13)
+		:SetStat ("Firerate", 15, 30)
+		:SetStat ("Magazine", 30, 50)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 20, 30)
+		:SetStat ("Kick", -15, -30)
+		:SetStat ("Range", 40, 50)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Accurate")
+		:SetTalent (2, "Mute")
+		:SetTalent (3, "Inferno")
+	:SetCollection "Testing Collection"

@@ -1,0 +1,24 @@
+------------------------------------
+--
+-- 15
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(6117)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Flesh Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/flesh.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/flesh.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "15"

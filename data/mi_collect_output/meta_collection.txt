@@ -1,0 +1,80 @@
+------------------------------------
+--
+-- Meta Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(17)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "VIP Token"
+	:SetDesc "Using this will grant VIP rank benefits permanently!."
+	:SetImage "https://tera.gg/ttt/misc/vip_token.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(75)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Vape Event Token"
+	:NotDroppable (true)
+	:SetDesc "Using this will drop every player on the server a Random Vape Item!."
+	:SetImage "https://tera.gg/ttt/misc/vape_event128.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(76)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Dola Event Token"
+	:NotDroppable (true)
+	:SetDesc "Using this will drop every player on the server the Dola Effect Item!."
+	:SetImage "https://tera.gg/ttt/misc/dola_drop_event.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(705)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "MVP Token"
+	:SetDesc "Using this will grant MVP rank benefits permanently!."
+	:SetImage "https://tera.gg/ttt/misc/mvp_token.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(17)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "VIP Token"
+	:SetDesc "Using this will grant VIP rank benefits permanently!."
+	:SetImage "https://tera.gg/ttt/misc/vip_token.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(75)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Vape Event Token"
+	:NotDroppable (true)
+	:SetDesc "Using this will drop every player on the server a Random Vape Item!."
+	:SetImage "https://tera.gg/ttt/misc/vape_event128.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(76)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Dola Event Token"
+	:NotDroppable (true)
+	:SetDesc "Using this will drop every player on the server the Dola Effect Item!."
+	:SetImage "https://tera.gg/ttt/misc/dola_drop_event.png"
+	:SetCollection "Meta Collection"
+
+mi.Item(705)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "MVP Token"
+	:SetDesc "Using this will grant MVP rank benefits permanently!."
+	:SetImage "https://tera.gg/ttt/misc/mvp_token.png"
+	:SetCollection "Meta Collection"

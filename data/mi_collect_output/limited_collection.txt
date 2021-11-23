@@ -1,0 +1,50 @@
+------------------------------------
+--
+-- Limited Collection
+--
+------------------------------------
+
+
+mi.Item(35)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Wild!"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 10, 20)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 2)
+		:SetTalent (1, "Wild! - Tier 1")
+		:SetTalent (2, "Wild! - Tier 2")
+		:SetTalent (3, "Wild! - Tier 3")
+	:SetCollection "Limited Collection"
+	:SetShop (59999, false, 'Add a random talent to your weapon after you get a kill!
+(Purchasing will give you a random "Wild" tier weapon)')
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(909)
+	:SetRarity (8)
+	:SetType "Special"
+	:SetName "Mega Vape"
+	:SetDesc "An exclusive collectors item. Causes BIG smoke every 30 minutes, just like a very expensive smoke grenade if you think about it."
+	:SetImage "https://tera.gg/ttt/misc/moat_vape.png"
+	:SetWeapon "weapon_vape_mega"
+	:SetCollection "Limited Collection"
+
+mi.Item(909)
+	:SetRarity (8)
+	:SetType "Special"
+	:SetName "Mega Vape"
+	:SetDesc "An exclusive collectors item. Causes BIG smoke every 30 minutes, just like a very expensive smoke grenade if you think about it."
+	:SetImage "https://tera.gg/ttt/misc/moat_vape.png"
+	:SetWeapon "weapon_vape_mega"
+	:SetCollection "Limited Collection"

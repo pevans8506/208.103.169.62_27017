@@ -1,0 +1,2461 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/gmcpanel-workshop-merged'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_dolls'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_nuketown'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_rivendell'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_teenroom'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28008 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28008 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/_dev/init.lua:3: attempt to index global 'yugh' (a nil value)
+  1. unknown - addons/moat_addons/lua/_dev/init.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/include.lua:13: attempt to index global 'yugh' (a nil value)
+  1. load - addons/moat_addons/lua/system/app/include.lua:13
+   2. unknown - addons/moat_addons/lua/system/app/include.lua:34
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/include.lua:7: attempt to index global 'yugh' (a nil value)
+  1. include - addons/moat_addons/lua/system/app/include.lua:7
+   2. Setup - addons/moat_addons/lua/system/app/app_mt.lua:71
+    3. unknown - addons/moat_addons/lua/system/app/ttt/app.lua:4
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+       6. include - [C]:-1
+        7. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/ttt/detours/sv_rounds.lua:117: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/system/app/ttt/detours/sv_rounds.lua:117
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/core/datastore.lua:65: attempt to call field 'sql' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/core/datastore.lua:65
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/assets/weapon_sounds.lua:3707: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/assets/weapon_sounds.lua:3707
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/forcemotd.lua:132: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/d3a/server/_commands/forcemotd.lua:132
+   2. include - [C]:-1
+    3. Load - addons/moat_addons/lua/plugins/d3a/server/sv_commands.lua:80
+     4. unknown - addons/moat_addons/lua/plugins/d3a/server/sv_commands.lua:90
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+        7. include - [C]:-1
+         8. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:191: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:191
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:85: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:85
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/prevent/init.lua:62: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/prevent/init.lua:62
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/chat/sv_logger.lua:20: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/chat/sv_logger.lua:20
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/deathmsgs/chatmsg/sv_notify.lua:3: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/deathmsgs/chatmsg/sv_notify.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/hit/sv_ahr.lua:176: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/hit/sv_ahr.lua:176
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/init.lua:54: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/init.lua:54
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/shared/sh_omegas.lua:181: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/shared/sh_omegas.lua:181
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/ass/paints/sh_testskin.lua:38: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/ass/paints/sh_testskin.lua:38
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/scoreboard/levels/sv_level_color.lua:43: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/scoreboard/levels/sv_level_color.lua:43
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/sessions/sv_servers.lua:18: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/sessions/sv_servers.lua:18
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/terrortown/hs_sound_sv.lua:3: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/terrortown/hs_sound_sv.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/terrortown/sv_buddy_damage.lua:11: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/terrortown/sv_buddy_damage.lua:11
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+Included TTT language file: brazilian_portuguese.lua
+Included TTT language file: chef.lua
+Included TTT language file: english.lua
+Included TTT language file: french.lua
+Included TTT language file: german.lua
+Included TTT language file: italian.lua
+Included TTT language file: japanese.lua
+Included TTT language file: portuguese.lua
+Included TTT language file: russian.lua
+Included TTT language file: simpchinese.lua
+Included TTT language file: spanish.lua
+Included TTT language file: swedish.lua
+Included TTT language file: tradchinese.lua
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+Error Index File for 'Weapons/v_crowbar.mdl' checksum -442225810 should be 1318145628
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+
+[moat_addons] addons/moat_addons/lua/entities/peace_sentry/init.lua:83: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/entities/peace_sentry/init.lua:83
+
+Trouble In Terrorist Town gamemode initializing...
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+MDLCache: Failed load of .VVD data for weapons\v_pot\v_pot.mdl
+MDLCache: Failed load of .VVD data for weapons\v_keyboard\v_keyboard.mdl
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 19:03:04 2021
+Events | MySQL connection established at Mon Nov 22 19:03:04 2021
+MSE | MySQL connection established at Mon Nov 22 19:03:04 2021
+MGA | MySQL connection established at Mon Nov 22 19:03:04 2021
+MySQL connection established at Mon Nov 22 19:03:04 2021
+Retrieving contracts
+Loaded global gamble chat
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:1583839239(18950)].
+VAC secure mode is activated.
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+Timer Failed! [HTTPLoadedCheck][@addons/moat_addons/lua/system/app/yugh/extensions/http.lua (line 52)]
+Retrieving contracts
+Failed to retrieve latest version of mysqloo9
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+Retrieving contracts
+[Rosé Tera.gg|2|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+
+[moat_addons] Warning! A net message (moat_killcard_kill) is already started! Discarding in favor of the new message! (TTT_Equipment)
+  1. SendEquipment - gamemodes/terrortown/gamemode/player_ext.lua:84
+   2. ResetEquipment - gamemodes/terrortown/gamemode/player_ext.lua:91
+    3. StripAll - gamemodes/terrortown/gamemode/player_ext.lua:130
+     4. unknown - gamemodes/terrortown/gamemode/player.lua:626
+      5. Kill - [C]:-1
+       6. force_spectate - gamemodes/terrortown/gamemode/traitor_state.lua:163
+        7. unknown - gamemodes/terrortown/gamemode/traitor_state.lua:177
+         8. xpcall - [C]:-1
+          9. unknown - addons/moat_addons/lua/system/app/core/detours/server/net.lua:58
+           10. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+Unknown stat key: d
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+deathwish has disconnected. (STEAM_0:1:157100235)
+Dropped deathwish from server (Disconnect by user.)
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+[Jadem Tera.gg|4|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - lua/includes/modules/hook.lua:84
+
+
+Retrieving contracts
+[Jadem Tera.gg|4|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Jadem has disconnected. (STEAM_0:1:218853807)
+Dropped Jadem from server (Disconnect by user.)
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] Warning! A net message (moat_killcard_kill) is already started! Discarding in favor of the new message! (TTT_Equipment)
+  1. SendEquipment - gamemodes/terrortown/gamemode/player_ext.lua:84
+   2. ResetEquipment - gamemodes/terrortown/gamemode/player_ext.lua:91
+    3. StripAll - gamemodes/terrortown/gamemode/player_ext.lua:130
+     4. unknown - gamemodes/terrortown/gamemode/player.lua:626
+      5. Kill - [C]:-1
+       6. force_spectate - gamemodes/terrortown/gamemode/traitor_state.lua:163
+        7. unknown - gamemodes/terrortown/gamemode/traitor_state.lua:177
+         8. xpcall - [C]:-1
+          9. unknown - addons/moat_addons/lua/system/app/core/detours/server/net.lua:58
+           10. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+Unknown stat key: d
+[deathwish|5|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/sv_moat_titles.lua:288: attempt to index a nil value
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function '__index'
+	addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/sv_moat_titles.lua:288: in function <addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/sv_moat_titles.lua:278>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+Retrieving contracts
+86.19.179.229:27005:  password failed.
+86.19.179.229:27005:  password failed.
+Retrieving contracts
+86.19.179.229:27005:  password failed.
+86.19.179.229:27005:  password failed.
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+86.19.179.229:27005:  password failed.
+Retrieving contracts
+86.19.179.229:27005:  password failed.
+86.19.179.229:27005:  password failed.
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "D12" connected (86.19.179.229:27005).
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Unknown command "bo"
+rcon from "208.103.169.62:36550": command "bo"
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+rcon from "208.103.169.62:36564": command "bot"
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+[deathwish|5|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/cl_moat_titles.lua:842: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. open_profile_card - addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/cl_moat_titles.lua:842
+    3. func - addons/moat_addons/lua/plugins/moat/modules/scoreboard/cl_moat_scoreboard.lua:163
+     4. DoClick - addons/moat_addons/lua/plugins/moat/modules/scoreboard/cl_moat_scoreboard.lua:107
+      5. OnMouseReleased - lua/vgui/dlabel.lua:237
+       6. unknown - addons/moat_addons/lua/plugins/moat/modules/gwen/cl_moat_skin.lua:1352
+
+
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/sv_moat_titles.lua:288: attempt to index a nil value
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function '__index'
+	addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/sv_moat_titles.lua:288: in function <addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/sv_moat_titles.lua:278>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+D12: i
+Retrieving contracts
+D12: dfdf
+deathwish: fuck
+'t' access required!
+Retrieving contracts
+deathwish: Fuck tera
+'t' access required!
+'t' access required!
+Retrieving contracts
+'t' access required!
+You to D12: hi
+deathwish to You: hi
+[D12|6|STEAM_0:0:238573055] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269: attempt to call global 'm_DrawFoundItem' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269
+   2. unknown - lua/includes/modules/concommand.lua:54
+
+
+Retrieving contracts
+[D12|6|STEAM_0:0:238573055] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269: attempt to call global 'm_DrawFoundItem' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269
+   2. unknown - lua/includes/modules/concommand.lua:54
+
+
+Retrieving contracts
+Retrieving contracts
+deathwish has disconnected. (STEAM_0:1:157100235)
+Dropped deathwish from server (Disconnect by user.)
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: attempt to call global 'Db' (a nil value)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function 'Db'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: in function 'SendDamagelog'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:165: in function <addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:164>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+[D12|6|STEAM_0:0:238573055] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Update - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107
+    3. DrawSettings - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:117
+     4. OpenMenu - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:94
+      5. Think - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:114
+       6. v - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:129
+        7. unknown - lua/includes/modules/hook.lua:84
+
+
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+Retrieving contracts
+[deathwish|8|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+Retrieving contracts
+Retrieving contracts
+addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: attempt to call global 'Db' (a nil value)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function 'Db'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: in function 'SendDamagelog'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:165: in function <addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:164>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+[D12|6|STEAM_0:0:238573055] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Update - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107
+    3. DrawSettings - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:117
+     4. OpenMenu - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:94
+      5. Think - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:114
+       6. v - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:129
+        7. unknown - lua/includes/modules/hook.lua:84
+
+
+Retrieving contracts
+addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: attempt to call global 'Db' (a nil value)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function 'Db'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: in function 'SendDamagelog'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:165: in function <addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:164>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+[deathwish|8|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Update - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107
+    3. DrawSettings - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:117
+     4. OpenMenu - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:94
+      5. Think - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:114
+       6. v - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:129
+        7. unknown - lua/includes/modules/hook.lua:84
+
+
+Retrieving contracts
+addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: attempt to call global 'Db' (a nil value)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function 'Db'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:104: in function 'SendDamagelog'
+	addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:165: in function <addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_damagelog.lua:164>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+rcon from "208.103.169.62:34366": command "ttt_roundrestart"
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+rcon from "208.103.169.62:34620": command "bot"
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+rcon from "208.103.169.62:34630": command "bot"
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+rcon from "208.103.169.62:34644": command "bot"
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+rcon from "208.103.169.62:34660": command "bot"
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+rcon from "208.103.169.62:34668": command "bot"
+Retrieving contracts
+rcon from "208.103.169.62:34878": command "ttt_roundrestart"
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts

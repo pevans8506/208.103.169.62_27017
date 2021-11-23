@@ -1,0 +1,1097 @@
+------------------------------------
+--
+-- Cosmetic Collection
+--
+------------------------------------
+
+
+mi.Item(157)
+	:SetRarity (3)
+	:SetType "Crate"
+	:SetName "Cosmetic Crate"
+	:SetDesc "This crate contains an item from the Cosmetic Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/cosmetic_crate64.png"
+	:SetCollection "Cosmetic Collection"
+	:SetShop (300, true)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(107)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Headphones"
+	:SetDesc "I can't hear you, I'm listeng to a game."
+	:SetModel "models/gmod_tower/headphones.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(137)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Klonoa Hat"
+	:SetDesc "Become the ultimate hipster."
+	:SetModel "models/lordvipes/klonoahat/klonoahat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(82)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Star Headband"
+	:SetDesc "You are amazing."
+	:SetModel "models/captainbigbutt/skeyler/hats/starband.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(107)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Headphones"
+	:SetDesc "I can't hear you, I'm listeng to a game."
+	:SetModel "models/gmod_tower/headphones.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(137)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Klonoa Hat"
+	:SetDesc "Become the ultimate hipster."
+	:SetModel "models/lordvipes/klonoahat/klonoahat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(82)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Star Headband"
+	:SetDesc "You are amazing."
+	:SetModel "models/captainbigbutt/skeyler/hats/starband.mdl"
+	:SetCollection "Cosmetic Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(95)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Bunny Ears"
+	:SetDesc "Hello there Mr Bunny."
+	:SetModel "models/captainbigbutt/skeyler/hats/bunny_ears.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(88)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Frog Hat"
+	:SetDesc "Ribbit ribbit bitch."
+	:SetModel "models/captainbigbutt/skeyler/hats/frog_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(135)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "General Pepper"
+	:SetDesc "Commander of the great and kind."
+	:SetModel "models/lordvipes/generalpepperhat/generalpepperhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(108)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Popcorn Bucket"
+	:SetDesc "Incoming racist joke."
+	:SetModel "models/gmod_tower/kfcbucket.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(143)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Kitty Hat"
+	:SetDesc "Aww so cute."
+	:SetModel "models/gmod_tower/toetohat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(116)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Party Hat"
+	:SetDesc "Raise the ruff."
+	:SetModel "models/gmod_tower/partyhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(81)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Straw Hat"
+	:SetDesc "Old McDonald had a farm."
+	:SetModel "models/captainbigbutt/skeyler/hats/strawhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(71)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Grandma Glasses"
+	:SetDesc "I hope these are big enough for you."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses04.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(110)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Lego Head"
+	:SetDesc "Everything is awesome."
+	:SetModel "models/gmod_tower/legohead.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(140)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Makar's Mask"
+	:SetDesc "That's a very nice leaf you have there."
+	:SetModel "models/lordvipes/makarmask/makarmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(69)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Stylish Glasses"
+	:SetDesc "Work those pretty little things gurl."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses02.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(95)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Bunny Ears"
+	:SetDesc "Hello there Mr Bunny."
+	:SetModel "models/captainbigbutt/skeyler/hats/bunny_ears.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(88)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Frog Hat"
+	:SetDesc "Ribbit ribbit bitch."
+	:SetModel "models/captainbigbutt/skeyler/hats/frog_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(135)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "General Pepper"
+	:SetDesc "Commander of the great and kind."
+	:SetModel "models/lordvipes/generalpepperhat/generalpepperhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(108)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Popcorn Bucket"
+	:SetDesc "Incoming racist joke."
+	:SetModel "models/gmod_tower/kfcbucket.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(143)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Kitty Hat"
+	:SetDesc "Aww so cute."
+	:SetModel "models/gmod_tower/toetohat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(116)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Party Hat"
+	:SetDesc "Raise the ruff."
+	:SetModel "models/gmod_tower/partyhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(81)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Straw Hat"
+	:SetDesc "Old McDonald had a farm."
+	:SetModel "models/captainbigbutt/skeyler/hats/strawhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(71)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Grandma Glasses"
+	:SetDesc "I hope these are big enough for you."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses04.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(110)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Lego Head"
+	:SetDesc "Everything is awesome."
+	:SetModel "models/gmod_tower/legohead.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(140)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Makar's Mask"
+	:SetDesc "That's a very nice leaf you have there."
+	:SetModel "models/lordvipes/makarmask/makarmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(69)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Stylish Glasses"
+	:SetDesc "Work those pretty little things gurl."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses02.mdl"
+	:SetCollection "Cosmetic Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(73)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Bear Hat"
+	:SetDesc "Now you will always have your teddy bear with you, in a hat form."
+	:SetModel "models/captainbigbutt/skeyler/hats/bear_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(132)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Black Mage Hat"
+	:SetDesc "Do you know what happens to a giant when it gets blasted with a fireball? The same thing that happens to everything else."
+	:SetModel "models/lordvipes/blackmage/blackmage_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(94)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Large Cat Ears"
+	:SetDesc "What big ears you have you majestic beast."
+	:SetModel "models/captainbigbutt/skeyler/hats/cat_ears.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(93)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Cat Hat"
+	:SetDesc "This does not give you 9 lives."
+	:SetModel "models/captainbigbutt/skeyler/hats/cat_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(87)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Heartband"
+	:SetDesc "Wear this if you have no friends and want people to love you."
+	:SetModel "models/captainbigbutt/skeyler/hats/heartband.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(111)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Link Hat"
+	:SetDesc "Hyeeeh kyaah hyaaah haa hyet haa haa jum jum haaa."
+	:SetModel "models/gmod_tower/linkhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(114)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Midna Hat"
+	:SetDesc "EPIC."
+	:SetModel "models/gmod_tower/midnahat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(142)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Red's Hat"
+	:SetDesc "Pokemon red hat."
+	:SetModel "models/lordvipes/redshat/redshat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(96)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "3D Glasses"
+	:SetDesc "The most practical way to get your head in the game."
+	:SetModel "models/gmod_tower/3dglasses.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(139)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Majora's Mask"
+	:SetDesc "It is a colorful mask."
+	:SetModel "models/lordvipes/majoramask/majoramask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(113)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Metaknight Mask"
+	:SetDesc "Where the fuck is Kirby."
+	:SetModel "models/gmod_tower/metaknight_mask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(115)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "No Face Mask"
+	:SetDesc "Where did your face go?."
+	:SetModel "models/gmod_tower/noface.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(70)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Shutter Glasses"
+	:SetDesc "The party is just getting started."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses03.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(122)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Snowboard Goggles"
+	:SetDesc "We don't need snow to wear these."
+	:SetModel "models/gmod_tower/snowboardgoggles.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(128)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Toro Mask"
+	:SetDesc ":3."
+	:SetModel "models/gmod_tower/toromask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(73)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Bear Hat"
+	:SetDesc "Now you will always have your teddy bear with you, in a hat form."
+	:SetModel "models/captainbigbutt/skeyler/hats/bear_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(132)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Black Mage Hat"
+	:SetDesc "Do you know what happens to a giant when it gets blasted with a fireball? The same thing that happens to everything else."
+	:SetModel "models/lordvipes/blackmage/blackmage_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(94)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Large Cat Ears"
+	:SetDesc "What big ears you have you majestic beast."
+	:SetModel "models/captainbigbutt/skeyler/hats/cat_ears.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(93)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Cat Hat"
+	:SetDesc "This does not give you 9 lives."
+	:SetModel "models/captainbigbutt/skeyler/hats/cat_hat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(87)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Heartband"
+	:SetDesc "Wear this if you have no friends and want people to love you."
+	:SetModel "models/captainbigbutt/skeyler/hats/heartband.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(111)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Link Hat"
+	:SetDesc "Hyeeeh kyaah hyaaah haa hyet haa haa jum jum haaa."
+	:SetModel "models/gmod_tower/linkhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(114)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Midna Hat"
+	:SetDesc "EPIC."
+	:SetModel "models/gmod_tower/midnahat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(142)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Red's Hat"
+	:SetDesc "Pokemon red hat."
+	:SetModel "models/lordvipes/redshat/redshat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(96)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "3D Glasses"
+	:SetDesc "The most practical way to get your head in the game."
+	:SetModel "models/gmod_tower/3dglasses.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(139)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Majora's Mask"
+	:SetDesc "It is a colorful mask."
+	:SetModel "models/lordvipes/majoramask/majoramask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(113)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Metaknight Mask"
+	:SetDesc "Where the fuck is Kirby."
+	:SetModel "models/gmod_tower/metaknight_mask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(115)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "No Face Mask"
+	:SetDesc "Where did your face go?."
+	:SetModel "models/gmod_tower/noface.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(70)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Shutter Glasses"
+	:SetDesc "The party is just getting started."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses03.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(122)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Snowboard Goggles"
+	:SetDesc "We don't need snow to wear these."
+	:SetModel "models/gmod_tower/snowboardgoggles.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(128)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Toro Mask"
+	:SetDesc ":3."
+	:SetModel "models/gmod_tower/toromask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(74)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Wooden Comb Afro"
+	:SetDesc "You're as OG as OG can get my black friend."
+	:SetModel "models/captainbigbutt/skeyler/hats/afro.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(98)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Baseball Cap"
+	:SetDesc "Never forget the GMod Tower games. May they rest in peace."
+	:SetModel "models/gmod_tower/baseballcap.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(92)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Cowboy Hat"
+	:SetDesc "It's hiiiigh nooon."
+	:SetModel "models/captainbigbutt/skeyler/hats/cowboyhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(91)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Deadmau5"
+	:SetDesc "A musicly talented deceased rodent."
+	:SetModel "models/captainbigbutt/skeyler/hats/deadmau5.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(138)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Luigi Hat"
+	:SetDesc "Taller and jumps higher than mario. Still doesn't get to be the main character. (no this does not change jump height)."
+	:SetModel "models/lordvipes/luigihat/luigihat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(77)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Mario Hat"
+	:SetDesc "Shut up you fat italian."
+	:SetModel "models/lordvipes/mariohat/mariohat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(117)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Pilgrim Hat"
+	:SetDesc "What is a Mayflower."
+	:SetModel "models/gmod_tower/pilgrimhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(121)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Seuss Hat"
+	:SetDesc "Thing 1 and Thing 2 are not a thing here."
+	:SetModel "models/gmod_tower/seusshat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(80)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Sun Hat"
+	:SetDesc "It has flowers and protects you from the sun."
+	:SetModel "models/captainbigbutt/skeyler/hats/sunhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(125)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Team Rocket Hat"
+	:SetDesc "Prepare for trouble, and make it double!."
+	:SetModel "models/gmod_tower/teamrockethat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(127)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Top Hat"
+	:SetDesc "If only you had a suit."
+	:SetModel "models/gmod_tower/tophat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(130)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Witch Hat"
+	:SetDesc "Mwahahaha."
+	:SetModel "models/gmod_tower/witchhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(77)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Andross Mask"
+	:SetDesc "I've been waiting for you, Star Fox. You know that I control the galaxy. It's foolish to come against me. You will die just like your father."
+	:SetModel "models/gmod_tower/androssmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(72)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "El Mustache"
+	:SetDesc "You sir are the most handsome and dashing man in all of the server."
+	:SetModel "models/captainbigbutt/skeyler/accessories/mustache.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(103)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Jason Mask"
+	:SetDesc "Boo."
+	:SetModel "models/gmod_tower/halloween_jasonmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(124)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Star Glasses"
+	:SetDesc "Too good for regular glasses."
+	:SetModel "models/gmod_tower/starglasses.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(74)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Wooden Comb Afro"
+	:SetDesc "You're as OG as OG can get my black friend."
+	:SetModel "models/captainbigbutt/skeyler/hats/afro.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(98)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Baseball Cap"
+	:SetDesc "Never forget the GMod Tower games. May they rest in peace."
+	:SetModel "models/gmod_tower/baseballcap.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(92)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Cowboy Hat"
+	:SetDesc "It's hiiiigh nooon."
+	:SetModel "models/captainbigbutt/skeyler/hats/cowboyhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(91)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Deadmau5"
+	:SetDesc "A musicly talented deceased rodent."
+	:SetModel "models/captainbigbutt/skeyler/hats/deadmau5.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(138)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Luigi Hat"
+	:SetDesc "Taller and jumps higher than mario. Still doesn't get to be the main character. (no this does not change jump height)."
+	:SetModel "models/lordvipes/luigihat/luigihat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(77)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Mario Hat"
+	:SetDesc "Shut up you fat italian."
+	:SetModel "models/lordvipes/mariohat/mariohat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(117)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Pilgrim Hat"
+	:SetDesc "What is a Mayflower."
+	:SetModel "models/gmod_tower/pilgrimhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(121)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Seuss Hat"
+	:SetDesc "Thing 1 and Thing 2 are not a thing here."
+	:SetModel "models/gmod_tower/seusshat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(80)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Sun Hat"
+	:SetDesc "It has flowers and protects you from the sun."
+	:SetModel "models/captainbigbutt/skeyler/hats/sunhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(125)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Team Rocket Hat"
+	:SetDesc "Prepare for trouble, and make it double!."
+	:SetModel "models/gmod_tower/teamrockethat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(127)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Top Hat"
+	:SetDesc "If only you had a suit."
+	:SetModel "models/gmod_tower/tophat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(130)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Witch Hat"
+	:SetDesc "Mwahahaha."
+	:SetModel "models/gmod_tower/witchhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(77)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Andross Mask"
+	:SetDesc "I've been waiting for you, Star Fox. You know that I control the galaxy. It's foolish to come against me. You will die just like your father."
+	:SetModel "models/gmod_tower/androssmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(72)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "El Mustache"
+	:SetDesc "You sir are the most handsome and dashing man in all of the server."
+	:SetModel "models/captainbigbutt/skeyler/accessories/mustache.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(103)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Jason Mask"
+	:SetDesc "Boo."
+	:SetModel "models/gmod_tower/halloween_jasonmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(124)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Star Glasses"
+	:SetDesc "Too good for regular glasses."
+	:SetModel "models/gmod_tower/starglasses.mdl"
+	:SetCollection "Cosmetic Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(131)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Billy Hatcher Hat"
+	:SetDesc "Good Morning."
+	:SetModel "models/lordvipes/billyhatcherhat/billyhatcherhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(106)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Headcrab"
+	:SetDesc "You will be eaten alive."
+	:SetModel "models/gmod_tower/headcrabhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(104)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Nightmare Hat"
+	:SetDesc "Jack is on your head..."
+	:SetModel "models/gmod_tower/halloween_nightmarehat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(78)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Gangsta Hat"
+	:SetDesc "sup fam."
+	:SetModel "models/captainbigbutt/skeyler/hats/zhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(99)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Batman Mask"
+	:SetDesc "Where the fuck is Rachel."
+	:SetModel "models/gmod_tower/batmanmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(100)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Bomberman Helmet"
+	:SetDesc "FOR THE GLORY OF ALLAH!!!"
+	:SetModel "models/gmod_tower/bombermanhelmet.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(133)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Cubone Skull"
+	:SetDesc "I choose you."
+	:SetModel "models/lordvipes/cuboneskull/cuboneskull.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(136)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Keaton Mask"
+	:SetDesc "What did the fox say."
+	:SetModel "models/lordvipes/keatonmask/keatonmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(84)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Scary Pumpkin"
+	:SetDesc "Shine bright like a pumpkin."
+	:SetModel "models/captainbigbutt/skeyler/hats/pumpkin.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(119)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Samus Helmet"
+	:SetDesc "It's a girl."
+	:SetModel "models/gmod_tower/samushelmet.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(77)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Servbot Head"
+	:SetDesc "Smile."
+	:SetModel "models/lordvipes/servbothead/servbothead.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(131)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Billy Hatcher Hat"
+	:SetDesc "Good Morning."
+	:SetModel "models/lordvipes/billyhatcherhat/billyhatcherhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(106)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Headcrab"
+	:SetDesc "You will be eaten alive."
+	:SetModel "models/gmod_tower/headcrabhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(104)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Nightmare Hat"
+	:SetDesc "Jack is on your head..."
+	:SetModel "models/gmod_tower/halloween_nightmarehat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(78)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Gangsta Hat"
+	:SetDesc "sup fam."
+	:SetModel "models/captainbigbutt/skeyler/hats/zhat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(99)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Batman Mask"
+	:SetDesc "Where the fuck is Rachel."
+	:SetModel "models/gmod_tower/batmanmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(100)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Bomberman Helmet"
+	:SetDesc "FOR THE GLORY OF ALLAH!!!"
+	:SetModel "models/gmod_tower/bombermanhelmet.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(133)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Cubone Skull"
+	:SetDesc "I choose you."
+	:SetModel "models/lordvipes/cuboneskull/cuboneskull.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(136)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Keaton Mask"
+	:SetDesc "What did the fox say."
+	:SetModel "models/lordvipes/keatonmask/keatonmask.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(84)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Scary Pumpkin"
+	:SetDesc "Shine bright like a pumpkin."
+	:SetModel "models/captainbigbutt/skeyler/hats/pumpkin.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(119)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Samus Helmet"
+	:SetDesc "It's a girl."
+	:SetModel "models/gmod_tower/samushelmet.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(77)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Servbot Head"
+	:SetDesc "Smile."
+	:SetModel "models/lordvipes/servbothead/servbothead.mdl"
+	:SetCollection "Cosmetic Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(109)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "King Boo's Crown"
+	:SetDesc "Boo, bitch."
+	:SetModel "models/gmod_tower/king_boos_crown.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(85)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Monocle"
+	:SetDesc "You probably think you're smart now. That's incorrect."
+	:SetModel "models/captainbigbutt/skeyler/accessories/monocle.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(83)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Santa Hat"
+	:SetDesc "It's Christmas."
+	:SetModel "models/gmod_tower/santahat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(123)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Sombrero"
+	:SetDesc "Arriba."
+	:SetModel "models/gmod_tower/sombrero.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(129)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Turkey"
+	:SetDesc "Stick this hot thing on your head."
+	:SetModel "models/gmod_tower/turkey.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(85)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Monocle"
+	:SetDesc "You probably think you're smart now. That's incorrect."
+	:SetModel "models/captainbigbutt/skeyler/accessories/monocle.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(118)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Rubiks Cube"
+	:SetDesc "You can't solve this one."
+	:SetModel "models/gmod_tower/rubikscube.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(109)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "King Boo's Crown"
+	:SetDesc "Boo, bitch."
+	:SetModel "models/gmod_tower/king_boos_crown.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(85)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Monocle"
+	:SetDesc "You probably think you're smart now. That's incorrect."
+	:SetModel "models/captainbigbutt/skeyler/accessories/monocle.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(83)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Santa Hat"
+	:SetDesc "It's Christmas."
+	:SetModel "models/gmod_tower/santahat.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(123)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Sombrero"
+	:SetDesc "Arriba."
+	:SetModel "models/gmod_tower/sombrero.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(129)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Turkey"
+	:SetDesc "Stick this hot thing on your head."
+	:SetModel "models/gmod_tower/turkey.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(85)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Monocle"
+	:SetDesc "You probably think you're smart now. That's incorrect."
+	:SetModel "models/captainbigbutt/skeyler/accessories/monocle.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(118)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Rubiks Cube"
+	:SetDesc "You can't solve this one."
+	:SetModel "models/gmod_tower/rubikscube.mdl"
+	:SetCollection "Cosmetic Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(144)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Viewtiful Joe Helmet"
+	:SetDesc "Shoot em up."
+	:SetModel "models/lordvipes/viewtifuljoehelmet/viewtifuljoehelmet.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(134)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Tomas Helmet"
+	:SetDesc "Hit that."
+	:SetModel "models/lordvipes/daftpunk/thomas.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(144)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Viewtiful Joe Helmet"
+	:SetDesc "Shoot em up."
+	:SetModel "models/lordvipes/viewtifuljoehelmet/viewtifuljoehelmet.mdl"
+	:SetCollection "Cosmetic Collection"
+
+mi.Item(134)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Tomas Helmet"
+	:SetDesc "Hit that."
+	:SetModel "models/lordvipes/daftpunk/thomas.mdl"
+	:SetCollection "Cosmetic Collection"

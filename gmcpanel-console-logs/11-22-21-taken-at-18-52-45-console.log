@@ -1,0 +1,350 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/gmcpanel-workshop-merged'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_dolls'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_nuketown'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_rivendell'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_teenroom'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28008 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28008 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/_dev/init.lua:3: attempt to index global 'yugh' (a nil value)
+  1. unknown - addons/moat_addons/lua/_dev/init.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/include.lua:13: attempt to index global 'yugh' (a nil value)
+  1. load - addons/moat_addons/lua/system/app/include.lua:13
+   2. unknown - addons/moat_addons/lua/system/app/include.lua:34
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/include.lua:7: attempt to index global 'yugh' (a nil value)
+  1. include - addons/moat_addons/lua/system/app/include.lua:7
+   2. Setup - addons/moat_addons/lua/system/app/app_mt.lua:71
+    3. unknown - addons/moat_addons/lua/system/app/ttt/app.lua:4
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+       6. include - [C]:-1
+        7. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/ttt/detours/sv_rounds.lua:117: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/system/app/ttt/detours/sv_rounds.lua:117
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/system/app/core/datastore.lua:65: attempt to call field 'sql' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/core/datastore.lua:65
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/assets/weapon_sounds.lua:3707: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/assets/weapon_sounds.lua:3707
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/forcemotd.lua:132: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/d3a/server/_commands/forcemotd.lua:132
+   2. include - [C]:-1
+    3. Load - addons/moat_addons/lua/plugins/d3a/server/sv_commands.lua:80
+     4. unknown - addons/moat_addons/lua/plugins/d3a/server/sv_commands.lua:90
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+        7. include - [C]:-1
+         8. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:191: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:191
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:85: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:85
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/prevent/init.lua:62: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/prevent/init.lua:62
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/chat/sv_logger.lua:20: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/chat/sv_logger.lua:20
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/deathmsgs/chatmsg/sv_notify.lua:3: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/deathmsgs/chatmsg/sv_notify.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/hit/sv_ahr.lua:176: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/hit/sv_ahr.lua:176
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/init.lua:54: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/init.lua:54
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/shared/sh_omegas.lua:181: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/shared/sh_omegas.lua:181
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/ass/paints/sh_testskin.lua:38: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/ass/paints/sh_testskin.lua:38
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/scoreboard/levels/sv_level_color.lua:43: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/scoreboard/levels/sv_level_color.lua:43
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/sessions/sv_servers.lua:18: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/sessions/sv_servers.lua:18
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/terrortown/hs_sound_sv.lua:3: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/terrortown/hs_sound_sv.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/terrortown/sv_buddy_damage.lua:11: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/terrortown/sv_buddy_damage.lua:11
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+     4. include - [C]:-1
+      5. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+Included TTT language file: brazilian_portuguese.lua
+Included TTT language file: chef.lua
+Included TTT language file: english.lua
+Included TTT language file: french.lua
+Included TTT language file: german.lua
+Included TTT language file: italian.lua
+Included TTT language file: japanese.lua
+Included TTT language file: portuguese.lua
+Included TTT language file: russian.lua
+Included TTT language file: simpchinese.lua
+Included TTT language file: spanish.lua
+Included TTT language file: swedish.lua
+Included TTT language file: tradchinese.lua
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+Error Index File for 'Weapons/v_crowbar.mdl' checksum -442225810 should be 1318145628
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+
+[moat_addons] addons/moat_addons/lua/entities/peace_sentry/init.lua:83: attempt to call global 'hook' (a table value)
+  1. unknown - addons/moat_addons/lua/entities/peace_sentry/init.lua:83
+
+Trouble In Terrorist Town gamemode initializing...
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+MDLCache: Failed load of .VVD data for weapons\v_pot\v_pot.mdl
+MDLCache: Failed load of .VVD data for weapons\v_keyboard\v_keyboard.mdl
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 18:48:19 2021
+Events | MySQL connection established at Mon Nov 22 18:48:19 2021
+MSE | MySQL connection established at Mon Nov 22 18:48:19 2021
+MGA | MySQL connection established at Mon Nov 22 18:48:19 2021
+MySQL connection established at Mon Nov 22 18:48:19 2021
+Retrieving contracts
+Loaded global gamble chat
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:1501694979(18950)].
+VAC secure mode is activated.
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+Timer Failed! [HTTPLoadedCheck][@addons/moat_addons/lua/system/app/yugh/extensions/http.lua (line 52)]
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+Retrieving contracts
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6: attempt to call field 'mysql' (a nil value)
+  1. GetTradeBanLength - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:6
+   2. v - addons/moat_addons/lua/plugins/d3a/server/_commands/trade_ban.lua:16
+    3. unknown - lua/includes/modules/hook.lua:84
+
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60: attempt to call field 'mysql' (a nil value)
+  1. LoadPlayerInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_checkpass.lua:60
+   2. LoadInfo - addons/moat_addons/lua/plugins/d3a/server/sv_player_extension.lua:28
+    3. v - addons/moat_addons/lua/plugins/d3a/server/sv_player.lua:19
+     4. unknown - lua/includes/modules/hook.lua:84
+
+Retrieving contracts
+Retrieving contracts
+[Rosé Tera.gg|3|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+Retrieving contracts
+Retrieving contracts
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+Retrieving contracts

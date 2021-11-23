@@ -1,0 +1,30 @@
+------------------------------------
+--
+-- Easter 2020 Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(3559)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Pot Head"
+	:SetDesc "Don't forget to water your flowers."
+	:SetImage "https://i.imgur.com/p01XsLz.png"
+	:SetModel "models/moat/mg_hat_easterflowers.mdl"
+	:SetCollection "Easter 2020 Collection"
+
+mi.Item(3559)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Pot Head"
+	:SetDesc "Don't forget to water your flowers."
+	:SetImage "https://i.imgur.com/p01XsLz.png"
+	:SetModel "models/moat/mg_hat_easterflowers.mdl"
+	:SetCollection "Easter 2020 Collection"

@@ -1,0 +1,16 @@
+------------------------------------
+--
+-- Supreme Collection
+--
+------------------------------------
+
+
+mi.Item(10)
+	:SetRarity (0)
+	:SetType "Usable"
+	:SetName "Traitor Token"
+	:NotDroppable (true)
+	:SetDesc "Use this item during the preparing phase to be guaranteed to be a Traitor next round."
+	:SetImage "https://tera.gg/ttt/misc/t_token.png"
+	:SetCollection "Supreme Collection"
+	:SetShop (75000, false, 1575878400, 'Become a Traitor on the next round!')

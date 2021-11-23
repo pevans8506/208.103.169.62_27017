@@ -1,0 +1,16 @@
+------------------------------------
+--
+-- Gift Collection
+--
+------------------------------------
+
+
+mi.Item(7820)
+	:SetRarity (0)
+	:SetType "Usable"
+	:SetName "Empty Gift Package"
+	:SetDesc "Right click to insert an item into the gift package."
+	:SetImage "https://tera.gg/ttt/misc/empty_gift64.png"
+	:SetItemCheck (13)
+	:SetCollection "Gift Collection"
+	:SetShop (5000, true)

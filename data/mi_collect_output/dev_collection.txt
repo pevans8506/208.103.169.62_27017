@@ -1,0 +1,46 @@
+------------------------------------
+--
+-- Dev Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(222)
+	:SetRarity (8)
+	:SetType "Effect"
+	:SetName "Developer Effect"
+	:SetDesc "Time for the dev to get sxy."
+	:SetModel "models/props_c17/tools_wrench01a.mdl"
+	:SetEffectColor {250, 255, 0}
+	:SetCollection "Dev Collection"
+
+mi.Item(90)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "Developer Hat"
+	:SetDesc "This is an exclusive hat given to people that have created content for MG."
+	:SetModel "models/captainbigbutt/skeyler/hats/devhat.mdl"
+	:SetCollection "Dev Collection"
+
+mi.Item(222)
+	:SetRarity (8)
+	:SetType "Effect"
+	:SetName "Developer Effect"
+	:SetDesc "Time for the dev to get sxy."
+	:SetModel "models/props_c17/tools_wrench01a.mdl"
+	:SetEffectColor {250, 255, 0}
+	:SetCollection "Dev Collection"
+
+mi.Item(90)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "Developer Hat"
+	:SetDesc "This is an exclusive hat given to people that have created content for MG."
+	:SetModel "models/captainbigbutt/skeyler/hats/devhat.mdl"
+	:SetCollection "Dev Collection"

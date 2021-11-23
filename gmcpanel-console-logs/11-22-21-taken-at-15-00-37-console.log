@@ -1,0 +1,3414 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/gmcpanel-workshop-merged'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_dolls'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_nuketown'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_rivendell'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_teenroom'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28008 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28008 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 14:28:57 2021
+MGA | MySQL connection established at Mon Nov 22 14:28:57 2021
+MySQL connection established at Mon Nov 22 14:28:57 2021
+Events | MySQL connection established at Mon Nov 22 14:28:57 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 14:28:57 2021
+Retrieving contracts
+Loaded global gamble chat
+Loaded player_servers ID: 1
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:846682119(18949)].
+VAC secure mode is activated.
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Retrieving contracts
+Retrieving contracts
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+Retrieving contracts
+changelevel <levelname> : continue game on a new level
+rcon from "208.103.169.62:40590": command "Changelevel"
+Retrieving contracts
+Retrieving contracts
+TTT initializing convar settings...
+Rosé Tera.gg last joined 2 hours ago.
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Steam API Fail: unsuccessful
+Inventory sent in 0.00044832800000449 secs to Rosé Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+lottery_sent
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+You need more players before you can rock the vote!
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Unknown command "Levelchange"
+rcon from "208.103.169.62:41114": command "Levelchange ttt_mc_rivendell.bsp"
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+CModelLoader::Map_IsValid:  No such map 'maps/ttt_mc_rivendell.bsp.bsp'
+changelevel failed: ttt_mc_rivendell.bsp not found
+rcon from "208.103.169.62:41290": command "Changelevel ttt_mc_rivendell.bsp"
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Usage: Map [string:Map] 
+rcon from "208.103.169.62:41650": command "Mga map"
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Usage: Gift [string:Name/SteamID] [number:Support Credits] 
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Rosé Tera.gg has sent a gift to Rosé Tera.gg (STEAM_0:1:444117997) that has 99999 support credits!
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+MGA | STEAM_0:1:218853807 | Connecting
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Jadem Tera.gg last joined 3 hours ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00036236699997971 secs to Jadem Tera.gg
+lottery_sent
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:03.10 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:03.18 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:03.34 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:03.42 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:03.50 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:03.58 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:03.66 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:03.66 - KILL:	 Jadem Tera.gg [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Jadem Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[ERROR] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (TTT_Role)
+  1. SendPlayerRoles - gamemodes/terrortown/gamemode/traitor_state.lua:21
+   2. unknown - gamemodes/terrortown/gamemode/traitor_state.lua:107
+
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: 00:02.64 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 17 dmg
+ServerLog: 00:03.82 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 17 dmg
+ServerLog: 00:03.98 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 17 dmg
+ServerLog: 00:04.06 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 17 dmg
+ServerLog: 00:04.14 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 17 dmg
+ServerLog: 00:04.46 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 17 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:04.46 - KILL:	 Jadem Tera.gg [traitor] killed Rosé Tera.gg [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+Inventory saved for Jadem Tera.gg
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:01.28 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 49 dmg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:01.36 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 49 dmg
+ServerLog: 00:01.44 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 49 dmg
+ServerLog: 00:01.44 - KILL:	 Rosé Tera.gg [traitor] killed Jadem Tera.gg [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+[Rosé Tera.gg|2|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Inventory saved for Rosé Tera.gg
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:319: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:319: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:188: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:176>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Inventory saved for Jadem Tera.gg
+MGA | 98.209.140.9 | Diamondback (76561198990174692 PLAYER) | 
+98.209.140.9:27005:  password failed.
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Client "Diamondback" connected (98.209.140.9:27005).
+MGA | STEAM_0:0:514954482 | Connecting for the first time.
+Retrieving contracts
+Rosé Tera.gg last joined 18 seconds ago.
+Inventory saved for Jadem Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for Jadem Tera.gg
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+Inventory sent in 0.00065852700004143 secs to Rosé Tera.gg
+lottery_sent
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:03.44 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 43 dmg
+ServerLog: 00:03.44 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 43 dmg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+ServerLog: 00:03.52 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 43 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:03.52 - KILL:	 Jadem Tera.gg [traitor] killed Rosé Tera.gg [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Inventory saved for Rosé Tera.gg
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637610453, 76561198848501723, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:30.02 - KILL:	 Rosé Tera.gg [traitor] killed Rosé Tera.gg [traitor]
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+Inventory saved for Bot01
+Inventory saved for Bot02
+Inventory saved for Bot03
+Inventory saved for Bot04
+Inventory saved for Bot05
+Inventory saved for Bot06
+Inventory saved for Bot07
+Inventory saved for Bot08
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+Diamondback has joined for the first time.
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (MOAT_VERIFY_CRATE)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:51
+   2. xpcall - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/core/detours/server/net.lua:58
+     4. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+Unknown stat key: o
+Inventory saved for Diamondback
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+[Diamondback|5|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Diamondback|5|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.0012735000000248 secs to Diamondback
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+lottery_sent
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:38: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:6>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Diamondback has a health station!
+Bot02 has a health station!
+Bot01 has a health station!
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+ServerLog: 00:06.54 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 46 dmg
+ServerLog: 00:06.58 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 19 dmg
+ServerLog: 00:06.74 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 19 dmg
+ServerLog: 00:06.82 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 19 dmg
+ServerLog: 00:06.90 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 10 dmg
+ServerLog: 00:06.96 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 11 dmg
+ServerLog: 00:06.98 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 51 dmg
+ServerLog: 00:07.04 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 11 dmg
+ServerLog: 00:07.24 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 46 dmg
+ServerLog: 00:07.24 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 46 dmg
+ServerLog: 00:07.38 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 10 dmg
+ServerLog: 00:07.70 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 19 dmg
+ServerLog: 00:07.70 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 18 dmg
+ServerLog: 00:07.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 20 dmg
+ServerLog: 00:07.76 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 17 dmg
+ServerLog: 00:07.78 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 19 dmg
+ServerLog: 00:07.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 20 dmg
+ServerLog: 00:07.92 - KILL:	 Rosé Tera.gg [traitor] killed Jadem Tera.gg [innocent]
+ServerLog: 00:08.56 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 20 dmg
+ServerLog: 00:08.88 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 53 dmg
+ServerLog: 00:08.80 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 46 dmg
+ServerLog: 00:08.80 - KILL:	 Rosé Tera.gg [traitor] killed Bot03 [innocent]
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 6 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 11 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 11 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 11 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 11 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 11 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 6 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 11 dmg
+ServerLog: 00:10.28 - DMG: 	 Diamondback [innocent] damaged Rosé Tera.gg [traitor] for 6 dmg
+ServerLog: 00:11.26 - KILL:	 Diamondback [innocent] killed Diamondback [innocent]
+Retrieving contracts
+ServerLog: 00:14.58 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot08 [innocent] for 218 dmg
+ServerLog: 00:14.58 - KILL:	 Rosé Tera.gg [traitor] killed Bot08 [innocent]
+ServerLog: 00:16.68 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot06 [innocent] for 218 dmg
+ServerLog: 00:16.68 - KILL:	 Rosé Tera.gg [traitor] killed Bot06 [innocent]
+ServerLog: 00:19.56 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot04 [innocent] for 218 dmg
+ServerLog: 00:19.56 - KILL:	 Rosé Tera.gg [traitor] killed Bot04 [innocent]
+ServerLog: 00:21.18 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot02 [innocent] for 218 dmg
+ServerLog: 00:21.18 - KILL:	 Rosé Tera.gg [traitor] killed Bot02 [innocent]
+Retrieving contracts
+ServerLog: 00:24.54 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot01 [innocent] for 218 dmg
+ServerLog: 00:24.54 - KILL:	 Rosé Tera.gg [traitor] killed Bot01 [innocent]
+ServerLog: 00:25.86 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot05 [innocent] for 218 dmg
+ServerLog: 00:25.86 - KILL:	 Rosé Tera.gg [traitor] killed Bot05 [innocent]
+ServerLog: 00:28.20 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot07 [innocent] for 218 dmg
+ServerLog: 00:28.20 - KILL:	 Rosé Tera.gg [traitor] killed Bot07 [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+ServerLog: 00:05.48 - DMG: 	 Rosé Tera.gg [traitor] damaged Diamondback [detective] for 42 dmg
+ServerLog: 00:05.50 - DMG: 	 Rosé Tera.gg [traitor] damaged Diamondback [detective] for 42 dmg
+ServerLog: 00:05.66 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - DMG: 	 Diamondback [detective] damaged Bot06 [innocent] for 12 dmg
+ServerLog: 00:06.72 - KILL:	 Diamondback [detective] killed Bot06 [innocent]
+ServerLog: 00:07.06 - DMG: 	 Rosé Tera.gg [traitor] damaged Diamondback [detective] for 42 dmg
+ServerLog: 00:07.06 - KILL:	 Rosé Tera.gg [traitor] killed Diamondback [detective]
+Inventory saved for Rosé Tera.gg
+ServerLog: 00:09.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 12 dmg
+ServerLog: 00:09.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 12 dmg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+ServerLog: 00:14.20 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 22 dmg
+ServerLog: 00:14.36 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 12 dmg
+ServerLog: 00:14.44 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 12 dmg
+ServerLog: 00:14.50 - DMG: 	 Rosé Tera.gg [traitor] damaged Jadem Tera.gg [innocent] for 60 dmg
+ServerLog: 00:14.50 - KILL:	 Rosé Tera.gg [traitor] killed Jadem Tera.gg [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:17.20 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot08 [innocent] for 12 dmg
+ServerLog: 00:17.36 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot08 [innocent] for 22 dmg
+ServerLog: 00:17.44 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot08 [innocent] for 12 dmg
+ServerLog: 00:17.52 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot08 [innocent] for 61 dmg
+ServerLog: 00:17.52 - KILL:	 Rosé Tera.gg [traitor] killed Bot08 [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:27.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot04 [innocent] for 59 dmg
+ServerLog: 00:27.86 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot04 [innocent] for 59 dmg
+ServerLog: 00:27.86 - KILL:	 Rosé Tera.gg [traitor] killed Bot04 [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:32.62 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot05 [innocent] for 59 dmg
+ServerLog: 00:32.70 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot05 [innocent] for 59 dmg
+ServerLog: 00:32.70 - KILL:	 Rosé Tera.gg [traitor] killed Bot05 [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: 00:35.90 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot01 [innocent] for 59 dmg
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:36.22 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot01 [innocent] for 59 dmg
+ServerLog: 00:36.22 - KILL:	 Rosé Tera.gg [traitor] killed Bot01 [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: 00:37.80 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot02 [innocent] for 24 dmg
+ServerLog: 00:37.88 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot02 [innocent] for 59 dmg
+ServerLog: 00:38.12 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot02 [innocent] for 59 dmg
+ServerLog: 00:38.12 - KILL:	 Rosé Tera.gg [traitor] killed Bot02 [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:39.70 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 24 dmg
+ServerLog: 00:39.86 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 59 dmg
+ServerLog: 00:40.02 - DMG: 	 Rosé Tera.gg [traitor] damaged Bot03 [innocent] for 59 dmg
+ServerLog: 00:40.02 - KILL:	 Rosé Tera.gg [traitor] killed Bot03 [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+[Rosé Tera.gg|4|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:03.06 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot08 [innocent] for 19 dmg
+ServerLog: 00:03.30 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot08 [innocent] for 53 dmg
+ServerLog: 00:03.38 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot08 [innocent] for 53 dmg
+ServerLog: 00:03.38 - KILL:	 Jadem Tera.gg [traitor] killed Bot08 [innocent]
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+ServerLog: 00:04.18 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot02 [innocent] for 53 dmg
+ServerLog: 00:04.12 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot02 [innocent] for 50 dmg
+ServerLog: 00:04.12 - KILL:	 Jadem Tera.gg [traitor] killed Bot02 [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:05.62 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot04 [innocent] for 53 dmg
+ServerLog: 00:05.58 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot04 [innocent] for 50 dmg
+ServerLog: 00:05.58 - KILL:	 Jadem Tera.gg [traitor] killed Bot04 [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:06.58 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 19 dmg
+ServerLog: 00:06.66 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 19 dmg
+ServerLog: 00:06.74 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 19 dmg
+ServerLog: 00:06.82 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 19 dmg
+ServerLog: 00:06.98 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 19 dmg
+ServerLog: 00:07.06 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 19 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:07.06 - KILL:	 Jadem Tera.gg [traitor] killed Rosé Tera.gg [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:07.74 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot05 [detective] for 37 dmg
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+ServerLog: 00:10.20 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot05 [detective] for 35 dmg
+ServerLog: 00:10.34 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot05 [detective] for 37 dmg
+ServerLog: 00:10.34 - KILL:	 Jadem Tera.gg [traitor] killed Bot05 [detective]
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:11.00 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot03 [innocent] for 50 dmg
+ServerLog: 00:11.06 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot03 [innocent] for 53 dmg
+ServerLog: 00:11.06 - KILL:	 Jadem Tera.gg [traitor] killed Bot03 [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:11.70 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot01 [innocent] for 53 dmg
+ServerLog: 00:11.86 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot01 [innocent] for 53 dmg
+ServerLog: 00:11.86 - KILL:	 Jadem Tera.gg [traitor] killed Bot01 [innocent]
+Inventory saved for Jadem Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Diamondback
+Inventory sent in 0.00086214099997051 secs to Diamondback
+ServerLog: 00:13.10 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot06 [innocent] for 53 dmg
+ServerLog: 00:13.18 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot06 [innocent] for 53 dmg
+ServerLog: 00:13.18 - KILL:	 Jadem Tera.gg [traitor] killed Bot06 [innocent]
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory sent in 0.0011883510001098 secs to Rosé Tera.gg
+ServerLog: 00:14.96 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot07 [innocent] for 53 dmg
+ServerLog: 00:14.90 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot07 [innocent] for 50 dmg
+ServerLog: 00:14.90 - KILL:	 Jadem Tera.gg [traitor] killed Bot07 [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Inventory saved for Diamondback
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory sent in 0.00070119199995133 secs to Diamondback
+Inventory sent in 0.00073399400002927 secs to Jadem Tera.gg
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Bot06 has a health station!
+Bot05 has a health station!
+Bot07 has a health station!
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+ServerLog: 00:05.72 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:05.78 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:05.84 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:05.90 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:05.96 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.02 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.08 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.14 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.20 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.26 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.32 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.38 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.44 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.50 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.56 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:06.98 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:07.04 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:07.10 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:07.16 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:07.22 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:07.28 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:07.34 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:09.56 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:09.62 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 252 dmg
+ServerLog: 00:10.16 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:10.24 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:10.32 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:10.40 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:10.48 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:10.90 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:10.98 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:11.14 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:11.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:11.28 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:11.38 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:11.44 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:11.52 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:11.60 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 00:11.64 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 39 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:11.64 - KILL:	 Jadem Tera.gg [traitor] killed Rosé Tera.gg [innocent]
+ServerLog: 00:11.76 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 7 dmg
+ServerLog: 00:12.18 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:12.34 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:12.30 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 7 dmg
+ServerLog: 00:12.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:12.52 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 7 dmg
+ServerLog: 00:12.76 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot01 [innocent] for 20 dmg
+Retrieving contracts
+ServerLog: 00:13.00 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 20 dmg
+ServerLog: 00:13.08 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 11 dmg
+ServerLog: 00:13.26 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 20 dmg
+ServerLog: 00:13.32 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 11 dmg
+ServerLog: 00:14.02 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:14.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:14.26 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot01 [innocent] for 55 dmg
+ServerLog: 00:14.34 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:14.42 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:14.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:14.66 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot01 [innocent] for 55 dmg
+ServerLog: 00:14.90 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot01 [innocent] for 55 dmg
+ServerLog: 00:14.90 - KILL:	 Jadem Tera.gg [traitor] killed Bot01 [innocent]
+ServerLog: 00:17.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:18.00 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:18.08 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:18.16 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:18.28 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:18.72 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:18.80 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:19.04 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:19.12 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:19.20 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:19.28 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637610707, 76561198848501723, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+ServerLog: 00:19.36 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:19.44 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:19.52 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:19.68 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:19.76 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:19.84 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:19.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:20.06 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 13 dmg
+ServerLog: 00:20.16 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:20.24 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:20.32 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 20 dmg
+ServerLog: 00:20.48 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:20.82 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 20 dmg
+ServerLog: 00:21.36 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:21.44 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:21.52 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+Retrieving contracts
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:22.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:23.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:27.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:28.16 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:28.16 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:28.16 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:28.16 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:31.50 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 12 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+ServerLog: 00:32.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 6 dmg
+Rosé Tera.gg has teleported you.
+Rosé Tera.gg has teleported Diamondback.
+↗ `[07:52:00 PM]` • Player Teleported • *!tele* • `Garry's Mod`
+ | `Rosé Tera.gg (STEAM_0:1:444117997)` has teleported `Rosé Tera.gg (STEAM_0:1:444117997)`.
+Retrieving contracts
+ServerLog: 00:36.22 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 11 dmg
+ServerLog: 00:37.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:37.66 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:37.74 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:37.82 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:37.90 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:37.98 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:38.06 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:38.14 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:38.22 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:38.30 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:38.38 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:38.46 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:38.54 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:38.62 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:38.70 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:38.96 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:39.02 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:39.26 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:39.34 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:39.42 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:39.52 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 7 dmg
+ServerLog: 00:39.66 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:39.74 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:39.90 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:39.98 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:40.06 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:40.38 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:40.40 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:40.54 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:40.62 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:40.70 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:40.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:40.82 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:41.02 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:41.10 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Diamondback (STEAM_0:0:514954482).
+Retrieving contracts
+ServerLog: 00:46.12 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:46.28 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:46.36 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:46.52 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:46.60 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:46.68 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:46.76 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:46.84 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:47.08 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:47.56 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:47.52 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:47.64 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:47.72 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:48.12 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:48.28 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:48.76 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:48.92 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:48.96 - DMG: 	 Jadem Tera.gg [traitor] damaged Bot04 [innocent] for 50 dmg
+ServerLog: 00:50.46 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 50 dmg
+ServerLog: 00:51.20 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 11 dmg
+ServerLog: 00:52.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:52.66 - DMG: 	 Jadem Tera.gg [traitor] damaged Diamondback [innocent] for 20 dmg
+ServerLog: 00:52.66 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:52.74 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:52.82 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:52.90 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+Retrieving contracts
+ServerLog: 00:53.06 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:53.14 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:53.22 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:53.30 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:53.38 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:53.86 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:54.26 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:54.22 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 32 dmg
+ServerLog: 00:54.58 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:54.66 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:54.74 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:54.82 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 42 dmg
+ServerLog: 00:54.90 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:55.22 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:55.18 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 7 dmg
+ServerLog: 00:55.30 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 18 dmg
+ServerLog: 00:56.02 - DMG: 	 Diamondback [innocent] damaged Jadem Tera.gg [traitor] for 10 dmg
+ServerLog: 00:56.02 - KILL:	 Diamondback [innocent] killed Jadem Tera.gg [traitor]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637610745, 76561198848501723, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Rosé Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:05.40 - DMG: 	 Rosé Tera.gg [innocent] damaged Diamondback [innocent] for 252 dmg
+ServerLog: 00:05.40 - KILL:	 Rosé Tera.gg [innocent] killed Diamondback [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+ServerLog: 00:08.46 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot05 [traitor] for 21 dmg
+ServerLog: 00:08.54 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot05 [traitor] for 21 dmg
+ServerLog: 00:08.62 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot05 [traitor] for 55 dmg
+ServerLog: 00:08.70 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot05 [traitor] for 55 dmg
+ServerLog: 00:08.70 - KILL:	 Jadem Tera.gg [innocent] killed Bot05 [traitor]
+Inventory saved for Jadem Tera.gg
+ServerLog: 00:09.70 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot08 [innocent] for 21 dmg
+ServerLog: 00:09.64 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot08 [innocent] for 21 dmg
+ServerLog: 00:09.94 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [innocent] for 21 dmg
+ServerLog: 00:10.02 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [innocent] for 21 dmg
+ServerLog: 00:10.10 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [innocent] for 21 dmg
+ServerLog: 00:10.18 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [innocent] for 21 dmg
+ServerLog: 00:10.26 - DMG: 	 Jadem Tera.gg [innocent] damaged Rosé Tera.gg [innocent] for 21 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:10.26 - KILL:	 Jadem Tera.gg [innocent] killed Rosé Tera.gg [innocent]
+Inventory saved for Jadem Tera.gg
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+ServerLog: 00:11.98 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot08 [innocent] for 11 dmg
+ServerLog: 00:12.06 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot08 [innocent] for 21 dmg
+Inventory saved for Diamondback
+ServerLog: 00:12.72 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot08 [innocent] for 21 dmg
+ServerLog: 00:13.16 - DMG: 	 Jadem Tera.gg [innocent] damaged Bot08 [innocent] for 21 dmg
+ServerLog: 00:13.16 - KILL:	 Jadem Tera.gg [innocent] killed Bot08 [innocent]
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Unknown command: boss
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Unknown command: make
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Jadem Tera.gg was banned by Rosé Tera.gg for 1 minute. Reason: sex.
+🌩 `[07:53:41 PM]` • Player Banned • *!ban* • `Garry's Mod`
+ | `Jadem Tera.gg (STEAM_0:1:218853807)` was banned by `Rosé Tera.gg (STEAM_0:1:444117997)` for *1 minute*. Reason: *sex*.
+Jadem Tera.gg has disconnected. (STEAM_0:1:218853807)
+Inventory saved for Jadem Tera.gg
+Dropped Jadem Tera.gg from server (Banned by Rosé Tera.gg for 1 minute. Reason: sex)
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+MGA | STEAM_0:1:218853807 | Connecting
+Dropped Jadem Tera.gg from server (Get Fucked)
+Retrieving contracts
+Retrieving contracts
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+MGA | STEAM_0:1:218853807 | Connecting
+Dropped Jadem Tera.gg from server (Get Fucked)
+Rosé Tera.gg has wiped Jadem Tera.gg (STEAM_0:1:218853807)
+☢️ `[07:54:04 PM]` • Player Wiped • *!wipe* • `Garry's Mod`
+ | `Rosé Tera.gg (STEAM_0:1:444117997)` has wiped *Jadem Tera.gg (STEAM_0:1:3)*.
+Retrieving contracts
+Rosé Tera.gg has unbanned STEAM_0:1:218853807. Reason: sex.
+🌈 `[07:54:15 PM]` • Player Unbanned • *!unban* • `Garry's Mod`
+ | `Rosé Tera.gg (STEAM_0:1:444117997)` has unbanned `STEAM_0:1:218853807`. Reason: *sex*.
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Max Slots saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+MGA | STEAM_0:1:218853807 | Connecting
+Retrieving contracts
+Diamondback has disconnected. (STEAM_0:0:514954482)
+Inventory saved for Diamondback
+Dropped Diamondback from server (Disconnect by user.)
+Client "Diamondback" connected (98.209.140.9:27005).
+MGA | STEAM_0:0:514954482 | Connecting
+Retrieving contracts
+Jadem Tera.gg last joined 1 minute ago.
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+[Jadem Tera.gg|16|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Jadem Tera.gg|16|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00041987999998128 secs to Jadem Tera.gg
+lottery_sent
+ServerLog: Steam API Fail: unsuccessful
+Retrieving contracts
+Diamondback last joined 15 seconds ago.
+SoundEmitter:  removing map sound overrides [396 to remove, 6 to restore]
+---- Host_Changelevel ----
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+MDLCache: Failed load of .VVD data for weapons\v_keyboard\v_keyboard.mdl
+MDLCache: Failed load of .VVD data for weapons\v_pot\v_pot.mdl
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 14:54:58 2021
+MGA | MySQL connection established at Mon Nov 22 14:54:58 2021
+MySQL connection established at Mon Nov 22 14:54:58 2021
+Events | MySQL connection established at Mon Nov 22 14:54:58 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 14:54:58 2021
+Loaded player_servers ID: 1
+Retrieving contracts
+Loaded global gamble chat
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Warning: Player issued command but is now vanished (Command was "")
+Forcing client reconnect (2)
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Retrieving contracts
+TTT initializing convar settings...
+Jadem Tera.gg last joined 21 seconds ago.
+Diamondback last joined 22 seconds ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Diamondback
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[Jadem Tera.gg|16|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Jadem Tera.gg|16|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00079023400007827 secs to Jadem Tera.gg
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+[Diamondback|17|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Diamondback|17|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.001701095000044 secs to Diamondback
+Rosé Tera.gg last joined 30 seconds ago.
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+ServerLog: Steam API Fail: unsuccessful
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory sent in 0.00059376099989095 secs to Rosé Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+lottery_sent
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:38: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:6>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Diamondback has disconnected. (STEAM_0:0:514954482)
+Inventory saved for Diamondback
+Dropped Diamondback from server (Disconnect by user.)
+Client "Diamondback" connected (98.209.140.9:27005).
+MGA | STEAM_0:0:514954482 | Connecting
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Diamondback last joined 14 seconds ago.
+Retrieving contracts
+Inventory saved for Diamondback
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+  1. ipairs - [C]:-1
+   2. m_DropInventoryItem - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250
+    3. massopenshit - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:87
+     4. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:113
+      5. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+[Diamondback|18|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Diamondback|18|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.0033035579999705 secs to Diamondback
+ServerLog: Steam API Fail: unsuccessful
+Inventory saved for Jadem Tera.gg
+lottery_sent
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+ServerLog: 01:20.68 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+ServerLog: 01:25.18 - DMG: 	 Jadem Tera.gg [traitor] damaged Rosé Tera.gg [innocent] for 14 dmg
+ServerLog: 01:25.38 - DMG: 	 Rosé Tera.gg [innocent] damaged Jadem Tera.gg [traitor] for 179 dmg
+ServerLog: 01:25.38 - KILL:	 Rosé Tera.gg [innocent] killed Jadem Tera.gg [traitor]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+[Rosé Tera.gg|4|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+ServerLog: 00:12.66 - KILL:	 <something/world> killed Jadem Tera.gg [innocent]
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:20.40 - KILL:	 Rosé Tera.gg [traitor] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+Inventory saved for Diamondback
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[Jadem Tera.gg|16|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Diamondback|18|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Rosé Tera.gg|4|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Inventory saved for Diamondback
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Diamondback
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (SetGlobalString:ttt_default_playermodel)
+  1. SetGlobalString - addons/moat_addons/lua/system/app/yugh/modules/globals.lua:156
+   2. unknown - addons/moat_addons/lua/system/app/ttt/detours/sv_rounds.lua:71
+
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Inventory saved for Rosé Tera.gg
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+Retrieving contracts
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+ServerLog: Round proper has begun...
+Inventory saved for Diamondback
+Retrieving contracts
+Inventory saved for Diamondback
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350: attempt to concatenate upvalue 'map' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua (line 343)]
+Rosé Tera.gg last joined 18 seconds ago.
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+ServerLog: Steam API Fail: unsuccessful
+Retrieving contracts
+Inventory sent in 0.00045879899994361 secs to Rosé Tera.gg
+lottery_sent
+Jadem Tera.gg has disconnected. (STEAM_0:1:218853807)
+Inventory saved for Jadem Tera.gg
+Dropped Jadem Tera.gg from server (Disconnect by user.)
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[Diamondback|18|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Rosé Tera.gg|19|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (crashscreen_ping)
+  1. unknown - addons/moat_addons/lua/plugins/crashscreen/main_sv.lua:12
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Inventory saved for Rosé Tera.gg
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[Diamondback|18|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350: attempt to concatenate upvalue 'map' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua (line 343)]
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (crashscreen_ping)
+  1. unknown - addons/moat_addons/lua/plugins/crashscreen/main_sv.lua:12
+
+Retrieving contracts
+Rosé Tera.gg last joined 18 seconds ago.
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Steam API Fail: unsuccessful
+Retrieving contracts
+Diamondback has disconnected. (STEAM_0:0:514954482)
+Inventory saved for Diamondback
+Dropped Diamondback from server (Disconnect by user.)
+Client "Diamondback" connected (98.209.140.9:27005).
+MGA | STEAM_0:0:514954482 | Connecting
+Inventory sent in 0.00040464400012752 secs to Rosé Tera.gg
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+lottery_sent
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350: attempt to concatenate upvalue 'map' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua (line 343)]
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Diamondback last joined 15 seconds ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Inventory saved for Diamondback
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[Diamondback|21|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Diamondback|21|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.0017323900001429 secs to Diamondback
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:00.10 - DMG: 	 Rosé Tera.gg [innocent] damaged Diamondback [traitor] for 203 dmg
+ServerLog: 00:00.10 - KILL:	 Rosé Tera.gg [innocent] killed Diamondback [traitor]
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629: attempt to index global 'MOAT_BP' (a nil value)
+  1. bp_reward - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:629
+   2. bp_processxp - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:654
+    3. v - addons/moat_addons/lua/plugins/moat/modules/battlepass/sv_battlepass.lua:689
+     4. Run - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+      5. ApplyXP - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:84
+       6. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_stats.lua:117
+        7. Call - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+         8. EndRound - gamemodes/terrortown/gamemode/init.lua:822
+          9. unknown - gamemodes/terrortown/gamemode/init.lua:349
+
+Timer Failed! [winchecker][@gamemodes/terrortown/gamemode/init.lua (line 396)]
+[Rosé Tera.gg|20|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/battlepass/cl_battlepass.lua:50
+   2. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Retrieving contracts
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: Round proper has begun...
+Model missing: models/moat/player/spacesuit.mdl
+Retrieving contracts
+ServerLog: 00:02.10 - DMG: 	 Diamondback [traitor] damaged Rosé Tera.gg [innocent] for 20 dmg
+ServerLog: 00:02.58 - DMG: 	 Diamondback [traitor] damaged Rosé Tera.gg [innocent] for 20 dmg
+ServerLog: 00:02.66 - DMG: 	 Diamondback [traitor] damaged Rosé Tera.gg [innocent] for 20 dmg
+ServerLog: 00:02.90 - DMG: 	 Diamondback [traitor] damaged Rosé Tera.gg [innocent] for 20 dmg
+ServerLog: 00:02.98 - DMG: 	 Diamondback [traitor] damaged Rosé Tera.gg [innocent] for 20 dmg
+Model missing: models/moat/player/spacesuit.mdl
+ServerLog: 00:02.98 - KILL:	 Diamondback [traitor] killed Rosé Tera.gg [innocent]
+Inventory saved for Diamondback
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Rosé Tera.gg
+Inventory saved for Diamondback
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[Diamondback|21|STEAM_0:0:514954482] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Rosé Tera.gg|20|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (crashscreen_ping)
+  1. unknown - addons/moat_addons/lua/plugins/crashscreen/main_sv.lua:12
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl
+Model missing: models/moat/player/spacesuit.mdl

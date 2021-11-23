@@ -1,0 +1,562 @@
+------------------------------------
+--
+-- Retro Collection
+--
+------------------------------------
+
+
+mi.Item(706)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Retro Crate"
+	:SetDesc "This crate contains an item from the Retro Collection! Right click to open."
+	:SetImage "https://noahg.codes/s/noah/060613-NaiveBedbug.png"
+	:SetCollection "Retro Collection"
+	:SetShop (450, true, 1617303600)
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(704)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Old-Timey"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Retro Collection"
+
+mi.Item(704)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Old-Timey"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Retro Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(703)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Dated"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Retro Collection"
+
+mi.Item(696)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Vintage"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Retro Collection"
+
+mi.Item(703)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Dated"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Retro Collection"
+
+mi.Item(696)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Vintage"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Retro Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(695)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Refurbished"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(694)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Traditional"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(11010)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Stripes Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://noahg.codes/s/noah/923124-LividAsianelephant.jpg"
+	:SetTexture "https://noahg.codes/s/noah/410867-MediumforestgreenNewt.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Retro Collection"
+
+mi.Item(695)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Refurbished"
+	:SetStats (6, 9)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(694)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Traditional"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (1, 2)
+	:SetCollection "Retro Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(693)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Historic"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(692)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Forgotten"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(791)
+	:SetRarity (5)
+	:SetType "Model"
+	:SetName "Tommy Vercetti Model"
+	:SetDesc "“Okay, you've proved your point now get lost.”."
+	:SetModel "models/winningrook/gtavc/hdtommy.mdl"
+	:SetCollection "Retro Collection"
+
+mi.Item(11012)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Brushed Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://noahg.codes/s/noah/985018-HungryAffenpinscher.jpg"
+	:SetTexture "https://noahg.codes/s/noah/354154-WryMerlin.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Retro Collection"
+
+mi.Item(11009)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Hot Rod Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://noahg.codes/s/noah/750869-DisastrousAmericancrow.png"
+	:SetTexture "https://noahg.codes/s/noah/493917-GrandioseIbis.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Retro Collection"
+
+mi.Item(693)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Historic"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(692)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Forgotten"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 2)
+	:SetCollection "Retro Collection"
+
+mi.Item(791)
+	:SetRarity (5)
+	:SetType "Model"
+	:SetName "Tommy Vercetti Model"
+	:SetDesc "“Okay, you've proved your point now get lost.”."
+	:SetModel "models/winningrook/gtavc/hdtommy.mdl"
+	:SetCollection "Retro Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(691)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Boomer"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(690)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Aged"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(787)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Halo Elite Model"
+	:SetDesc "“Ahhh, lohbaba!”."
+	:SetModel "Models/player/halo3elite.mdl"
+	:SetCollection "Retro Collection"
+
+mi.Item(11011)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Retro Sunrise Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://noahg.codes/s/noah/003801-CruelPeacock.jpg"
+	:SetTexture "https://noahg.codes/s/noah/706582-EverlastingGrebe.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Retro Collection"
+
+mi.Item(11008)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Water Cup Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://noahg.codes/s/noah/352510-AgedCoyote.png"
+	:SetTexture "https://noahg.codes/s/noah/788476-LightblueDuck.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Retro Collection"
+
+mi.Item(691)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Boomer"
+	:SetStats (8, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(690)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Aged"
+	:SetStats (8, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(787)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Halo Elite Model"
+	:SetDesc "“Ahhh, lohbaba!”."
+	:SetModel "Models/player/halo3elite.mdl"
+	:SetCollection "Retro Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(689)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Red Solo"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(688)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Rinky Dink"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(777)
+	:SetRarity (7)
+	:SetType "Model"
+	:SetName "Big Smoke Model"
+	:SetDesc "“I can't stand cold food. Unlike you, I ain't never ate from a trash can.”."
+	:SetModel "models/bigsmoke/smoke.mdl"
+	:SetCollection "Retro Collection"
+
+mi.Item(788)
+	:SetRarity (7)
+	:SetType "Melee"
+	:SetName "Energy Sword"
+	:SetWeapon "weapon_esword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -25, -40)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(794)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Ol' Reliable"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_mp40"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(689)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Red Solo"
+	:SetStats (9, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(688)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Rinky Dink"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(777)
+	:SetRarity (7)
+	:SetType "Model"
+	:SetName "Big Smoke Model"
+	:SetDesc "“I can't stand cold food. Unlike you, I ain't never ate from a trash can.”."
+	:SetModel "models/bigsmoke/smoke.mdl"
+	:SetCollection "Retro Collection"
+
+mi.Item(788)
+	:SetRarity (7)
+	:SetType "Melee"
+	:SetName "Energy Sword"
+	:SetWeapon "weapon_esword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -25, -40)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+mi.Item(794)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Ol' Reliable"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_mp40"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Retro Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(687)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Built Different"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Retro Collection"
+
+mi.Item(687)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Built Different"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Retro Collection"

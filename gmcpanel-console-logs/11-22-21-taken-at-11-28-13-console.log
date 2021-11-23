@@ -1,0 +1,198 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/_ugc_ws'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/gmcpanel-workshop-merged'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_teenroom'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28007 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28007 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 11:26:18 2021
+MGA | MySQL connection established at Mon Nov 22 11:26:18 2021
+MySQL connection established at Mon Nov 22 11:26:18 2021
+Events | MySQL connection established at Mon Nov 22 11:26:18 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 11:26:18 2021
+Retrieving contracts
+Loaded global gamble chat
+Loaded player_servers ID: 1
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:391982091(18948)].
+VAC secure mode is activated.
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+MGA | STEAM_0:1:218853807 | Connecting
+Client "Patrick Bateman" connected (75.97.73.46:27005).
+MGA | STEAM_0:1:95702521 | Connecting
+Retrieving contracts
+TTT initializing convar settings...
+Patrick Bateman last joined 15 minutes ago.
+Jadem Tera.gg last joined 4 minutes ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+[Patrick Bateman|4|STEAM_0:1:95702521] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Patrick Bateman|4|STEAM_0:1:95702521] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory saved for Patrick Bateman
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Rosé Tera.gg last joined 15 minutes ago.
+Inventory saved for Patrick Bateman
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Jadem Tera.gg|3|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory saved for Jadem Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Jadem Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Steam API Fail: unsuccessful
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+Inventory sent in 0.00044742899999761 secs to Rosé Tera.gg
+lottery_sent
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: Round proper has begun...
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+ServerLog: 00:02.72 - DMG: 	 Patrick Bateman [innocent] damaged Jadem Tera.gg [innocent] for 47 dmg
+ServerLog: 00:03.30 - DMG: 	 Patrick Bateman [innocent] damaged Jadem Tera.gg [innocent] for 47 dmg
+ServerLog: 00:03.80 - DMG: 	 Patrick Bateman [innocent] damaged Jadem Tera.gg [innocent] for 47 dmg
+ServerLog: 00:03.80 - KILL:	 Patrick Bateman [innocent] killed Jadem Tera.gg [innocent]
+Inventory saved for Patrick Bateman
+ServerLog: 00:05.16 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 17 dmg
+ServerLog: 00:05.42 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 11 dmg
+ServerLog: 00:05.52 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 16 dmg
+ServerLog: 00:05.50 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 7 dmg
+ServerLog: 00:05.58 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 12 dmg
+ServerLog: 00:05.60 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 31 dmg
+ServerLog: 00:05.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 43 dmg
+ServerLog: 00:05.84 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory sent in 0.00073799300000132 secs to Jadem Tera.gg
+lottery_sent
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Unknown command: advert
+Inventory sent in 0.001240327000005 secs to Patrick Bateman
+lottery_sent
+Inventory saved for Patrick Bateman
+Unknown player all.
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637598449, 76561198848501723, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:48.52 - KILL:	 Rosé Tera.gg [traitor] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637598470, 76561198151670771, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Unknown command: advert
+Retrieving contracts
+Retrieving contracts

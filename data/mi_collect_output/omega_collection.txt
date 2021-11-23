@@ -1,0 +1,1829 @@
+------------------------------------
+--
+-- Omega Collection
+--
+------------------------------------
+
+
+mi.Item(9990)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Omega Crate"
+	:SetDesc "This crate contains an item from the Omega Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/omega_crate128.png"
+	:SetCollection "Omega Collection"
+	:SetShop (1420, false, 1555398000)
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(9999)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Dedotated"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 15, -10)
+		:SetStat ("Firerate", -15, 10)
+		:SetStat ("Magazine", -20, 30)
+		:SetStat ("Accuracy", -10, 15)
+		:SetStat ("Damage", -10, 15)
+		:SetStat ("Kick", 10, -10)
+		:SetStat ("Range", -20, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9193)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Change My"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 15, -10)
+		:SetStat ("Firerate", -15, 10)
+		:SetStat ("Magazine", -20, 30)
+		:SetStat ("Accuracy", -10, 15)
+		:SetStat ("Damage", -10, 15)
+		:SetStat ("Kick", 10, -10)
+		:SetStat ("Range", -20, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9199)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Don't Say"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 15, -10)
+		:SetStat ("Firerate", -15, 10)
+		:SetStat ("Magazine", -20, 30)
+		:SetStat ("Accuracy", -10, 15)
+		:SetStat ("Damage", -10, 15)
+		:SetStat ("Kick", 10, -10)
+		:SetStat ("Range", -20, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(7404)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "PepeHands Bouncy Ball"
+	:SetDesc "PepeHands."
+	:SetImage "https://cdn.notfound.tech/pepehands.png"
+	:SetWeapon "weapon_ttt_bouncy_pepehands"
+	:SetCollection "Omega Collection"
+
+mi.Item(8404)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "PepeHands Mask"
+	:SetDesc "PepeHands."
+	:SetImage "https://cdn.notfound.tech/pepehands.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pepehands"
+	:SetCollection "Omega Collection"
+
+mi.Item(7412)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "LULW Bouncy Ball"
+	:SetDesc "LULW."
+	:SetImage "https://cdn.notfound.tech/lulw.png"
+	:SetWeapon "weapon_ttt_bouncy_lulw"
+	:SetCollection "Omega Collection"
+
+mi.Item(8412)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "LULW Mask"
+	:SetDesc "LULW."
+	:SetImage "https://cdn.notfound.tech/lulw.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_lulw"
+	:SetCollection "Omega Collection"
+
+mi.Item(7404)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "PepeHands Bouncy Ball"
+	:SetDesc "PepeHands."
+	:SetImage "https://cdn.notfound.tech/pepehands.png"
+	:SetWeapon "weapon_ttt_bouncy_pepehands"
+	:SetCollection "Omega Collection"
+
+mi.Item(8404)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "PepeHands Mask"
+	:SetDesc "PepeHands."
+	:SetImage "https://cdn.notfound.tech/pepehands.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pepehands"
+	:SetCollection "Omega Collection"
+
+mi.Item(7412)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "LULW Bouncy Ball"
+	:SetDesc "LULW."
+	:SetImage "https://cdn.notfound.tech/lulw.png"
+	:SetWeapon "weapon_ttt_bouncy_lulw"
+	:SetCollection "Omega Collection"
+
+mi.Item(8412)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "LULW Mask"
+	:SetDesc "LULW."
+	:SetImage "https://cdn.notfound.tech/lulw.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_lulw"
+	:SetCollection "Omega Collection"
+
+mi.Item(9999)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Dedotated"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 15, -10)
+		:SetStat ("Firerate", -15, 10)
+		:SetStat ("Magazine", -20, 30)
+		:SetStat ("Accuracy", -10, 15)
+		:SetStat ("Damage", -10, 15)
+		:SetStat ("Kick", 10, -10)
+		:SetStat ("Range", -20, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9193)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Change My"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 15, -10)
+		:SetStat ("Firerate", -15, 10)
+		:SetStat ("Magazine", -20, 30)
+		:SetStat ("Accuracy", -10, 15)
+		:SetStat ("Damage", -10, 15)
+		:SetStat ("Kick", 10, -10)
+		:SetStat ("Range", -20, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9199)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Don't Say"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 15, -10)
+		:SetStat ("Firerate", -15, 10)
+		:SetStat ("Magazine", -20, 30)
+		:SetStat ("Accuracy", -10, 15)
+		:SetStat ("Damage", -10, 15)
+		:SetStat ("Kick", 10, -10)
+		:SetStat ("Range", -20, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(9192)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Bird Box"
+	:SetStats (4, 4)
+		:SetStat ("Weight", 20, -20)
+		:SetStat ("Firerate", -20, 20)
+		:SetStat ("Magazine", -40, 40)
+		:SetStat ("Accuracy", -20, 25)
+		:SetStat ("Damage", -20, 25)
+		:SetStat ("Kick", 20, -20)
+		:SetStat ("Range", -30, 30)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9998)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Slaps Roof Of"
+	:SetStats (4, 4)
+		:SetStat ("Weight", 20, -20)
+		:SetStat ("Firerate", -20, 20)
+		:SetStat ("Magazine", -40, 40)
+		:SetStat ("Accuracy", -20, 25)
+		:SetStat ("Damage", -20, 25)
+		:SetStat ("Kick", 20, -20)
+		:SetStat ("Range", -30, 30)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9198)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Is This Your"
+	:SetStats (4, 4)
+		:SetStat ("Weight", 20, -20)
+		:SetStat ("Firerate", -20, 20)
+		:SetStat ("Magazine", -40, 40)
+		:SetStat ("Accuracy", -20, 25)
+		:SetStat ("Damage", -20, 25)
+		:SetStat ("Kick", 20, -20)
+		:SetStat ("Range", -30, 30)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(7407)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "DontBully Bouncy Ball"
+	:SetDesc "DontBully."
+	:SetImage "https://cdn.notfound.tech/dontbully.png"
+	:SetWeapon "weapon_ttt_bouncy_dontbully"
+	:SetCollection "Omega Collection"
+
+mi.Item(8407)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "DontBully Mask"
+	:SetDesc "DontBully."
+	:SetImage "https://cdn.notfound.tech/dontbully.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_dontbully"
+	:SetCollection "Omega Collection"
+
+mi.Item(7414)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "PepoThink Bouncy Ball"
+	:SetDesc "PepoThink."
+	:SetImage "https://cdn.notfound.tech/pepothink.png"
+	:SetWeapon "weapon_ttt_bouncy_pepothink"
+	:SetCollection "Omega Collection"
+
+mi.Item(8414)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "PepoThink Mask"
+	:SetDesc "PepoThink."
+	:SetImage "https://cdn.notfound.tech/pepothink.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pepothink"
+	:SetCollection "Omega Collection"
+
+mi.Item(7420)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Thankong Bouncy Ball"
+	:SetDesc "Thankong."
+	:SetImage "https://cdn.notfound.tech/thankong.png"
+	:SetWeapon "weapon_ttt_bouncy_thankong"
+	:SetCollection "Omega Collection"
+
+mi.Item(8420)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Thankong Mask"
+	:SetDesc "Thankong."
+	:SetImage "https://cdn.notfound.tech/thankong.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_thankong"
+	:SetCollection "Omega Collection"
+
+mi.Item(7427)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "KKona Bouncy Ball"
+	:SetDesc "KKona."
+	:SetImage "https://cdn.notfound.tech/kkona.png"
+	:SetWeapon "weapon_ttt_bouncy_kkona"
+	:SetCollection "Omega Collection"
+
+mi.Item(8427)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "KKona Mask"
+	:SetDesc "KKona."
+	:SetImage "https://cdn.notfound.tech/kkona.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_kkona"
+	:SetCollection "Omega Collection"
+
+mi.Item(7407)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "DontBully Bouncy Ball"
+	:SetDesc "DontBully."
+	:SetImage "https://cdn.notfound.tech/dontbully.png"
+	:SetWeapon "weapon_ttt_bouncy_dontbully"
+	:SetCollection "Omega Collection"
+
+mi.Item(8407)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "DontBully Mask"
+	:SetDesc "DontBully."
+	:SetImage "https://cdn.notfound.tech/dontbully.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_dontbully"
+	:SetCollection "Omega Collection"
+
+mi.Item(7414)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "PepoThink Bouncy Ball"
+	:SetDesc "PepoThink."
+	:SetImage "https://cdn.notfound.tech/pepothink.png"
+	:SetWeapon "weapon_ttt_bouncy_pepothink"
+	:SetCollection "Omega Collection"
+
+mi.Item(8414)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "PepoThink Mask"
+	:SetDesc "PepoThink."
+	:SetImage "https://cdn.notfound.tech/pepothink.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pepothink"
+	:SetCollection "Omega Collection"
+
+mi.Item(7420)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Thankong Bouncy Ball"
+	:SetDesc "Thankong."
+	:SetImage "https://cdn.notfound.tech/thankong.png"
+	:SetWeapon "weapon_ttt_bouncy_thankong"
+	:SetCollection "Omega Collection"
+
+mi.Item(8420)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Thankong Mask"
+	:SetDesc "Thankong."
+	:SetImage "https://cdn.notfound.tech/thankong.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_thankong"
+	:SetCollection "Omega Collection"
+
+mi.Item(7427)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "KKona Bouncy Ball"
+	:SetDesc "KKona."
+	:SetImage "https://cdn.notfound.tech/kkona.png"
+	:SetWeapon "weapon_ttt_bouncy_kkona"
+	:SetCollection "Omega Collection"
+
+mi.Item(8427)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "KKona Mask"
+	:SetDesc "KKona."
+	:SetImage "https://cdn.notfound.tech/kkona.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_kkona"
+	:SetCollection "Omega Collection"
+
+mi.Item(9192)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Bird Box"
+	:SetStats (4, 4)
+		:SetStat ("Weight", 20, -20)
+		:SetStat ("Firerate", -20, 20)
+		:SetStat ("Magazine", -40, 40)
+		:SetStat ("Accuracy", -20, 25)
+		:SetStat ("Damage", -20, 25)
+		:SetStat ("Kick", 20, -20)
+		:SetStat ("Range", -30, 30)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9998)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Slaps Roof Of"
+	:SetStats (4, 4)
+		:SetStat ("Weight", 20, -20)
+		:SetStat ("Firerate", -20, 20)
+		:SetStat ("Magazine", -40, 40)
+		:SetStat ("Accuracy", -20, 25)
+		:SetStat ("Damage", -20, 25)
+		:SetStat ("Kick", 20, -20)
+		:SetStat ("Range", -30, 30)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9198)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Is This Your"
+	:SetStats (4, 4)
+		:SetStat ("Weight", 20, -20)
+		:SetStat ("Firerate", -20, 20)
+		:SetStat ("Magazine", -40, 40)
+		:SetStat ("Accuracy", -20, 25)
+		:SetStat ("Damage", -20, 25)
+		:SetStat ("Kick", 20, -20)
+		:SetStat ("Range", -30, 30)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(17699)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "Deep Frying Ban"
+	:SetWeapon "weapon_ttt_fryingpan"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", -95, -95)
+		:SetStat ("Weight", -30, 30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (1, 1)
+		:SetTalent (1, "Deep Fried XL")
+	:SetCollection "Omega Collection"
+
+mi.Item(7403)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "HeartPepe Bouncy Ball"
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Omega Collection"
+
+mi.Item(8403)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "HeartPepe Mask"
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Omega Collection"
+
+mi.Item(7416)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "MonkaGun Bouncy Ball"
+	:SetDesc "MonkaGun."
+	:SetImage "https://cdn.notfound.tech/monkagun.png"
+	:SetWeapon "weapon_ttt_bouncy_monkagun"
+	:SetCollection "Omega Collection"
+
+mi.Item(8416)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "MonkaGun Mask"
+	:SetDesc "MonkaGun."
+	:SetImage "https://cdn.notfound.tech/monkagun.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkagun"
+	:SetCollection "Omega Collection"
+
+mi.Item(7417)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "SuchMeme Bouncy Ball"
+	:SetDesc "SuchMeme."
+	:SetImage "https://cdn.notfound.tech/suchmeme.png"
+	:SetWeapon "weapon_ttt_bouncy_suchmeme"
+	:SetCollection "Omega Collection"
+
+mi.Item(8417)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "SuchMeme Mask"
+	:SetDesc "SuchMeme."
+	:SetImage "https://cdn.notfound.tech/suchmeme.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_suchmeme"
+	:SetCollection "Omega Collection"
+
+mi.Item(7421)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "RNGplz Bouncy Ball"
+	:SetDesc "RNGplz."
+	:SetImage "https://cdn.notfound.tech/rngplz.png"
+	:SetWeapon "weapon_ttt_bouncy_rngplz"
+	:SetCollection "Omega Collection"
+
+mi.Item(8421)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "RNGplz Mask"
+	:SetDesc "RNGplz."
+	:SetImage "https://cdn.notfound.tech/rngplz.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_rngplz"
+	:SetCollection "Omega Collection"
+
+mi.Item(7424)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Kappa Bouncy Ball"
+	:SetDesc "Kappa."
+	:SetImage "https://cdn.notfound.tech/kappa.png"
+	:SetWeapon "weapon_ttt_bouncy_kappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(8424)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Kappa Mask"
+	:SetDesc "Kappa."
+	:SetImage "https://cdn.notfound.tech/kappa.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_kappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(7403)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "HeartPepe Bouncy Ball"
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Omega Collection"
+
+mi.Item(8403)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "HeartPepe Mask"
+	:SetDesc "HeartPepe."
+	:SetImage "https://cdn.notfound.tech/heartpepe.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_heartpepe"
+	:SetCollection "Omega Collection"
+
+mi.Item(7416)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "MonkaGun Bouncy Ball"
+	:SetDesc "MonkaGun."
+	:SetImage "https://cdn.notfound.tech/monkagun.png"
+	:SetWeapon "weapon_ttt_bouncy_monkagun"
+	:SetCollection "Omega Collection"
+
+mi.Item(8416)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "MonkaGun Mask"
+	:SetDesc "MonkaGun."
+	:SetImage "https://cdn.notfound.tech/monkagun.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkagun"
+	:SetCollection "Omega Collection"
+
+mi.Item(7417)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "SuchMeme Bouncy Ball"
+	:SetDesc "SuchMeme."
+	:SetImage "https://cdn.notfound.tech/suchmeme.png"
+	:SetWeapon "weapon_ttt_bouncy_suchmeme"
+	:SetCollection "Omega Collection"
+
+mi.Item(8417)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "SuchMeme Mask"
+	:SetDesc "SuchMeme."
+	:SetImage "https://cdn.notfound.tech/suchmeme.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_suchmeme"
+	:SetCollection "Omega Collection"
+
+mi.Item(7421)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "RNGplz Bouncy Ball"
+	:SetDesc "RNGplz."
+	:SetImage "https://cdn.notfound.tech/rngplz.png"
+	:SetWeapon "weapon_ttt_bouncy_rngplz"
+	:SetCollection "Omega Collection"
+
+mi.Item(8421)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "RNGplz Mask"
+	:SetDesc "RNGplz."
+	:SetImage "https://cdn.notfound.tech/rngplz.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_rngplz"
+	:SetCollection "Omega Collection"
+
+mi.Item(7424)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Kappa Bouncy Ball"
+	:SetDesc "Kappa."
+	:SetImage "https://cdn.notfound.tech/kappa.png"
+	:SetWeapon "weapon_ttt_bouncy_kappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(8424)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Kappa Mask"
+	:SetDesc "Kappa."
+	:SetImage "https://cdn.notfound.tech/kappa.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_kappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(17699)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "Deep Frying Ban"
+	:SetWeapon "weapon_ttt_fryingpan"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", -95, -95)
+		:SetStat ("Weight", -30, 30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (1, 1)
+		:SetTalent (1, "Deep Fried XL")
+	:SetCollection "Omega Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(9191)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Thank U, Next"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(2659)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Despacito"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9997)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Boneless"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9197)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Netflix N'"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(7405)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Poggers Bouncy Ball"
+	:SetDesc "Poggers."
+	:SetImage "https://cdn.notfound.tech/poggers.png"
+	:SetWeapon "weapon_ttt_bouncy_poggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(8405)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Poggers Mask"
+	:SetDesc "Poggers."
+	:SetImage "https://cdn.notfound.tech/poggers.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_poggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(7411)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "MonkaMega Bouncy Ball"
+	:SetDesc "MonkaMega."
+	:SetImage "https://cdn.notfound.tech/monkamega.png"
+	:SetWeapon "weapon_ttt_bouncy_monkamega"
+	:SetCollection "Omega Collection"
+
+mi.Item(8411)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "MonkaMega Mask"
+	:SetDesc "MonkaMega."
+	:SetImage "https://cdn.notfound.tech/monkamega.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkamega"
+	:SetCollection "Omega Collection"
+
+mi.Item(7415)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Klappa Bouncy Ball"
+	:SetDesc "Klappa."
+	:SetImage "https://cdn.notfound.tech/klappa.png"
+	:SetWeapon "weapon_ttt_bouncy_klappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(8415)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Klappa Mask"
+	:SetDesc "Klappa."
+	:SetImage "https://cdn.notfound.tech/klappa.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_klappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(7425)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "4Head Bouncy Ball"
+	:SetDesc "4Head."
+	:SetImage "https://cdn.notfound.tech/4head.png"
+	:SetWeapon "weapon_ttt_bouncy_4head"
+	:SetCollection "Omega Collection"
+
+mi.Item(8425)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "4Head Mask"
+	:SetDesc "4Head."
+	:SetImage "https://cdn.notfound.tech/4head.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_4head"
+	:SetCollection "Omega Collection"
+
+mi.Item(7429)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Box Bouncy Ball"
+	:SetDesc "Box."
+	:SetImage "https://cdn.notfound.tech/box.png"
+	:SetWeapon "weapon_ttt_bouncy_box"
+	:SetCollection "Omega Collection"
+
+mi.Item(8429)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Box Mask"
+	:SetDesc "Box."
+	:SetImage "https://cdn.notfound.tech/box.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_box"
+	:SetCollection "Omega Collection"
+
+mi.Item(7405)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Poggers Bouncy Ball"
+	:SetDesc "Poggers."
+	:SetImage "https://cdn.notfound.tech/poggers.png"
+	:SetWeapon "weapon_ttt_bouncy_poggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(8405)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Poggers Mask"
+	:SetDesc "Poggers."
+	:SetImage "https://cdn.notfound.tech/poggers.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_poggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(7411)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "MonkaMega Bouncy Ball"
+	:SetDesc "MonkaMega."
+	:SetImage "https://cdn.notfound.tech/monkamega.png"
+	:SetWeapon "weapon_ttt_bouncy_monkamega"
+	:SetCollection "Omega Collection"
+
+mi.Item(8411)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "MonkaMega Mask"
+	:SetDesc "MonkaMega."
+	:SetImage "https://cdn.notfound.tech/monkamega.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkamega"
+	:SetCollection "Omega Collection"
+
+mi.Item(7415)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Klappa Bouncy Ball"
+	:SetDesc "Klappa."
+	:SetImage "https://cdn.notfound.tech/klappa.png"
+	:SetWeapon "weapon_ttt_bouncy_klappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(8415)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Klappa Mask"
+	:SetDesc "Klappa."
+	:SetImage "https://cdn.notfound.tech/klappa.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_klappa"
+	:SetCollection "Omega Collection"
+
+mi.Item(7425)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "4Head Bouncy Ball"
+	:SetDesc "4Head."
+	:SetImage "https://cdn.notfound.tech/4head.png"
+	:SetWeapon "weapon_ttt_bouncy_4head"
+	:SetCollection "Omega Collection"
+
+mi.Item(8425)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "4Head Mask"
+	:SetDesc "4Head."
+	:SetImage "https://cdn.notfound.tech/4head.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_4head"
+	:SetCollection "Omega Collection"
+
+mi.Item(7429)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Box Bouncy Ball"
+	:SetDesc "Box."
+	:SetImage "https://cdn.notfound.tech/box.png"
+	:SetWeapon "weapon_ttt_bouncy_box"
+	:SetCollection "Omega Collection"
+
+mi.Item(8429)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Box Mask"
+	:SetDesc "Box."
+	:SetImage "https://cdn.notfound.tech/box.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_box"
+	:SetCollection "Omega Collection"
+
+mi.Item(9191)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Thank U, Next"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(2659)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Despacito"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9997)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Boneless"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(9197)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Netflix N'"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(9994)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "30 Speed"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 0, -7)
+		:SetStat ("Firerate", 0, 23)
+		:SetStat ("Magazine", 0, 28)
+		:SetStat ("Accuracy", 0, 23)
+		:SetStat ("Damage", 0, 30)
+		:SetStat ("Kick", 0, -23)
+		:SetStat ("Range", 0, 28)
+	:SetTalents (3, 3)
+		:SetTalent (2, "Lightweight")
+		:SetTalent (3, "Lightweight")
+	:SetCollection "Omega Collection"
+
+mi.Item(9993)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "*Click*"
+	:SetStats (3, 4)
+		:SetStat ("Firerate", 0, 23)
+		:SetStat ("Weight", 0, -7)
+		:SetStat ("Accuracy", 0, 23)
+		:SetStat ("Damage", 0, 30)
+		:SetStat ("Kick", 0, -23)
+		:SetStat ("Range", 0, 28)
+	:SetTalents (3, 3)
+		:SetTalent (2, "*click*")
+	:SetCollection "Omega Collection"
+
+mi.Item(2658)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Alexa Play"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(2632)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "AirPods Compatible"
+	:SetColor {135, 0, 153}
+	:SetStats (6, 6)
+		:SetStat ("Weight", 40, -40)
+		:SetStat ("Firerate", -40, 40)
+		:SetStat ("Magazine", -60, 60)
+		:SetStat ("Accuracy", -45, 45)
+		:SetStat ("Damage", -30, 30)
+		:SetStat ("Kick", 35, -35)
+		:SetStat ("Range", -55, 55)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9996)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Delet This"
+	:SetColor {135, 0, 153}
+	:SetStats (6, 6)
+		:SetStat ("Weight", 40, -40)
+		:SetStat ("Firerate", -40, 40)
+		:SetStat ("Magazine", -60, 60)
+		:SetStat ("Accuracy", -45, 45)
+		:SetStat ("Damage", -30, 30)
+		:SetStat ("Kick", 35, -35)
+		:SetStat ("Range", -55, 55)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9196)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Wooaah"
+	:SetColor {135, 0, 153}
+	:SetStats (6, 6)
+		:SetStat ("Weight", 40, -40)
+		:SetStat ("Firerate", -40, 40)
+		:SetStat ("Magazine", -60, 60)
+		:SetStat ("Accuracy", -45, 45)
+		:SetStat ("Damage", -30, 30)
+		:SetStat ("Kick", 35, -35)
+		:SetStat ("Range", -55, 55)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(7402)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "OMEGALUL Bouncy Ball"
+	:SetDesc "OMEGALUL."
+	:SetImage "https://cdn.notfound.tech/omegalul.png"
+	:SetWeapon "weapon_ttt_bouncy_omegalul"
+	:SetCollection "Omega Collection"
+
+mi.Item(8402)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "OMEGALUL Mask"
+	:SetDesc "OMEGALUL."
+	:SetImage "https://cdn.notfound.tech/omegalul.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_omegalul"
+	:SetCollection "Omega Collection"
+
+mi.Item(7408)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "MonkaS Bouncy Ball"
+	:SetDesc "MonkaS."
+	:SetImage "https://cdn.notfound.tech/monkas.png"
+	:SetWeapon "weapon_ttt_bouncy_monkas"
+	:SetCollection "Omega Collection"
+
+mi.Item(8408)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "MonkaS Mask"
+	:SetDesc "MonkaS."
+	:SetImage "https://cdn.notfound.tech/monkas.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkas"
+	:SetCollection "Omega Collection"
+
+mi.Item(7410)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "FeelsBadMan Bouncy Ball"
+	:SetDesc "FeelsBadMan."
+	:SetImage "https://cdn.notfound.tech/feelsbadman.png"
+	:SetWeapon "weapon_ttt_bouncy_feelsbadman"
+	:SetCollection "Omega Collection"
+
+mi.Item(8410)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "FeelsBadMan Mask"
+	:SetDesc "FeelsBadMan."
+	:SetImage "https://cdn.notfound.tech/feelsbadman.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_feelsbadman"
+	:SetCollection "Omega Collection"
+
+mi.Item(7413)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "MonkaOMEGA Bouncy Ball"
+	:SetDesc "MonkaOMEGA."
+	:SetImage "https://cdn.notfound.tech/monkaomega.png"
+	:SetWeapon "weapon_ttt_bouncy_monkaomega"
+	:SetCollection "Omega Collection"
+
+mi.Item(8413)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "MonkaOMEGA Mask"
+	:SetDesc "MonkaOMEGA."
+	:SetImage "https://cdn.notfound.tech/monkaomega.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkaomega"
+	:SetCollection "Omega Collection"
+
+mi.Item(7419)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "PeepoHappy Bouncy Ball"
+	:SetDesc "PeepoHappy."
+	:SetImage "https://cdn.notfound.tech/peepohappy.png"
+	:SetWeapon "weapon_ttt_bouncy_peepohappy"
+	:SetCollection "Omega Collection"
+
+mi.Item(8419)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "PeepoHappy Mask"
+	:SetDesc "PeepoHappy."
+	:SetImage "https://cdn.notfound.tech/peepohappy.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_peepohappy"
+	:SetCollection "Omega Collection"
+
+mi.Item(7422)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "HyperPoggers Bouncy Ball"
+	:SetDesc "HyperPoggers."
+	:SetImage "https://cdn.notfound.tech/hyperpoggers.png"
+	:SetWeapon "weapon_ttt_bouncy_hyperpoggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(8422)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "HyperPoggers Mask"
+	:SetDesc "HyperPoggers."
+	:SetImage "https://cdn.notfound.tech/hyperpoggers.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_hyperpoggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(7428)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "TriHard Bouncy Ball"
+	:SetDesc "TriHard."
+	:SetImage "https://cdn.notfound.tech/trihard.png"
+	:SetWeapon "weapon_ttt_bouncy_trihard"
+	:SetCollection "Omega Collection"
+
+mi.Item(8428)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "TriHard Mask"
+	:SetDesc "TriHard."
+	:SetImage "https://cdn.notfound.tech/trihard.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_trihard"
+	:SetCollection "Omega Collection"
+
+mi.Item(7402)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "OMEGALUL Bouncy Ball"
+	:SetDesc "OMEGALUL."
+	:SetImage "https://cdn.notfound.tech/omegalul.png"
+	:SetWeapon "weapon_ttt_bouncy_omegalul"
+	:SetCollection "Omega Collection"
+
+mi.Item(8402)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "OMEGALUL Mask"
+	:SetDesc "OMEGALUL."
+	:SetImage "https://cdn.notfound.tech/omegalul.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_omegalul"
+	:SetCollection "Omega Collection"
+
+mi.Item(7408)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "MonkaS Bouncy Ball"
+	:SetDesc "MonkaS."
+	:SetImage "https://cdn.notfound.tech/monkas.png"
+	:SetWeapon "weapon_ttt_bouncy_monkas"
+	:SetCollection "Omega Collection"
+
+mi.Item(8408)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "MonkaS Mask"
+	:SetDesc "MonkaS."
+	:SetImage "https://cdn.notfound.tech/monkas.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkas"
+	:SetCollection "Omega Collection"
+
+mi.Item(7410)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "FeelsBadMan Bouncy Ball"
+	:SetDesc "FeelsBadMan."
+	:SetImage "https://cdn.notfound.tech/feelsbadman.png"
+	:SetWeapon "weapon_ttt_bouncy_feelsbadman"
+	:SetCollection "Omega Collection"
+
+mi.Item(8410)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "FeelsBadMan Mask"
+	:SetDesc "FeelsBadMan."
+	:SetImage "https://cdn.notfound.tech/feelsbadman.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_feelsbadman"
+	:SetCollection "Omega Collection"
+
+mi.Item(7413)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "MonkaOMEGA Bouncy Ball"
+	:SetDesc "MonkaOMEGA."
+	:SetImage "https://cdn.notfound.tech/monkaomega.png"
+	:SetWeapon "weapon_ttt_bouncy_monkaomega"
+	:SetCollection "Omega Collection"
+
+mi.Item(8413)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "MonkaOMEGA Mask"
+	:SetDesc "MonkaOMEGA."
+	:SetImage "https://cdn.notfound.tech/monkaomega.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_monkaomega"
+	:SetCollection "Omega Collection"
+
+mi.Item(7419)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "PeepoHappy Bouncy Ball"
+	:SetDesc "PeepoHappy."
+	:SetImage "https://cdn.notfound.tech/peepohappy.png"
+	:SetWeapon "weapon_ttt_bouncy_peepohappy"
+	:SetCollection "Omega Collection"
+
+mi.Item(8419)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "PeepoHappy Mask"
+	:SetDesc "PeepoHappy."
+	:SetImage "https://cdn.notfound.tech/peepohappy.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_peepohappy"
+	:SetCollection "Omega Collection"
+
+mi.Item(7422)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "HyperPoggers Bouncy Ball"
+	:SetDesc "HyperPoggers."
+	:SetImage "https://cdn.notfound.tech/hyperpoggers.png"
+	:SetWeapon "weapon_ttt_bouncy_hyperpoggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(8422)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "HyperPoggers Mask"
+	:SetDesc "HyperPoggers."
+	:SetImage "https://cdn.notfound.tech/hyperpoggers.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_hyperpoggers"
+	:SetCollection "Omega Collection"
+
+mi.Item(7428)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "TriHard Bouncy Ball"
+	:SetDesc "TriHard."
+	:SetImage "https://cdn.notfound.tech/trihard.png"
+	:SetWeapon "weapon_ttt_bouncy_trihard"
+	:SetCollection "Omega Collection"
+
+mi.Item(8428)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "TriHard Mask"
+	:SetDesc "TriHard."
+	:SetImage "https://cdn.notfound.tech/trihard.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_trihard"
+	:SetCollection "Omega Collection"
+
+mi.Item(9994)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "30 Speed"
+	:SetStats (3, 4)
+		:SetStat ("Weight", 0, -7)
+		:SetStat ("Firerate", 0, 23)
+		:SetStat ("Magazine", 0, 28)
+		:SetStat ("Accuracy", 0, 23)
+		:SetStat ("Damage", 0, 30)
+		:SetStat ("Kick", 0, -23)
+		:SetStat ("Range", 0, 28)
+	:SetTalents (3, 3)
+		:SetTalent (2, "Lightweight")
+		:SetTalent (3, "Lightweight")
+	:SetCollection "Omega Collection"
+
+mi.Item(9993)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "*Click*"
+	:SetStats (3, 4)
+		:SetStat ("Firerate", 0, 23)
+		:SetStat ("Weight", 0, -7)
+		:SetStat ("Accuracy", 0, 23)
+		:SetStat ("Damage", 0, 30)
+		:SetStat ("Kick", 0, -23)
+		:SetStat ("Range", 0, 28)
+	:SetTalents (3, 3)
+		:SetTalent (2, "*click*")
+	:SetCollection "Omega Collection"
+
+mi.Item(2658)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Alexa Play"
+	:SetStats (5, 5)
+		:SetStat ("Weight", 30, -30)
+		:SetStat ("Firerate", -30, 30)
+		:SetStat ("Magazine", -50, 50)
+		:SetStat ("Accuracy", -35, 35)
+		:SetStat ("Damage", -25, 25)
+		:SetStat ("Kick", 30, -30)
+		:SetStat ("Range", -45, 45)
+	:SetTalents (2, 2)
+	:SetCollection "Omega Collection"
+
+mi.Item(2632)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "AirPods Compatible"
+	:SetColor {135, 0, 153}
+	:SetStats (6, 6)
+		:SetStat ("Weight", 40, -40)
+		:SetStat ("Firerate", -40, 40)
+		:SetStat ("Magazine", -60, 60)
+		:SetStat ("Accuracy", -45, 45)
+		:SetStat ("Damage", -30, 30)
+		:SetStat ("Kick", 35, -35)
+		:SetStat ("Range", -55, 55)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9996)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Delet This"
+	:SetColor {135, 0, 153}
+	:SetStats (6, 6)
+		:SetStat ("Weight", 40, -40)
+		:SetStat ("Firerate", -40, 40)
+		:SetStat ("Magazine", -60, 60)
+		:SetStat ("Accuracy", -45, 45)
+		:SetStat ("Damage", -30, 30)
+		:SetStat ("Kick", 35, -35)
+		:SetStat ("Range", -55, 55)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9196)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Wooaah"
+	:SetColor {135, 0, 153}
+	:SetStats (6, 6)
+		:SetStat ("Weight", 40, -40)
+		:SetStat ("Firerate", -40, 40)
+		:SetStat ("Magazine", -60, 60)
+		:SetStat ("Accuracy", -45, 45)
+		:SetStat ("Damage", -30, 30)
+		:SetStat ("Kick", 35, -35)
+		:SetStat ("Range", -55, 55)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(9195)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Brother, May I Have Some"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9194)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Donald Trump's"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(3612)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "World Record"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9995)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "That's A Lotta"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(7973)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "FaZe Pro Player"
+	:SetWeapon "weapon_zm_rifle"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 73, 92)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+		:SetTalent (1, "Accurate")
+		:SetTalent (2, "*click*")
+	:SetCollection "Omega Collection"
+
+mi.Item(7401)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Pog Bouncy Ball"
+	:SetDesc "Pog."
+	:SetImage "https://cdn.notfound.tech/pog.png"
+	:SetWeapon "weapon_ttt_bouncy_pog"
+	:SetCollection "Omega Collection"
+
+mi.Item(8401)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Pog Mask"
+	:SetDesc "Pog."
+	:SetImage "https://cdn.notfound.tech/pog.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pog"
+	:SetCollection "Omega Collection"
+
+mi.Item(7406)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "WaitWhat Bouncy Ball"
+	:SetDesc "WaitWhat."
+	:SetImage "https://cdn.notfound.tech/waitwhat.png"
+	:SetWeapon "weapon_ttt_bouncy_waitwhat"
+	:SetCollection "Omega Collection"
+
+mi.Item(8406)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "WaitWhat Mask"
+	:SetDesc "WaitWhat."
+	:SetImage "https://cdn.notfound.tech/waitwhat.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_waitwhat"
+	:SetCollection "Omega Collection"
+
+mi.Item(7409)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "PagChomp Bouncy Ball"
+	:SetDesc "PagChomp."
+	:SetImage "https://cdn.notfound.tech/pagchomp.png"
+	:SetWeapon "weapon_ttt_bouncy_pagchomp"
+	:SetCollection "Omega Collection"
+
+mi.Item(8409)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "PagChomp Mask"
+	:SetDesc "PagChomp."
+	:SetImage "https://cdn.notfound.tech/pagchomp.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pagchomp"
+	:SetCollection "Omega Collection"
+
+mi.Item(7418)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "ForsenCD Bouncy Ball"
+	:SetDesc "ForsenCD."
+	:SetImage "https://cdn.notfound.tech/forsencd.png"
+	:SetWeapon "weapon_ttt_bouncy_forsencd"
+	:SetCollection "Omega Collection"
+
+mi.Item(8418)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "ForsenCD Mask"
+	:SetDesc "ForsenCD."
+	:SetImage "https://cdn.notfound.tech/forsencd.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_forsencd"
+	:SetCollection "Omega Collection"
+
+mi.Item(7423)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "FeelsSpecialMan Bouncy Ball"
+	:SetDesc "FeelsSpecialMan."
+	:SetImage "https://cdn.notfound.tech/feelsspecialman.png"
+	:SetWeapon "weapon_ttt_bouncy_feelsspecialman"
+	:SetCollection "Omega Collection"
+
+mi.Item(8423)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "FeelsSpecialMan Mask"
+	:SetDesc "FeelsSpecialMan."
+	:SetImage "https://cdn.notfound.tech/feelsspecialman.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_feelsspecialman"
+	:SetCollection "Omega Collection"
+
+mi.Item(7426)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "PogChamp Bouncy Ball"
+	:SetDesc "PogChamp."
+	:SetImage "https://cdn.notfound.tech/pogchamp.png"
+	:SetWeapon "weapon_ttt_bouncy_pogchamp"
+	:SetCollection "Omega Collection"
+
+mi.Item(8426)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "PogChamp Mask"
+	:SetDesc "PogChamp."
+	:SetImage "https://cdn.notfound.tech/pogchamp.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pogchamp"
+	:SetCollection "Omega Collection"
+
+mi.Item(7401)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Pog Bouncy Ball"
+	:SetDesc "Pog."
+	:SetImage "https://cdn.notfound.tech/pog.png"
+	:SetWeapon "weapon_ttt_bouncy_pog"
+	:SetCollection "Omega Collection"
+
+mi.Item(8401)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Pog Mask"
+	:SetDesc "Pog."
+	:SetImage "https://cdn.notfound.tech/pog.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pog"
+	:SetCollection "Omega Collection"
+
+mi.Item(7406)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "WaitWhat Bouncy Ball"
+	:SetDesc "WaitWhat."
+	:SetImage "https://cdn.notfound.tech/waitwhat.png"
+	:SetWeapon "weapon_ttt_bouncy_waitwhat"
+	:SetCollection "Omega Collection"
+
+mi.Item(8406)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "WaitWhat Mask"
+	:SetDesc "WaitWhat."
+	:SetImage "https://cdn.notfound.tech/waitwhat.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_waitwhat"
+	:SetCollection "Omega Collection"
+
+mi.Item(7409)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "PagChomp Bouncy Ball"
+	:SetDesc "PagChomp."
+	:SetImage "https://cdn.notfound.tech/pagchomp.png"
+	:SetWeapon "weapon_ttt_bouncy_pagchomp"
+	:SetCollection "Omega Collection"
+
+mi.Item(8409)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "PagChomp Mask"
+	:SetDesc "PagChomp."
+	:SetImage "https://cdn.notfound.tech/pagchomp.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pagchomp"
+	:SetCollection "Omega Collection"
+
+mi.Item(7418)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "ForsenCD Bouncy Ball"
+	:SetDesc "ForsenCD."
+	:SetImage "https://cdn.notfound.tech/forsencd.png"
+	:SetWeapon "weapon_ttt_bouncy_forsencd"
+	:SetCollection "Omega Collection"
+
+mi.Item(8418)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "ForsenCD Mask"
+	:SetDesc "ForsenCD."
+	:SetImage "https://cdn.notfound.tech/forsencd.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_forsencd"
+	:SetCollection "Omega Collection"
+
+mi.Item(7423)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "FeelsSpecialMan Bouncy Ball"
+	:SetDesc "FeelsSpecialMan."
+	:SetImage "https://cdn.notfound.tech/feelsspecialman.png"
+	:SetWeapon "weapon_ttt_bouncy_feelsspecialman"
+	:SetCollection "Omega Collection"
+
+mi.Item(8423)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "FeelsSpecialMan Mask"
+	:SetDesc "FeelsSpecialMan."
+	:SetImage "https://cdn.notfound.tech/feelsspecialman.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_feelsspecialman"
+	:SetCollection "Omega Collection"
+
+mi.Item(7426)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "PogChamp Bouncy Ball"
+	:SetDesc "PogChamp."
+	:SetImage "https://cdn.notfound.tech/pogchamp.png"
+	:SetWeapon "weapon_ttt_bouncy_pogchamp"
+	:SetCollection "Omega Collection"
+
+mi.Item(8426)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "PogChamp Mask"
+	:SetDesc "PogChamp."
+	:SetImage "https://cdn.notfound.tech/pogchamp.png"
+	:SetModel "models/moat/mg_meme_mask4.mdl"
+	:SetWeapon "weapon_ttt_bouncy_pogchamp"
+	:SetCollection "Omega Collection"
+
+mi.Item(9195)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Brother, May I Have Some"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9194)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Donald Trump's"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(3612)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "World Record"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(9995)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "That's A Lotta"
+	:SetStats (7, 7)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (3, 3)
+	:SetCollection "Omega Collection"
+
+mi.Item(7973)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "FaZe Pro Player"
+	:SetWeapon "weapon_zm_rifle"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 73, 92)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+		:SetTalent (1, "Accurate")
+		:SetTalent (2, "*click*")
+	:SetCollection "Omega Collection"

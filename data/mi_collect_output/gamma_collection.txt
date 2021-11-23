@@ -1,0 +1,16 @@
+------------------------------------
+--
+-- Gamma Collection
+--
+------------------------------------
+
+
+mi.Item(4005)
+	:SetRarity (9)
+	:SetType "Usable"
+	:SetName "Planetary Talent Mutator"
+	:SetDesc "Using this item allows you to re-roll the talents of any Planetary item. This will reset the item's LVL and XP."
+	:SetImage "https://tera.gg/ttt/misc/planetary_talent64.png"
+	:SetItemCheck (5)
+	:SetCollection "Gamma Collection"
+	:SetShop (600000, false, 1575878400)

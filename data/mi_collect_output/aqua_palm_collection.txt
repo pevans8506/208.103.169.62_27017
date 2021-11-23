@@ -1,0 +1,1110 @@
+------------------------------------
+--
+-- Aqua Palm Collection
+--
+------------------------------------
+
+
+mi.Item(67)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Aqua Palm Crate"
+	:SetDesc "This crate contains an item from the Aqua Palm Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/aqua_palm128.png"
+	:SetCollection "Aqua Palm Collection"
+	:SetShop (250, true)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(9615)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Sunburnt"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9618)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Backyard"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9603)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Squirt"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9615)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Sunburnt"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9618)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Backyard"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9603)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Squirt"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(9621)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Humid"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9606)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Sizzling"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9608)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Fragrant"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9621)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Humid"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9606)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Sizzling"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9608)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Fragrant"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(9611)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Delightful"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9607)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Breezy"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9609)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Poolside"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(46)
+	:SetRarity (3)
+	:SetType "Model"
+	:SetName "Veteran Soldier Model"
+	:SetDesc "He's seen some stuff."
+	:SetModel "models/player/clopsy.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9611)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Delightful"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9607)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Breezy"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9609)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Poolside"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(46)
+	:SetRarity (3)
+	:SetType "Model"
+	:SetName "Veteran Soldier Model"
+	:SetDesc "He's seen some stuff."
+	:SetModel "models/player/clopsy.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(9610)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Refreshing"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9620)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Foreign"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9604)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Beachy"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(45)
+	:SetRarity (4)
+	:SetType "Model"
+	:SetName "Aperture Containment Model"
+	:SetDesc "The Enrichment Center is committed to the well being of all participants."
+	:SetModel "models/player/aphaztech.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(68)
+	:SetRarity (4)
+	:SetType "Power-Up"
+	:SetName "Credit Goblin"
+	:SetColor {0, 255, 128}
+	:SetDesc "%s_ chance to receive 1 credit after a kill when using this power-up."
+	:SetImage "https://tera.gg/ttt/misc/credit_goblin64.png"
+	:SetStats (1, 1)
+		:SetStat (1, 30, 60)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(79)
+	:SetRarity (4)
+	:SetType "Power-Up"
+	:SetName "Silent"
+	:SetColor {83, 183, 255}
+	:SetDesc "Your footsteps are muffled and killing someone has a %s_ chance to muffle their screams."
+	:SetImage "https://tera.gg/ttt/misc/silent64.png"
+	:SetStats (1, 1)
+		:SetStat (1, 50, 90)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9610)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Refreshing"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9620)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Foreign"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9604)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Beachy"
+	:SetStats (6, 9)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(45)
+	:SetRarity (4)
+	:SetType "Model"
+	:SetName "Aperture Containment Model"
+	:SetDesc "The Enrichment Center is committed to the well being of all participants."
+	:SetModel "models/player/aphaztech.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(68)
+	:SetRarity (4)
+	:SetType "Power-Up"
+	:SetName "Credit Goblin"
+	:SetColor {0, 255, 128}
+	:SetDesc "%s_ chance to receive 1 credit after a kill when using this power-up."
+	:SetImage "https://tera.gg/ttt/misc/credit_goblin64.png"
+	:SetStats (1, 1)
+		:SetStat (1, 30, 60)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(79)
+	:SetRarity (4)
+	:SetType "Power-Up"
+	:SetName "Silent"
+	:SetColor {83, 183, 255}
+	:SetDesc "Your footsteps are muffled and killing someone has a %s_ chance to muffle their screams."
+	:SetImage "https://tera.gg/ttt/misc/silent64.png"
+	:SetStats (1, 1)
+		:SetStat (1, 50, 90)
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(9601)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Splashing"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9605)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Umbrella"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10111)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Varnish Star"
+	:SetWeapon "weapon_ttt_galil"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10105)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Brane Splain"
+	:SetWeapon "weapon_ttt_mp40"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 3, 13)
+		:SetStat ("Firerate", 5, 16)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(53)
+	:SetRarity (5)
+	:SetType "Model"
+	:SetName "Stormtrooper Model"
+	:SetDesc "Victory is written in the stars."
+	:SetModel "models/player/stormtrooper.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9601)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Splashing"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9605)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Umbrella"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10111)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Varnish Star"
+	:SetWeapon "weapon_ttt_galil"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10105)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Brane Splain"
+	:SetWeapon "weapon_ttt_mp40"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 3, 13)
+		:SetStat ("Firerate", 5, 16)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(53)
+	:SetRarity (5)
+	:SetType "Model"
+	:SetName "Stormtrooper Model"
+	:SetDesc "Victory is written in the stars."
+	:SetModel "models/player/stormtrooper.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(9612)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Scorching"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9616)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Aquaholic"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9617)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Paradise"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10120)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Energizing MAC10"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_zm_mac10"
+	:SetStats (6, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10106)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Energizing Deadshot"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_sg550"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 22, 33)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10112)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Zapper Capper"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_zapperpvp"
+	:SetStats (6, 7)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Weight", -10, -15)
+		:SetStat ("Firerate", 22, 33)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10110)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Smear Cavalier"
+	:SetWeapon "weapon_ttt_famas"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(50)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Ash Ketchum Model"
+	:SetDesc "Gotta catch em all."
+	:SetModel "models/player/red.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9612)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Scorching"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9616)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Aquaholic"
+	:SetStats (8, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9617)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Paradise"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10120)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Energizing MAC10"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_zm_mac10"
+	:SetStats (6, 8)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10106)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Energizing Deadshot"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_sg550"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Firerate", 22, 33)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10112)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Zapper Capper"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_zapperpvp"
+	:SetStats (6, 7)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Weight", -10, -15)
+		:SetStat ("Firerate", 22, 33)
+	:SetTalents (2, 3)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10110)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Smear Cavalier"
+	:SetWeapon "weapon_ttt_famas"
+	:SetStats (6, 7)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(50)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Ash Ketchum Model"
+	:SetDesc "Gotta catch em all."
+	:SetModel "models/player/red.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(9613)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Soaking"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9619)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Tropical"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10107)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Energizing AK47"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_ak47"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10109)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "La Vaux Gloss"
+	:SetWeapon "weapon_sp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10104)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Spanish Splatter"
+	:SetWeapon "weapon_sp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9613)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Soaking"
+	:SetStats (9, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9619)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Tropical"
+	:SetStats (9, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10107)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Energizing AK47"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_ak47"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10109)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "La Vaux Gloss"
+	:SetWeapon "weapon_sp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10104)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Spanish Splatter"
+	:SetWeapon "weapon_sp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 20, 40)
+		:SetStat ("Reloadrate", 20, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Paintball")
+	:SetCollection "Aqua Palm Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(9602)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Slip-N-Slide"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10108)
+	:SetRarity (9)
+	:SetType "Unique"
+	:SetName "Joule Newell"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_mp40"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(49)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Zelda Model"
+	:SetDesc "It's dangerous to go alone! Take this... model."
+	:SetModel "models/player/zelda.mdl"
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(9602)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Slip-N-Slide"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(10108)
+	:SetRarity (9)
+	:SetType "Unique"
+	:SetName "Joule Newell"
+	:NotDroppable (true)
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_mp40"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Aqua Palm Collection"
+
+mi.Item(49)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Zelda Model"
+	:SetDesc "It's dangerous to go alone! Take this... model."
+	:SetModel "models/player/zelda.mdl"
+	:SetCollection "Aqua Palm Collection"

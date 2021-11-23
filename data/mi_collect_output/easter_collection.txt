@@ -1,0 +1,1506 @@
+------------------------------------
+--
+-- Easter Collection
+--
+------------------------------------
+
+
+mi.Item(3995)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Easter 2020 Basket"
+	:NotDroppable (true)
+	:SetDesc "This basket contains a rare item from the Easter Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/easter_basket64.png"
+	:SetCollection "Easter Collection"
+	:SetShop (350, false)
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(4532)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Hatching Noob"
+	:SetDesc "I like to hide in my shell some times."
+	:SetImage "https://i.imgur.com/A1iVyXf.png"
+	:SetModel "models/custom_prop/moatgaming/eastegg/eastegg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(6226)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Mirrored Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/mirrored.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/mirrored.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6245)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Yellow Bricks Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/yellow_bricks.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/yellow_bricks.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6246)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Yellow Flower Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/yellow_flower.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/yellow_flower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6203)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Camo Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/camo.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/camo.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(4532)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Hatching Noob"
+	:SetDesc "I like to hide in my shell some times."
+	:SetImage "https://i.imgur.com/A1iVyXf.png"
+	:SetModel "models/custom_prop/moatgaming/eastegg/eastegg.mdl"
+	:SetCollection "Easter Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(4530)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Playboy Parti Bunni"
+	:SetDesc "Catch me wearing this around the mansion."
+	:SetImage "https://i.imgur.com/JLBV3gW.png"
+	:SetModel "models/moat/mg_hat_easterhat.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(6241)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Tiles Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/tiles.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/tiles.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6210)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Energy Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/energy.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/energy.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6214)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Halo Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/halo.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/halo.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6234)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Splat Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/splat.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/splat.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6202)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Butterflies Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/butterflies.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/butterflies.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6221)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Lava Lamp Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/lava_lamp.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/lava_lamp.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6237)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Sunflower Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/sunflower.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/sunflower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6205)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Cheetah Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/cheeta.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/cheetah.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6206)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Dew Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/dew.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/dew.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(4530)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Playboy Parti Bunni"
+	:SetDesc "Catch me wearing this around the mansion."
+	:SetImage "https://i.imgur.com/JLBV3gW.png"
+	:SetModel "models/moat/mg_hat_easterhat.mdl"
+	:SetCollection "Easter Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(4531)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Pot Head"
+	:SetDesc "Don't forget to water your flowers."
+	:SetImage "https://i.imgur.com/p01XsLz.png"
+	:SetModel "models/moat/mg_hat_easterflowers.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(6209)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Energy Flower Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/energy_flower.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/energy_flower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6242)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Triangles Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/triangles.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/triangles.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6227)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Missing Green Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/missing_green.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/missing_green.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6228)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Mosaic Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/mosaic.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/mosaic.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6244)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Watery Night Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/watery_night.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/watery_night.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6229)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Motherboard Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/motherboard.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/motherboard.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6215)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Heatwave Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/heatwave.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/heatwave.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6232)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Penguins Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/penguins.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/penguins.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6200)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Blurred Neon Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/blurred_neon.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/blurred_neon.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6217)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Hypno Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/hypno.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/hypno.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6201)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Bubbles Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/bubbles.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/bubbles.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6218)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Illusion Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/illusion.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/illusion.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6219)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Kaleidoscope Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/kaleidoscope.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/kaleidoscope.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6220)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Kali Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/kali.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/kali.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6204)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Caution Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/caution.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/caution.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6223)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Loofa Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/loofa.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/loofa.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6207)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Electric Current Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/electric_current.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/electric_current.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(4531)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Pot Head"
+	:SetDesc "Don't forget to water your flowers."
+	:SetImage "https://i.imgur.com/p01XsLz.png"
+	:SetModel "models/moat/mg_hat_easterflowers.mdl"
+	:SetCollection "Easter Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(4529)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Holy Cuteness"
+	:SetDesc "OMFGGG MOM ITS SO CUTE!!!! CAN WE KEEP ITT PELASE PLEASE PELASEEEE .."
+	:SetImage "https://i.imgur.com/KxcEV7n.png"
+	:SetModel "models/moat/mg_hat_easterchick.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(6243)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Void Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/void.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/void.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6213)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Hairy Dragon Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/hairy_dragon.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/hairy_dragon.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6230)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Neon Rider Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/neon_rider.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/neon_rider.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6231)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Pattern Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/pattern.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/pattern.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6216)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Hyperdrive Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/hyperdrive.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/hyperdrive.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6233)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Refraction Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/refraction.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/refraction.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6235)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Starry Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/starry.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/starry.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6236)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Stem Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/stem.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/stem.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6222)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Light Show Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/light_show.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/light_show.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6238)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Pink Sky Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/sunset.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/sunset.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6239)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Swirls Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/swirls.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/swirls.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6208)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Encrypted Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/encrypted.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/encrypted.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6224)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Lunar Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/lunar.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/lunar.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6240)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Techno Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/techno.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/techno.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(4529)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Holy Cuteness"
+	:SetDesc "OMFGGG MOM ITS SO CUTE!!!! CAN WE KEEP ITT PELASE PLEASE PELASEEEE .."
+	:SetImage "https://i.imgur.com/KxcEV7n.png"
+	:SetModel "models/moat/mg_hat_easterchick.mdl"
+	:SetCollection "Easter Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(8752)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Jelly Parade"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_te_mac"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 34, 58)
+		:SetStat ("Accuracy", 23, 30)
+		:SetStat ("Damage", 15, 20)
+		:SetStat ("Kick", -5, -30)
+		:SetStat ("Range", 25, 32)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(4539)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Easter Icon"
+	:SetDesc "But from this earth, this grave, this dust, my God shall raise me up, I trust."
+	:SetImage "https://i.imgur.com/0j0ztcG.png"
+	:SetModel "models/moat/mg_hat_easteregg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(6225)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Magikarp Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/magikarp.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/magikarp.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6211)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Fantasy Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/fantasy.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/fantasy.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(6212)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Glitch Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/glitch.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/glitch.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Easter Collection"
+
+mi.Item(8752)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Jelly Parade"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_te_mac"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 34, 58)
+		:SetStat ("Accuracy", 23, 30)
+		:SetStat ("Damage", 15, 20)
+		:SetStat ("Kick", -5, -30)
+		:SetStat ("Range", 25, 32)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(4539)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Easter Icon"
+	:SetDesc "But from this earth, this grave, this dust, my God shall raise me up, I trust."
+	:SetImage "https://i.imgur.com/0j0ztcG.png"
+	:SetModel "models/moat/mg_hat_easteregg.mdl"
+	:SetCollection "Easter Collection"
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(867)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Cellent"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(868)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Citing"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(869)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Sposed"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(870)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Straodinary"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(865)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Stravaganza"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(871)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Streme"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(863)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Hippity"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(864)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Hoppity"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(872)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Bunny-N-Clyde"
+	:SetEffect "glow"
+	:SetWeapon "weapon_thompson"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13375)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual Glocks"
+	:SetWeapon "weapon_ttt_dual_glock"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 7, 4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 5, 13)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", -28, -19)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13377)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual H.U.G.E-249s"
+	:SetWeapon "weapon_ttt_dual_huge"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 20, 10)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13374)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual MAC10s"
+	:SetWeapon "weapon_ttt_dual_mac10"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 14, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13378)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual SG550s"
+	:SetWeapon "weapon_ttt_dual_sg550"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 16, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13373)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual TMPs"
+	:SetWeapon "weapon_ttt_dual_tmp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 4, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13376)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual UMPs"
+	:SetWeapon "weapon_ttt_dual_ump"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 0, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(873)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Easter90"
+	:SetEffect "glow"
+	:SetWeapon "weapon_rcp120"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(874)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Easternator"
+	:SetEffect "glow"
+	:SetWeapon "weapon_virus9mm"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(875)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Hippity Hoppity"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_m1911"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(861)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Bunny Model"
+	:SetDesc "Eh... What's up doc? Hehe..."
+	:SetModel "models/player/bugsb/bugsb.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(862)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Eastertrooper Model"
+	:SetDesc "You sure this is where we're supposed to wait? - Yes."
+	:SetModel "models/burd/player/eastertrooper/eastertrooper.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(853)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Alien Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(854)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Blue Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(852)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lava Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(855)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Money Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(856)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mysterious Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(857)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Slime Sheet Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(858)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Stained Glass Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(859)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wireframe Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(860)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wooden Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(867)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Cellent"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(868)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Citing"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(869)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Sposed"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(870)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Straodinary"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(865)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Stravaganza"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(871)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Egg-Streme"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Easter Collection"
+
+mi.Item(863)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Hippity"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(864)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Hoppity"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(872)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Bunny-N-Clyde"
+	:SetEffect "glow"
+	:SetWeapon "weapon_thompson"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13375)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual Glocks"
+	:SetWeapon "weapon_ttt_dual_glock"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 7, 4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 5, 13)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", -28, -19)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13377)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual H.U.G.E-249s"
+	:SetWeapon "weapon_ttt_dual_huge"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 20, 10)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13374)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual MAC10s"
+	:SetWeapon "weapon_ttt_dual_mac10"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 14, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13378)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual SG550s"
+	:SetWeapon "weapon_ttt_dual_sg550"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 16, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13373)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual TMPs"
+	:SetWeapon "weapon_ttt_dual_tmp"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 4, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(13376)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Dual UMPs"
+	:SetWeapon "weapon_ttt_dual_ump"
+	:SetStats (6, 7)
+		:SetStat ("Weight", 0, -4)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(873)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Easter90"
+	:SetEffect "glow"
+	:SetWeapon "weapon_rcp120"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(874)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Easternator"
+	:SetEffect "glow"
+	:SetWeapon "weapon_virus9mm"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(875)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Hippity Hoppity"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_m1911"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Easter Collection"
+
+mi.Item(861)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Bunny Model"
+	:SetDesc "Eh... What's up doc? Hehe..."
+	:SetModel "models/player/bugsb/bugsb.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(862)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Eastertrooper Model"
+	:SetDesc "You sure this is where we're supposed to wait? - Yes."
+	:SetModel "models/burd/player/eastertrooper/eastertrooper.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(853)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Alien Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(854)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Blue Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(852)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lava Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(855)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Money Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(856)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mysterious Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(857)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Slime Sheet Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(858)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Stained Glass Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(859)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wireframe Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(860)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wooden Egg Mask"
+	:SetDesc "Quite the pretty egg head you got there."
+	:SetModel "models/props_phx/misc/egg.mdl"
+	:SetCollection "Easter Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(4538)
+	:SetRarity (9)
+	:SetType "Hat"
+	:SetName "The Easter Bunny"
+	:SetDesc "Holy cowww."
+	:SetModel "models/custom_prop/moatgaming/eastbunny/eastbunny.mdl"
+	:SetCollection "Easter Collection"
+
+mi.Item(4538)
+	:SetRarity (9)
+	:SetType "Hat"
+	:SetName "The Easter Bunny"
+	:SetDesc "Holy cowww."
+	:SetModel "models/custom_prop/moatgaming/eastbunny/eastbunny.mdl"
+	:SetCollection "Easter Collection"

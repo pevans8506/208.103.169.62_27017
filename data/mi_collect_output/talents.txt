@@ -1,0 +1,1136 @@
+--
+--		Built by Lua on Sep 30, 2021 at 22:31:45 PST
+--
+------------------------------------
+--
+-- Close Quarters by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(1, 'Close Quarters', 1)
+	:SetColor {0, 255, 255}
+	:CanMelee '	:SetDesc 'Damage is increased by +%s_^ when closer than %s feet to the target.'
+	:SetLevels {8'12}
+	:Mod {'1', 10, 20}
+	:Mod {'2', 8, 13}
+	:Mod {'1', 10, 20}
+	:Mod {'2', 8, 13}
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Stability by Hamoobdi 
+ --
+------------------------------------
+
+Talent(2, 'Stability', 2)
+	:SetColor {0, 255, 0}
+	:CanMelee '	:SetDesc 'Kick is reduced by %s_.'
+	:Mod {'1', -15, -20}
+	:Mod {'1', -15, -20}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Inferno by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(3, 'Inferno', 3)
+	:SetColor {255, 0, 0}
+	:CanMelee 'fire'
+	:SetDesc 'Each hit has a %s_^ chance to ignite the target for %s seconds and apply 1 damage every 0.2 seconds.'
+	:Mod {'1', 5, 10}
+	:Mod {'2', 2, 10}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 2, 10}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Accurate by Sludge 
+ --
+------------------------------------
+
+Talent(4, 'Accurate', 1)
+	:SetColor {150, 0, 0}
+	:CanMelee '	:SetDesc 'Cone is increased by %s_.'
+	:Mod {'1', 15, 25}
+	:Mod {'1', 15, 25}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Sustained by Noah G 
+ --
+------------------------------------
+
+Talent(5, 'Sustained', 2)
+	:SetColor {0, 150, 0}
+	:CanMelee '	:SetDesc 'Killing a target increases your health by %s.'
+	:Mod {'1', 15, 40}
+	:Mod {'1', 15, 40}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Brutal by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(6, 'Brutal', 1)
+	:SetColor {255, 0, 0}
+	:CanMelee '	:SetDesc 'Headshot damage is increased by %s_ when using this weapon.'
+	:Mod {'1', 11, 25}
+	:Mod {'1', 11, 25}
+	:CanMelee (true)
+	:Hook {'ScalePlayerDamage', function(vic, att, dmginfo, hitgroup, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Extended Mag by Noah G 
+ --
+------------------------------------
+
+Talent(7, 'Extended Mag', 2)
+	:SetColor {255, 128, 0}
+	:CanMelee '	:SetDesc 'Max ammo capacity is increased by %s_.'
+	:Mod {'1', 15, 40}
+	:Mod {'1', 15, 40}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Adrenaline Rush by Noah G 
+ --
+------------------------------------
+
+Talent(8, 'Adrenaline Rush', 1)
+	:SetColor {255, 0, 0}
+	:CanMelee '	:SetDesc 'Damage is increased by %s_^ for %s seconds after killing with this weapon.'
+	:SetLevels {7'12}
+	:Mod {'1', 8, 20}
+	:Mod {'2', 9, 12}
+	:Mod {'1', 8, 20}
+	:Mod {'2', 9, 12}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Tesla by Noah G 
+ --
+------------------------------------
+
+Talent(9, 'Tesla', 3)
+	:SetColor {0, 255, 255}
+	:CanMelee 'electric'
+	:SetDesc 'Each hit has a %s_^ chance to zap the target %s^ times for %s^ damage every %s^ seconds.'
+	:Mod {'1', 5, 10}
+	:Mod {'2', 5, 10}
+	:Mod {'3', 3, 5}
+	:Mod {'4', 3, 6}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 5, 10}
+	:Mod {'3', 3, 5}
+	:Mod {'4', 3, 6}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Frost by Hamoobdi 
+ --
+------------------------------------
+
+Talent(10, 'Frost', 3)
+	:SetColor {100, 100, 255}
+	:CanMelee 'frost'
+	:SetDesc 'Each hit has a %s_^ chance to freeze the target for %s seconds, slowing their speed by ^%s_ percent, and applying 2 damage every ^%s seconds.'
+	:Mod {'1', 5, 15}
+	:Mod {'2', 15, 30}
+	:Mod {'3', 25, 50}
+	:Mod {'4', 5, 8}
+	:Mod {'1', 5, 15}
+	:Mod {'2', 15, 30}
+	:Mod {'3', 25, 50}
+	:Mod {'4', 5, 8}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Meticulous by Hamoobdi 
+ --
+------------------------------------
+
+Talent(11, 'Meticulous', 2)
+	:SetColor {205, 127, 50}
+	:CanMelee '	:SetDesc 'After killing a target with this weapon, the magazine has a %s_^ chance to refill completely.'
+	:Mod {'1', 10, 30}
+	:Mod {'1', 10, 30}
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Provident by Noah G 
+ --
+------------------------------------
+
+Talent(12, 'Provident', 1)
+	:SetColor {0, 123, 181}
+	:CanMelee '	:SetDesc 'Each bullet has a 40_ chance to do %s_^ more damage.'
+	:Mod {'1', 15, 40}
+	:Mod {'1', 15, 40}
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Trigger Finger by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(13, 'Trigger Finger', 1)
+	:SetColor {255, 51, 153}
+	:CanMelee '	:SetDesc 'Firerate is increased by %s_.'
+	:Mod {'1', 7.99, 25}
+	:Mod {'1', 7.99, 25}
+	:CanMelee (true)
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Prepared by Hamoobdi 
+ --
+------------------------------------
+
+Talent(14, 'Prepared', 2)
+	:SetColor {41, 171, 135}
+	:CanMelee '	:SetDesc 'Damage is increased by %s_^ when more than %s feet from the target.'
+	:Mod {'1', 10, 20}
+	:Mod {'2', 25, 40}
+	:Mod {'1', 10, 20}
+	:Mod {'2', 25, 40}
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Vampiric by Sludge 
+ --
+------------------------------------
+
+Talent(16, 'Vampiric', 2)
+	:SetColor {0, 255, 0}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to steal %s_^ of the damage you deal.'
+	:Mod {'1', 40, 60}
+	:Mod {'2', 25, 75}
+	:Mod {'1', 40, 60}
+	:Mod {'2', 25, 75}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Tug Of War by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(17, 'Tug Of War', 3)
+	:SetColor {200, 200, 200}
+	:CanMelee '	:SetDesc 'Players have a %s_^ chance to be pulled with %sx force when shot with this weapon.'
+	:Mod {'1', 5, 15}
+	:Mod {'2', 10, 100}
+	:Mod {'1', 5, 15}
+	:Mod {'2', 10, 100}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Assassin by Sludge 
+ --
+------------------------------------
+
+Talent(19, 'Assassin', 2)
+	:SetColor {50, 50, 255}
+	:CanMelee '	:SetDesc 'Each kill has a %s_^ chance to dissolve the body of the person you killed.'
+	:Mod {'1', 10, 25}
+	:Mod {'1', 10, 25}
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Contagious by Hamoobdi 
+ --
+------------------------------------
+
+Talent(20, 'Contagious', 3)
+	:SetColor {0, 150, 0}
+	:CanMelee 'glow'
+	:SetDesc 'Each hit has a %s_^ chance to infect and damage the target %s^ times for %s^ damage every %s^ seconds.'
+	:Mod {'1', 5, 10}
+	:Mod {'2', 5, 10}
+	:Mod {'3', 3, 5}
+	:Mod {'4', 3, 6}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 5, 10}
+	:Mod {'3', 3, 5}
+	:Mod {'4', 3, 6}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Desperate Times by Sludge 
+ --
+------------------------------------
+
+Talent(21, 'Desperate Times', 1)
+	:SetColor {255, 99, 71}
+	:CanMelee '	:SetDesc 'Your weapon will do %s_^ more damage if you are under %s health.'
+	:Mod {'1', 20, 40}
+	:Mod {'2', 25, 75}
+	:Mod {'1', 20, 40}
+	:Mod {'2', 25, 75}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Medicality by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(22, 'Medicality', 2)
+	:SetColor {0, 255, 0}
+	:CanMelee '	:SetDesc 'While wielding this weapon, you will gain 1 health every %s second(s).'
+	:Mod {'1', 1, 3}
+	:Mod {'1', 1, 3}
+	:CanMelee (true)
+	:Hook {'OnWeaponSwitch', function(pl, wep, isto, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Speedforce by Noah G 
+ --
+------------------------------------
+
+Talent(23, 'Speedforce', 2)
+	:SetColor {255, 255, 0}
+	:CanMelee '	:SetDesc 'Speed is increased by %s_^ for %s seconds after killing a target.'
+	:Mod {'1', 5, 15}
+	:Mod {'2', 5, 15}
+	:Mod {'1', 5, 15}
+	:Mod {'2', 5, 15}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Lightweight by Noah G 
+ --
+------------------------------------
+
+Talent(24, 'Lightweight', 1)
+	:SetColor {175, 238, 238}
+	:CanMelee '	:SetDesc 'Weight is reduced by %s_^.'
+	:Mod {'1', -5, -15}
+	:Mod {'1', -5, -15}
+	:CanMelee (true)
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Cough by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(25, 'Cough', 2, false)
+	:SetColor {255, 0, 127}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to make your target cough with a power of %s^.'
+	:Mod {'1', 10, 25}
+	:Mod {'2', 50, 100}
+	:Mod {'1', 10, 25}
+	:Mod {'2', 50, 100}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Fortified by Noah G 
+ --
+------------------------------------
+
+Talent(26, 'Fortified', 2)
+	:SetColor {200, 200, 200}
+	:CanMelee '	:SetDesc 'After killing a player, you receive a %s_^ damage reduction for %s^ seconds.'
+	:Mod {'1', 10, 20}
+	:Mod {'2', 5, 20}
+	:Mod {'1', 10, 20}
+	:Mod {'2', 5, 20}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Mark by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(27, 'Mark', 2)
+	:SetColor {255, 255, 0}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to allow a heat signature on your target for %s seconds. This enhanced vision is shared with your teammates.'
+	:Mod {'1', 10, 35}
+	:Mod {'2', 5, 25}
+	:Mod {'1', 10, 35}
+	:Mod {'2', 5, 25}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Soften by Hamoobdi 
+ --
+------------------------------------
+
+Talent(28, 'Soften', 3)
+	:SetColor {100, 90, 100}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to make your target take %s_^ more damage for %s^ seconds.'
+	:SetLevels {25'35}
+	:Mod {'1', 15, 30}
+	:Mod {'2', 10, 15}
+	:Mod {'3', 1, 5}
+	:Mod {'1', 15, 30}
+	:Mod {'2', 10, 15}
+	:Mod {'3', 1, 5}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Armour Piercing by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(29, 'Armour Piercing', 1)
+	:SetColor {255, 0, 0}
+	:CanMelee '	:SetDesc 'Detectives and traitors under armor equipment are defenseless to bullets.'
+	:Mod {'1', 50, 70}
+	:Mod {'1', 50, 70}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Wildcard: Tier 1 by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(31, 'Wildcard: Tier 1', 1, false)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'When this talent is unlocked, it will morph into a different talent every round.'
+	:Mod {'1', 100, 200}
+	:Mod {'1', 100, 200}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Wildcard: Tier 2 by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(32, 'Wildcard: Tier 2', 2, false)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'When this talent is unlocked, it will morph into a different talent every round.'
+	:Mod {'1', 100, 200}
+	:Mod {'1', 100, 200}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Wildcard: Tier 3 by Sludge 
+ --
+------------------------------------
+
+Talent(33, 'Wildcard: Tier 3', 3, false)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'When this talent is unlocked, it will morph into a different talent every round.'
+	:SetLevels {20'30}
+	:Mod {'1', 100, 200}
+	:Mod {'1', 100, 200}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Wild! - Tier 1 by Noah G 
+ --
+------------------------------------
+
+Talent(34, 'Wild! - Tier 1', 1, false)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'After a kill, you have a %s_^ chance to add a random Tier 1 talent to your gun with its lowest stats possible.'
+	:Mod {'1', 40, 70}
+	:Mod {'1', 40, 70}
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Wild! - Tier 2 by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(35, 'Wild! - Tier 2', 2, false)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'After a kill, you have a %s_^ chance to add a random Tier 2 talent to your gun with its lowest stats possible.'
+	:Mod {'1', 40, 65}
+	:Mod {'1', 40, 65}
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Wild! - Tier 3 by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(36, 'Wild! - Tier 3', 3, false)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'After a kill, you have a %s_^ chance to add a random Tier 3 talent to your gun with its lowest stats possible.'
+	:SetLevels {20'30}
+	:Mod {'1', 40, 60}
+	:Mod {'1', 40, 60}
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Strength In Numbers by Noah G 
+ --
+------------------------------------
+
+Talent(37, 'Strength In Numbers', 2)
+	:SetColor {181, 123, 0}
+	:CanMelee '	:SetDesc 'Damage is increased by %s_^ for every person within %s^ feet, your special teammates add %s_^ instead, up to a maximum of %s_^.'
+	:SetLevels {15'25}
+	:Mod {'1', 2, 6}
+	:Mod {'2', 20, 40}
+	:Mod {'3', 6, 10}
+	:Mod {'4', 20, 35}
+	:Mod {'1', 2, 6}
+	:Mod {'2', 20, 40}
+	:Mod {'3', 6, 10}
+	:Mod {'4', 20, 35}
+	:CanMelee (true)
+	:Hook {'ScalePlayerDamage', function(vic, att, dmginfo, hitgroup, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Swift by Hamoobdi 
+ --
+------------------------------------
+
+Talent(39, 'Swift', 1)
+	:SetColor {102, 255, 255}
+	:CanMelee '	:SetDesc 'Reloading is %s_ faster.'
+	:Mod {'1', 25, 60}
+	:Mod {'1', 25, 60}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Mute by Sludge 
+ --
+------------------------------------
+
+Talent(40, 'Mute', 2)
+	:SetColor {27, 27, 27}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to mute the target for %s seconds.'
+	:Mod {'1', 25, 50}
+	:Mod {'2', 4, 8}
+	:Mod {'1', 25, 50}
+	:Mod {'2', 4, 8}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Backstab by Noah G 
+ --
+------------------------------------
+
+Talent(41, 'Backstab', 2)
+	:SetColor {255, 83, 73}
+	:CanMelee '	:SetDesc 'Damage is increased by %s_ when attacking someone from behind.'
+	:Mod {'1', 15, 30}
+	:Mod {'1', 15, 30}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Absorber by Noah G 
+ --
+------------------------------------
+
+Talent(53, 'Absorber', 3)
+	:SetColor {0, 255, 128}
+	:CanMelee '	:SetDesc 'After Killing a player, you have a %s_^ chance to add %s^ health to your total maximum health pool for a total of %s^.'
+	:Mod {'1', 5, 15}
+	:Mod {'2', 5, 15}
+	:Mod {'3', 15, 40}
+	:Mod {'1', 5, 15}
+	:Mod {'2', 5, 15}
+	:Mod {'3', 15, 40}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Boston Basher by Hamoobdi 
+ --
+------------------------------------
+
+Talent(69, 'Boston Basher', 1, false)
+	:SetColor {255, 0, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'Damage is increased by %s_^, unless you miss. Which makes you hit yourself instead, you silly sod.'
+	:Mod {'1', 20, 40}
+	:Mod {'1', 20, 40}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+	:Hook {'OnWeaponFired', function(att, wep, dmginfo, talent_mods, is_bow, hit_pos)
+		
+	end}
+
+
+------------------------------------
+--
+-- Visionary by Hamoobdi 
+ --
+------------------------------------
+
+Talent(81, 'Visionary', 2)
+	:SetColor {255, 255, 0}
+	:CanMelee '	:SetDesc 'After killing a player, you have a %s_^ chance to see players within %s^ feet through walls for %s seconds.'
+	:Mod {'1', 10, 40}
+	:Mod {'2', 10, 100}
+	:Mod {'3', 3, 10}
+	:Mod {'1', 10, 40}
+	:Mod {'2', 10, 100}
+	:Mod {'3', 3, 10}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Scavenger by Hamoobdi 
+ --
+------------------------------------
+
+Talent(82, 'Scavenger', 2)
+	:SetColor {178, 102, 255}
+	:CanMelee '	:SetDesc 'Players have a %s_^ chance to receive %s ammo after killing a target.'
+	:Mod {'1', 20, 50}
+	:Mod {'2', 5, 30}
+	:Mod {'1', 20, 50}
+	:Mod {'2', 5, 30}
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Dragonborn by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(83, 'Dragonborn', 3)
+	:SetColor {255, 255, 255}
+	:CanMelee '	:SetDesc 'Players have a %s_^ chance to be thrown with %sx force when shot with this weapon.'
+	:Mod {'1', 5, 15}
+	:Mod {'2', 10, 100}
+	:Mod {'1', 5, 15}
+	:Mod {'2', 10, 100}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Center Mass by Noah G 
+ --
+------------------------------------
+
+Talent(85, 'Center Mass', 1)
+	:SetColor {255, 0, 0}
+	:CanMelee '	:SetDesc 'Torso damage is increased by %s_ when using this weapon.'
+	:Mod {'1', 15, 30}
+	:Mod {'1', 15, 30}
+	:CanMelee (true)
+	:Hook {'ScalePlayerDamage', function(vic, att, dmginfo, hitgroup, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Fracture by Sludge 
+ --
+------------------------------------
+
+Talent(86, 'Fracture', 1)
+	:SetColor {255, 0, 0}
+	:CanMelee '	:SetDesc 'Limb damage is increased by %s_ when using this weapon.'
+	:Mod {'1', 15, 30}
+	:Mod {'1', 15, 30}
+	:CanMelee (true)
+	:Hook {'ScalePlayerDamage', function(vic, att, dmginfo, hitgroup, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Explosive by Noah G 
+ --
+------------------------------------
+
+Talent(87, 'Explosive', 2)
+	:SetColor {255, 128, 0}
+	:CanMelee '	:SetDesc 'Every second of firing, this gun will fire %s^ explosive rounds dealing %s damage.'
+	:Mod {'1', 0.84, 1.2}
+	:Mod {'2', 13.37, 42}
+	:Mod {'1', 0.84, 1.2}
+	:Mod {'2', 13.37, 42}
+	:Hook {'OnWeaponFired', function(att, wep, dmginfo, talent_mods, is_bow, hit_pos)
+		
+	end}
+
+
+------------------------------------
+--
+-- Predatory by Hamoobdi 
+ --
+------------------------------------
+
+Talent(88, 'Predatory', 2)
+	:SetColor {0, 255, 128}
+	:CanMelee '	:SetDesc 'Killing a target regenerates %s_^ health over %s seconds.'
+	:Mod {'1', 10, 35}
+	:Mod {'2', 10, 35}
+	:Mod {'1', 10, 35}
+	:Mod {'2', 10, 35}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Dual by Noah G 
+ --
+------------------------------------
+
+Talent(98, 'Dual', 1, false)
+	:SetColor {240, 10, 10}
+	:CanMelee 'bounce'
+	:SetDesc 'You have two guns. Your damage is decreased by %s_^.'
+	:SetLevels {0'0}
+	:Mod {'1', 20, 30}
+	:Mod {'1', 20, 30}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Replenish by Noah G 
+ --
+------------------------------------
+
+Talent(99, 'Replenish', 2)
+	:SetColor {0, 255, 122}
+	:CanMelee 'enchanted'
+	:SetDesc 'Your gun has a %s_^ chance to refill a bullet if you hit someone.'
+	:SetLevels {15'19}
+	:Mod {'1', 40, 80}
+	:Mod {'1', 40, 80}
+	:Hook {'OnWeaponFired', function(att, wep, dmginfo, talent_mods, is_bow, hit_pos)
+		
+	end}
+
+
+------------------------------------
+--
+-- Space Stone by Sludge 
+ --
+------------------------------------
+
+Talent(100, 'Space Stone', 1, false)
+	:SetColor {0, 50, 255}
+	:CanMelee '	:SetDesc 'You have a %s_^ chance to have low gravity for %s seconds after killing someone with this weapon.'
+	:Mod {'1', 10, 20}
+	:Mod {'2', 5, 20}
+	:Mod {'1', 10, 20}
+	:Mod {'2', 5, 20}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Reality Stone by Sludge 
+ --
+------------------------------------
+
+Talent(101, 'Reality Stone', 2, false)
+	:SetColor {255, 50, 50}
+	:CanMelee '	:SetDesc 'You have a %s_^ chance to go transparent for %s seconds after killing someone with this weapon.'
+	:Mod {'1', 10, 20}
+	:Mod {'2', 5, 20}
+	:Mod {'1', 10, 20}
+	:Mod {'2', 5, 20}
+	:CanMelee (true)
+	:Hook {'OnPlayerDeath', function(vic, inf, att, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Power Stone by Sludge 
+ --
+------------------------------------
+
+Talent(102, 'Power Stone', 3, false)
+	:SetColor {128, 0, 128}
+	:CanMelee '	:SetDesc 'Each shot has a %s_^ chance to deal double damage.'
+	:Mod {'1', 1, 5}
+	:Mod {'1', 1, 5}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- *Click* by Hamoobdi 
+ --
+------------------------------------
+
+Talent(9969, '*Click*', 2, false)
+	:SetColor {255, 119, 0}
+	:CanMelee '	:SetDesc 'Damage is increased by %s_^ but you only have 1 bullet per clip.'
+	:SetLevels {1'1}
+	:Mod {'1', 35, 75}
+	:Mod {'1', 35, 75}
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Leech by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(155, 'Leech', 3)
+	:SetColor {0, 255, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'Each hit has a %s_^ chance to heal %s^ health over %s seconds.'
+	:Mod {'1', 5, 15}
+	:Mod {'2', 15, 40}
+	:Mod {'3', 30, 50}
+	:Mod {'1', 5, 15}
+	:Mod {'2', 15, 40}
+	:Mod {'3', 30, 50}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Dog Lover by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(154, 'Dog Lover', 2, false)
+	:SetColor {255, 0, 127}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to overwehlm the target with pictures of an adorable dog for %s seconds.'
+	:Mod {'1', 5, 10}
+	:Mod {'2', 5, 10}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 5, 10}
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Energizing by Noah G 
+ --
+------------------------------------
+
+Talent(10102, 'Energizing', 1, false)
+	:SetColor {255, 119, 0}
+	:CanMelee '	:SetDesc 'Damage is increased by %s_^ for each consecutive hit, up to a maximum of %s_^.'
+	:SetLevels {8'10}
+	:Mod {'1', 4, 8}
+	:Mod {'2', 35, 45}
+	:Mod {'1', 4, 8}
+	:Mod {'2', 35, 45}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+	:Hook {'OnWeaponFired', function(att, wep, dmginfo, talent_mods, is_bow, hit_pos)
+		
+	end}
+
+
+------------------------------------
+--
+-- Deep Fried XL by Hamoobdi 
+ --
+------------------------------------
+
+Talent(9971, 'Deep Fried XL', 1, false)
+	:SetColor {209, 0, 209}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to fry the target's screen for %s seconds.'
+	:SetLevels {1'1}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 25, 50}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 25, 50}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Copycat by Hamoobdi 
+ --
+------------------------------------
+
+Talent(9030, 'Copycat', 1, false)
+	:SetColor {255, 0, 0}
+	:CanMelee 'enchanted'
+	:SetDesc 'Every kill with this weapon has a %s_^ chance to copy the stats of the weapon from who you killed, it also stacks talents.'
+	:Mod {'1', 25, 50}
+	:Mod {'1', 25, 50}
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Paintball by Hamoobdi 
+ --
+------------------------------------
+
+Talent(10103, 'Paintball', 1, false)
+	:SetColor {255, 119, 0}
+	:CanMelee '	:SetDesc 'Removes all body part multipliers. Increases damage by %s_^.'
+	:SetLevels {8'10}
+	:Mod {'1', -5, 5}
+	:Mod {'1', -5, 5}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Snowball by Sludge 
+ --
+------------------------------------
+
+Talent(990, 'Snowball', 2, false)
+	:SetColor {100, 255, 255}
+	:CanMelee '	:SetDesc 'Each shot has a %s_^ chance to shoot a snowball projectile dealing %s damage.'
+	:Mod {'1', 5, 20}
+	:Mod {'2', 10, 55}
+	:Mod {'1', 5, 20}
+	:Mod {'2', 10, 55}
+	:Hook {'OnWeaponFired', function(att, wep, dmginfo, talent_mods, is_bow, hit_pos)
+		
+	end}
+
+
+------------------------------------
+--
+-- Silenced by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(9040, 'Silenced', 1)
+	:SetColor {0, 255, 0}
+	:CanMelee '	:SetDesc 'Every shot is silenced.'
+	:Mod {'1', 100, 200}
+	:Mod {'1', 100, 200}
+	:Hook {'ModifyWeapon', function(wep, talent_mods)
+		
+	end}
+
+
+------------------------------------
+--
+-- Deep Fried XL by Swaglagmagrag 
+ --
+------------------------------------
+
+Talent(9971, 'Deep Fried XL', 1, false)
+	:SetColor {209, 0, 209}
+	:CanMelee '	:SetDesc 'Each hit has a %s_^ chance to fry the target's screen for %s seconds.'
+	:SetLevels {1'1}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 25, 50}
+	:Mod {'1', 5, 10}
+	:Mod {'2', 25, 50}
+	:CanMelee (true)
+	:Hook {'OnPlayerHit', function(vic, att, dmginfo, talent_mods)
+		
+	end}
+
+

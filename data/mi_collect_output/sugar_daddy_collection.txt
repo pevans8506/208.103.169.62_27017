@@ -1,0 +1,48 @@
+------------------------------------
+--
+-- Sugar Daddy Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(212)
+	:SetRarity (8)
+	:SetType "Effect"
+	:SetName "Dola Effect"
+	:SetDesc "A special item given as a thanks to the sugar daddies of Tera."
+	:SetModel "models/props/cs_assault/money.mdl"
+	:SetEffectColor {148, 192, 72}
+	:SetEffectSize (10)
+	:SetCollection "Sugar Daddy Collection"
+
+mi.Item(66)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Skeleton Model"
+	:SetDesc "An exclusive item given to Shiny Mega Gallade, first donator of $100."
+	:SetModel "models/player/skeleton.mdl"
+	:SetCollection "Sugar Daddy Collection"
+
+mi.Item(212)
+	:SetRarity (8)
+	:SetType "Effect"
+	:SetName "Dola Effect"
+	:SetDesc "A special item given as a thanks to the sugar daddies of Tera."
+	:SetModel "models/props/cs_assault/money.mdl"
+	:SetEffectColor {148, 192, 72}
+	:SetEffectSize (10)
+	:SetCollection "Sugar Daddy Collection"
+
+mi.Item(66)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Skeleton Model"
+	:SetDesc "An exclusive item given to Shiny Mega Gallade, first donator of $100."
+	:SetModel "models/player/skeleton.mdl"
+	:SetCollection "Sugar Daddy Collection"

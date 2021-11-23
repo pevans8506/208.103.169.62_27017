@@ -1,0 +1,557 @@
+------------------------------------
+--
+-- Flower Collection
+--
+------------------------------------
+
+
+mi.Item(685)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Flower Crate"
+	:SetDesc "This crate contains an item from the Flower Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/flower_crate512.png"
+	:SetCollection "Flower Collection"
+	:SetShop (200, true, 1615708800)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(682)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Bright"
+	:SetColor {215, 255, 224}
+	:SetStats (1, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Range", -7, 8)
+	:SetCollection "Flower Collection"
+
+mi.Item(682)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Bright"
+	:SetColor {215, 255, 224}
+	:SetStats (1, 3)
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(681)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Bulb"
+	:SetStats (3, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetCollection "Flower Collection"
+
+mi.Item(680)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Tadpole"
+	:SetStats (3, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetCollection "Flower Collection"
+
+mi.Item(681)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Bulb"
+	:SetStats (3, 4)
+	:SetCollection "Flower Collection"
+
+mi.Item(680)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Tadpole"
+	:SetStats (3, 4)
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(679)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Bud"
+	:SetColor {173, 255, 47}
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Flower Collection"
+
+mi.Item(678)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Blossoming"
+	:SetColor {173, 255, 47}
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Flower Collection"
+
+mi.Item(679)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Bud"
+	:SetColor {173, 255, 47}
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Flower Collection"
+
+mi.Item(678)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Blossoming"
+	:SetColor {173, 255, 47}
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(11004)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Flower Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/flower_flower.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/flower_flower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Flower Collection"
+
+mi.Item(11005)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Cherry Stick Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/cherrystick_flower.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/cherrystick_flower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(677)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Scented"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Flower Collection"
+
+mi.Item(676)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Fluffy"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Flower Collection"
+
+mi.Item(675)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Luscious"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(11006)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Blooming Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/blooming_flower.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/blooming_flower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Flower Collection"
+
+mi.Item(677)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Scented"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Flower Collection"
+
+mi.Item(676)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Fluffy"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Flower Collection"
+
+mi.Item(675)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Luscious"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(674)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Nature"
+	:SetColor {255, 215, 0}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(673)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Sprouting Scorpion"
+	:SetColor {40, 100, 0}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(698)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Solaire Model"
+	:SetDesc "“I am Solaire of Astora, an adherent to the Lord of Sunlight.”."
+	:SetModel "models/player_solaire.mdl"
+	:SetCollection "Flower Collection"
+
+mi.Item(11007)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Cherry Blossom Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/cherryblossom_flower.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/cherryblossom_flower.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Flower Collection"
+
+mi.Item(674)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Nature"
+	:SetColor {255, 215, 0}
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(673)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Sprouting Scorpion"
+	:SetColor {40, 100, 0}
+	:SetWeapon "weapon_ttt_scorpion"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(698)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Solaire Model"
+	:SetDesc "“I am Solaire of Astora, an adherent to the Lord of Sunlight.”."
+	:SetModel "models/player_solaire.mdl"
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(672)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Mazerati"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_te_mp5"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -7, -10)
+		:SetStat ("Magazine", 25, 35)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 22)
+		:SetStat ("Firerate", 10, 24)
+		:SetStat ("Range", 23, 32)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(671)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Outdoor"
+	:SetColor {71, 39, 11}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(697)
+	:SetRarity (7)
+	:SetType "Model"
+	:SetName "Link Model"
+	:SetDesc "“Well excuse me, princess.”."
+	:SetModel "models/player/pyroteknik/link_hw.mdl"
+	:SetCollection "Flower Collection"
+
+mi.Item(702)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Bond's Most Wanted"
+	:SetColor {255, 215, 0}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_bo2_remington"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(672)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Mazerati"
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_te_mp5"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -7, -10)
+		:SetStat ("Magazine", 25, 35)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Damage", 17, 22)
+		:SetStat ("Firerate", 10, 24)
+		:SetStat ("Range", 23, 32)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(671)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Outdoor"
+	:SetColor {71, 39, 11}
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+mi.Item(697)
+	:SetRarity (7)
+	:SetType "Model"
+	:SetName "Link Model"
+	:SetDesc "“Well excuse me, princess.”."
+	:SetModel "models/player/pyroteknik/link_hw.mdl"
+	:SetCollection "Flower Collection"
+
+mi.Item(702)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Bond's Most Wanted"
+	:SetColor {255, 215, 0}
+	:SetEffect "glow"
+	:SetWeapon "weapon_ttt_bo2_remington"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Flower Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(669)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Colorful"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Flower Collection"
+
+mi.Item(699)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Deadpool Model"
+	:SetDesc "“Whose kitty litter did I just shit in?”."
+	:SetModel "models/kryptonite/deadpool/deadpool.mdl"
+	:SetCollection "Flower Collection"
+
+mi.Item(709)
+	:SetRarity (9)
+	:SetType "Melee"
+	:SetName "Terra Blade"
+	:SetWeapon "weapon_ttt_terrablade"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -35)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 4)
+	:SetCollection "Flower Collection"
+
+mi.Item(669)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Colorful"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Flower Collection"
+
+mi.Item(699)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Deadpool Model"
+	:SetDesc "“Whose kitty litter did I just shit in?”."
+	:SetModel "models/kryptonite/deadpool/deadpool.mdl"
+	:SetCollection "Flower Collection"
+
+mi.Item(709)
+	:SetRarity (9)
+	:SetType "Melee"
+	:SetName "Terra Blade"
+	:SetWeapon "weapon_ttt_terrablade"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -35)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 4)
+	:SetCollection "Flower Collection"

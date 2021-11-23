@@ -1,0 +1,86 @@
+------------------------------------
+--
+-- Beginner Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(592)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Everloving"
+	:NotDroppable (true)
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Beginner Collection"
+
+mi.Item(592)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Everloving"
+	:NotDroppable (true)
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Beginner Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(591)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Fantastic"
+	:NotDroppable (true)
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Beginner Collection"
+
+mi.Item(591)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Fantastic"
+	:NotDroppable (true)
+	:SetColor {255, 0, 255}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Beginner Collection"

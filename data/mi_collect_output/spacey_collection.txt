@@ -1,0 +1,50 @@
+------------------------------------
+--
+-- Spacey Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(769)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "The Gauntlet"
+	:SetWeapon "weapon_ttt_te_deagle"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", -10, -1)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Space Stone")
+		:SetTalent (2, "Reality Stone")
+		:SetTalent (3, "Power Stone")
+	:SetCollection "Spacey Collection"
+
+mi.Item(769)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "The Gauntlet"
+	:SetWeapon "weapon_ttt_te_deagle"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", -10, -1)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Space Stone")
+		:SetTalent (2, "Reality Stone")
+		:SetTalent (3, "Power Stone")
+	:SetCollection "Spacey Collection"
