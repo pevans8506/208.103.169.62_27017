@@ -1,0 +1,17 @@
+------------------------------------
+--
+-- Shouldn't be in inventory
+--
+------------------------------------
+
+
+mi.Item(969)
+	:SetRarity (8)
+	:SetType "Special"
+	:SetName "A Random Vape"
+	:SetDesc "Shouldn't be in inventory."
+	:SetImage "https://tera.gg/ttt/misc/moat_vape.png"
+	:SetWeapon "weapon_ttt_unarmed"
+	:SetCollection "Shouldn't be in inventory"
+	:SetShop (64999, false, 'For a limited time, you can purchase a random vape!
+You also have a chance to get a Mega Vape!')

@@ -1,0 +1,655 @@
+------------------------------------
+--
+-- Melee Collection
+--
+------------------------------------
+
+
+mi.Item(158)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Melee Crate"
+	:SetDesc "This crate contains an item from the Melee Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/melee_crate64.png"
+	:SetCollection "Melee Collection"
+	:SetShop (200, true)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(209)
+	:SetRarity (1)
+	:SetType "Melee"
+	:SetName "Frying Pan"
+	:SetColor {160, 160, 160}
+	:SetWeapon "weapon_ttt_fryingpan"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(209)
+	:SetRarity (1)
+	:SetType "Melee"
+	:SetName "Frying Pan"
+	:SetColor {160, 160, 160}
+	:SetWeapon "weapon_ttt_fryingpan"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(203)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "Baseball Bat"
+	:SetColor {255, 204, 153}
+	:SetWeapon "weapon_ttt_baseballbat"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Force", 40, 60)
+		:SetStat ("Damage", 4, 13)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", -20, -30)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(208)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "A Chair"
+	:SetColor {255, 255, 0}
+	:SetImage "https://tera.gg/ttt/misc/moat_chair.png"
+	:SetWeapon "weapon_ttt_chair"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", -20, -50)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 30, 50)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(210)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "A Keyboard"
+	:SetColor {127, 0, 255}
+	:SetWeapon "weapon_ttt_keyboard"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 40)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(204)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "A Pot"
+	:SetColor {255, 128, 0}
+	:SetWeapon "weapon_ttt_rollingpin"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Force", 15, 40)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(203)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "Baseball Bat"
+	:SetColor {255, 204, 153}
+	:SetWeapon "weapon_ttt_baseballbat"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Force", 40, 60)
+		:SetStat ("Damage", 4, 13)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", -20, -30)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(208)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "A Chair"
+	:SetColor {255, 255, 0}
+	:SetImage "https://tera.gg/ttt/misc/moat_chair.png"
+	:SetWeapon "weapon_ttt_chair"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", -20, -50)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 30, 50)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(210)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "A Keyboard"
+	:SetColor {127, 0, 255}
+	:SetWeapon "weapon_ttt_keyboard"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 40)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(204)
+	:SetRarity (2)
+	:SetType "Melee"
+	:SetName "A Pot"
+	:SetColor {255, 128, 0}
+	:SetWeapon "weapon_ttt_rollingpin"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Force", 15, 40)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(10729)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "A Fish"
+	:SetColor {255, 160, 122}
+	:SetWeapon "weapon_fish"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10730)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Fists"
+	:SetImage "https://tera.gg/ttt/misc/moat_fists.png"
+	:SetWeapon "weapon_ttt_fists"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 50)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(206)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Meat Cleaver"
+	:SetColor {51, 0, 0}
+	:SetWeapon "weapon_ttt_meatcleaver"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 40)
+		:SetStat ("Force", 5, 10)
+		:SetStat ("Damage", 10, 20)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(160)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Pipe Wrench"
+	:SetColor {153, 0, 0}
+	:SetWeapon "weapon_ttt_pipewrench"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Force", 15, 40)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10729)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "A Fish"
+	:SetColor {255, 160, 122}
+	:SetWeapon "weapon_fish"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10730)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Fists"
+	:SetImage "https://tera.gg/ttt/misc/moat_fists.png"
+	:SetWeapon "weapon_ttt_fists"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 50)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(206)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Meat Cleaver"
+	:SetColor {51, 0, 0}
+	:SetWeapon "weapon_ttt_meatcleaver"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 40)
+		:SetStat ("Force", 5, 10)
+		:SetStat ("Damage", 10, 20)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(160)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Pipe Wrench"
+	:SetColor {153, 0, 0}
+	:SetWeapon "weapon_ttt_pipewrench"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Force", 15, 40)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(207)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Baton"
+	:SetColor {0, 76, 153}
+	:SetImage "https://tera.gg/ttt/misc/moat_baton.png"
+	:SetWeapon "weapon_ttt_baton"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 30, 60)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -15, -25)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(27699)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "Deep Frying Ban"
+	:NotDroppable (true)
+	:SetWeapon "weapon_ttt_fryingpan"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", -95, -95)
+		:SetStat ("Weight", -30, 30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (1, 1)
+		:SetTalent (1, "Deep Fried XL")
+	:SetCollection "Melee Collection"
+
+mi.Item(10801)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Sword"
+	:SetColor {70, 130, 180}
+	:SetWeapon "weapon_pvpsword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10734)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Tomahawk"
+	:SetColor {47, 79, 79}
+	:SetWeapon "weapon_tomahawk"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(207)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Baton"
+	:SetColor {0, 76, 153}
+	:SetImage "https://tera.gg/ttt/misc/moat_baton.png"
+	:SetWeapon "weapon_ttt_baton"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 30, 60)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -15, -25)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(27699)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "Deep Frying Ban"
+	:NotDroppable (true)
+	:SetWeapon "weapon_ttt_fryingpan"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", -95, -95)
+		:SetStat ("Weight", -30, 30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (1, 1)
+		:SetTalent (1, "Deep Fried XL")
+	:SetCollection "Melee Collection"
+
+mi.Item(10801)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Sword"
+	:SetColor {70, 130, 180}
+	:SetWeapon "weapon_pvpsword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10734)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Tomahawk"
+	:SetColor {47, 79, 79}
+	:SetWeapon "weapon_tomahawk"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(205)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "Cardboard Knife"
+	:SetColor {50, 50, 200}
+	:SetWeapon "weapon_ttt_cardboardknife"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 30, 60)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10728)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Diamond Pickaxe"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_pick"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -15, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10735)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Toy Hammer"
+	:SetWeapon "weapon_toy_hammer"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(205)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "Cardboard Knife"
+	:SetColor {50, 50, 200}
+	:SetWeapon "weapon_ttt_cardboardknife"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 30, 60)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10728)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Diamond Pickaxe"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_pick"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -15, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10735)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Toy Hammer"
+	:SetWeapon "weapon_toy_hammer"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(10731)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Katana"
+	:SetWeapon "weapon_katana"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10733)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Diamond Sword"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_sword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10802)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Smart Pen"
+	:SetWeapon "weapon_smartpen"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 15, 35)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10731)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Katana"
+	:SetWeapon "weapon_katana"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10733)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Diamond Sword"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_sword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10802)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Smart Pen"
+	:SetWeapon "weapon_smartpen"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 15, 35)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(10732)
+	:SetRarity (7)
+	:SetType "Melee"
+	:SetName "A Lightsaber"
+	:SetWeapon "weapon_light_saber"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -35)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"
+
+mi.Item(10732)
+	:SetRarity (7)
+	:SetType "Melee"
+	:SetName "A Lightsaber"
+	:SetWeapon "weapon_light_saber"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -35)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Melee Collection"

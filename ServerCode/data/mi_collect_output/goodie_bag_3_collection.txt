@@ -1,0 +1,731 @@
+------------------------------------
+--
+-- Goodie Bag 3 Collection
+--
+------------------------------------
+
+
+mi.Item(9903)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Goodie Bag #3"
+	:NotDroppable (true)
+	:SetColor {255, 0, 255}
+	:SetDesc "This box contains an item from the Valentine Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/chocolate_crate64.png"
+	:SetCollection "Goodie Bag 3 Collection"
+	:SetShop (444, true)
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(90003)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Virulet"
+	:SetColor {0, 255, 0}
+	:SetEffect "frost"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 26, 38)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Kick", -21, -32)
+		:SetStat ("Range", 26, 38)
+	:SetTalents (4, 4)
+		:SetTalent (3, "Contagious")
+		:SetTalent (4, "Contagious")
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90004)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Enchanted"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 26, 38)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Kick", -21, -32)
+		:SetStat ("Range", 26, 38)
+	:SetTalents (4, 4)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90009)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Possesed"
+	:SetColor {70, 86, 124}
+	:SetEffect "glow"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 26, 38)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Firerate", 21, 32)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90010)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Mysterious"
+	:SetColor {155, 233, 92}
+	:SetEffect "glow"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 26, 38)
+		:SetStat ("Kick", -21, -32)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90011)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bewitching"
+	:SetColor {202, 40, 129}
+	:SetEffect "bounce"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -5)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 26, 38)
+		:SetStat ("Reloadrate", 26, 38)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 25, 35)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(5148)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Supernatural"
+	:SetColor {0, 255, 0}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 20, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 20, 28)
+		:SetStat ("Damage", 20, 28)
+		:SetStat ("Kick", -20, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90016)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Unearthly"
+	:SetColor {255, 144, 70}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -10)
+		:SetStat ("Magazine", 28, 42)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 20, 30)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90017)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Gruesome"
+	:SetColor {110, 2, 2}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 20, 30)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 25, 35)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90018)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Horrifying"
+	:SetColor {107, 0, 45}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 20, 30)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 20, 30)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(5143)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghostly"
+	:SetColor {167, 167, 167}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 28)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(51468)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghoulish"
+	:SetColor {102, 66, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 33)
+		:SetStat ("Accuracy", 14, 28)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -28)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90024)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Putrid"
+	:SetColor {71, 42, 42}
+	:SetEffect "glow"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Firerate", 15, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 15, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(5142)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bloody"
+	:SetColor {255, 51, 0}
+	:SetEffect "glow"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 15, 23)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 23)
+		:SetStat ("Damage", 15, 23)
+		:SetStat ("Kick", -11, -23)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90029)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Nauseating"
+	:SetColor {167, 2, 154}
+	:SetStats (7, 7)
+		:SetStat ("Weight", 10, -3)
+		:SetStat ("Firerate", 30, 50)
+		:SetStat ("Magazine", -30, 0)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 0, 1)
+		:SetStat ("Kick", 200, 100)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90030)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Rattling"
+	:SetColor {63, 198, 202}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 15, 21)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90031)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Squimish"
+	:SetColor {107, 8, 46}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 15, 21)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90032)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Decrepit"
+	:SetColor {158, 108, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 15, 21)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -15, -21)
+		:SetStat ("Range", 25, 44)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90033)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Abominable"
+	:SetColor {125, 219, 129}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 25, 60)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90034)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Casper"
+	:SetColor {175, 236, 255}
+	:SetEffect "Frost"
+	:SetWeapon "weapon_ttt_galil"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 15, 28)
+		:SetStat ("Magazine", 34, 58)
+		:SetStat ("Accuracy", 25, 45)
+		:SetStat ("Damage", 15, 28)
+		:SetStat ("Kick", -15, -30)
+		:SetStat ("Range", 25, 32)
+	:SetTalents (5, 5)
+		:SetTalent (3, "Silenced")
+		:SetTalent (4, "Mute")
+		:SetTalent (5, "Reality Stone")
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90037)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Nauchaet"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetWeapon "weapon_zm_rifle"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90003)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Virulet"
+	:SetColor {0, 255, 0}
+	:SetEffect "frost"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 26, 38)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Kick", -21, -32)
+		:SetStat ("Range", 26, 38)
+	:SetTalents (4, 4)
+		:SetTalent (3, "Contagious")
+		:SetTalent (4, "Contagious")
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90004)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Enchanted"
+	:SetColor {255, 0, 255}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 26, 38)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Kick", -21, -32)
+		:SetStat ("Range", 26, 38)
+	:SetTalents (4, 4)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90009)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Possesed"
+	:SetColor {70, 86, 124}
+	:SetEffect "glow"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 26, 38)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 21, 32)
+		:SetStat ("Firerate", 21, 32)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90010)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Mysterious"
+	:SetColor {155, 233, 92}
+	:SetEffect "glow"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 26, 38)
+		:SetStat ("Kick", -21, -32)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90011)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bewitching"
+	:SetColor {202, 40, 129}
+	:SetEffect "bounce"
+	:SetStats (8, 9)
+		:SetStat ("Weight", -5, -5)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 26, 38)
+		:SetStat ("Reloadrate", 26, 38)
+		:SetStat ("Accuracy", 21, 32)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 25, 35)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(5148)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Supernatural"
+	:SetColor {0, 255, 0}
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 20, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 20, 28)
+		:SetStat ("Damage", 20, 28)
+		:SetStat ("Kick", -20, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90016)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Unearthly"
+	:SetColor {255, 144, 70}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -10)
+		:SetStat ("Magazine", 28, 42)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 20, 30)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90017)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Gruesome"
+	:SetColor {110, 2, 2}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 20, 30)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 25, 35)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 15, 25)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 15, 25)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90018)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Horrifying"
+	:SetColor {107, 0, 45}
+	:SetEffect "glow"
+	:SetStats (6, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 20, 30)
+		:SetStat ("Kick", -15, -25)
+		:SetStat ("Deployrate", 20, 30)
+		:SetStat ("Reloadrate", 20, 30)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 15, 25)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 20, 30)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(5143)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghostly"
+	:SetColor {167, 167, 167}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 28)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(51468)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Ghoulish"
+	:SetColor {102, 66, 0}
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 33)
+		:SetStat ("Accuracy", 14, 28)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -28)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90024)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Putrid"
+	:SetColor {71, 42, 42}
+	:SetEffect "glow"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -5, -10)
+		:SetStat ("Firerate", 15, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 15, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 3)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(5142)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bloody"
+	:SetColor {255, 51, 0}
+	:SetEffect "glow"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 15, 23)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 23)
+		:SetStat ("Damage", 15, 23)
+		:SetStat ("Kick", -11, -23)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90029)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Nauseating"
+	:SetColor {167, 2, 154}
+	:SetStats (7, 7)
+		:SetStat ("Weight", 10, -3)
+		:SetStat ("Firerate", 30, 50)
+		:SetStat ("Magazine", -30, 0)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 0, 1)
+		:SetStat ("Kick", 200, 100)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90030)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Rattling"
+	:SetColor {63, 198, 202}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 15, 21)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90031)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Squimish"
+	:SetColor {107, 8, 46}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 15, 21)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90032)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Decrepit"
+	:SetColor {158, 108, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Accuracy", 15, 21)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -15, -21)
+		:SetStat ("Range", 25, 44)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90033)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Abominable"
+	:SetColor {125, 219, 129}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Magazine", 25, 60)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90034)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Casper"
+	:SetColor {175, 236, 255}
+	:SetEffect "Frost"
+	:SetWeapon "weapon_ttt_galil"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 15, 28)
+		:SetStat ("Magazine", 34, 58)
+		:SetStat ("Accuracy", 25, 45)
+		:SetStat ("Damage", 15, 28)
+		:SetStat ("Kick", -15, -30)
+		:SetStat ("Range", 25, 32)
+	:SetTalents (5, 5)
+		:SetTalent (3, "Silenced")
+		:SetTalent (4, "Mute")
+		:SetTalent (5, "Reality Stone")
+	:SetCollection "Goodie Bag 3 Collection"
+
+mi.Item(90037)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "Nauchaet"
+	:SetColor {255, 255, 0}
+	:SetEffect "glow"
+	:SetWeapon "weapon_zm_rifle"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (2, 2)
+	:SetCollection "Goodie Bag 3 Collection"

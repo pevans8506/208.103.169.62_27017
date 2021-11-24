@@ -1,0 +1,1630 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28009 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28009 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | David > https://steamcommunity.com/profiles/76561198000172622
+[moat.gg] | Johnathan > https://steamcommunity.com/profiles/76561199001957012
+[moat.gg] | Mighty sex > https://steamcommunity.com/profiles/76561198171722466
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 09:33:42 2021
+MGA | MySQL connection established at Mon Nov 22 09:33:42 2021
+MySQL connection established at Mon Nov 22 09:33:42 2021
+Events | MySQL connection established at Mon Nov 22 09:33:42 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 09:33:42 2021
+Retrieving contracts
+Loaded global gamble chat
+Loaded player_servers ID: 1
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:2559224835(18947)].
+VAC secure mode is activated.
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "Swaglagmagrag tera.gg" connected (35.129.50.182:27005).
+MGA | STEAM_0:1:449721500 | Connecting for the first time.
+Retrieving contracts
+Retrieving contracts
+TTT initializing convar settings...
+Swaglagmagrag tera.gg has joined for the first time.
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Unknown stat key: o
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+Inventory sent in 0.00029518899999914 secs to Swaglagmagrag tera.gg
+lottery_sent
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Retrieving contracts
+First hash for `107bb9ce9cbd4713fce8499e98e9a4e62e7f219426834500aaf3c301b3dc3807`
+`76561198859708729` Server: `208.103.169.62:27017`
+cur_random_roound: `false`
+Version: `Total`
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Retrieving contracts
+rcon from "208.103.169.62:36182": command "mga setgroup swaglagmagrag director"
+Console has set the rank of Swaglagmagrag tera.gg (STEAM_0:1:449721500) to director.
+💇‍ `[02:35:41 PM]` • Player Rank • *!setgroup* • `Garry's Mod`
+ | `Console (CONSOLE)` has set the rank of `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` to *director*.
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+  1. ipairs - [C]:-1
+   2. m_DropInventoryItem - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250
+    3. massopenshit - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:87
+     4. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:113
+      5. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+Inventory saved for Swaglagmagrag tera.gg
+Inventory saved for Swaglagmagrag tera.gg
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+MGA | STEAM_0:1:157100235 | Connecting for the first time.
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+MGA | 71.217.171.205 | Rosé Tera.gg (76561198848501723 PLAYER) | shreckzy
+71.217.171.205:27005:  password failed.
+Retrieving contracts
+MGA | 71.217.171.205 | Rosé Tera.gg (76561198848501723 PLAYER) | shrecksy
+71.217.171.205:27005:  password failed.
+Retrieving contracts
+deathwish has joined for the first time.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Unknown stat key: o
+Inventory saved for deathwish
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00088810600001921 secs to deathwish
+lottery_sent
+MGA | 71.217.171.205 | Rosé Tera.gg (76561198848501723 PLAYER) | shreckxy
+71.217.171.205:27005:  password failed.
+Retrieving contracts
+ServerLog: Round proper has begun...
+Retrieving contracts
+Retrieving contracts
+MGA | 71.217.171.205 | Rosé Tera.gg (76561198848501723 PLAYER) | Shrekxy
+71.217.171.205:27005:  password failed.
+Retrieving contracts
+Swaglagmagrag tera.gg has disconnected. (STEAM_0:1:449721500)
+Inventory saved for Swaglagmagrag tera.gg
+Dropped Swaglagmagrag tera.gg from server (Disconnect by user.)
+Client "Swaglagmagrag tera.gg" connected (35.129.50.182:27005).
+MGA | STEAM_0:1:449721500 | Connecting
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+Retrieving contracts
+MGA | 71.217.171.205 | Rosé Tera.gg (76561198848501723 PLAYER) | Shrekxy
+71.217.171.205:27005:  password failed.
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (roulette.finishroll)
+  1. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:616
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Swaglagmagrag tera.gg last joined 10 seconds ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+ServerLog: Steam API Fail: unsuccessful
+ServerLog: Round proper has begun...
+MGA | 71.217.171.205 | Rosé Tera.gg (76561198848501723 PLAYER) | Buttsex
+71.217.171.205:27005:  password failed.
+Retrieving contracts
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Retrieving contracts
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting for the first time.
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Rosé Tera.gg has joined for the first time.
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Unknown stat key: o
+Inventory saved for Rosé Tera.gg
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:38: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:6>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+[Rosé Tera.gg|5|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Rosé Tera.gg|5|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00037458499997456 secs to Rosé Tera.gg
+lottery_sent
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for deathwish
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:38: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:6>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+First hash for `1de030ae7312e23c39b9e3826c290ea8bc00ff3f2973c8040dc874e53d6afbd3`
+`76561198274466199` Server: `208.103.169.62:27017`
+cur_random_roound: `false`
+Version: `Total`
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: 01:55.02 - KILL:	 <something/world> killed deathwish [innocent]
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for deathwish
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (versus.stats)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:1034
+   2. v - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+ServerLog: Round proper has begun...
+ServerLog: 00:01.54 - DMG: 	 deathwish [traitor] damaged Swaglagmagrag tera.gg [innocent] for 203 dmg
+ServerLog: 00:01.54 - KILL:	 deathwish [traitor] killed Swaglagmagrag tera.gg [innocent]
+Inventory saved for deathwish
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - DMG: 	 Rosé Tera.gg [innocent] damaged deathwish [traitor] for 11 dmg
+ServerLog: 00:05.98 - KILL:	 Rosé Tera.gg [innocent] killed deathwish [traitor]
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+Inventory saved for deathwish
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] MGA.Lua:1: 'end' expected near '<eof>'
+  1. Run - addons/moat_addons/lua/plugins/d3a/server/_commands/luarun.lua:10
+   2. Parse - addons/moat_addons/lua/plugins/d3a/server/sv_commands.lua:160
+    3. unknown - addons/moat_addons/lua/plugins/d3a/server/sv_commands.lua:272
+     4. unknown - lua/includes/modules/concommand.lua:54
+
+Lua ERROR: attempt to call a nil value
+rcon from "208.103.169.62:39348": command "mga lua for k, v in ipairs(player.GetAll()) do RunConsoleCommand("mga", "setgroup", v, "MVP")"
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (M_DL_Notify)
+  1. Damagelog_Notify - addons/moat_addons/lua/plugins/logs/damagelogs/shared/sh_notify.lua:12
+   2. unknown - addons/moat_addons/lua/plugins/logs/damagelogs/server/sv_rdm_manager.lua:198
+    3. xpcall - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/detours/server/net.lua:58
+      5. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+ServerLog: Round proper has begun...
+Retrieving contracts
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 13 dmg
+ServerLog: 00:01.76 - KILL:	 Rosé Tera.gg [traitor] killed deathwish [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 13 dmg
+ServerLog: 00:02.92 - KILL:	 Rosé Tera.gg [traitor] killed Swaglagmagrag tera.gg [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+SoundEmitter:  removing map sound overrides [396 to remove, 6 to restore]
+---- Host_Changelevel ----
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+
+[moat_addons] addons/moat_addons/lua/system/app/core/superadmin.lua:8: ')' expected near '"STEAM_0:1:157100235"'
+  1. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 09:41:31 2021
+MGA | MySQL connection established at Mon Nov 22 09:41:31 2021
+MySQL connection established at Mon Nov 22 09:41:31 2021
+Events | MySQL connection established at Mon Nov 22 09:41:31 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 09:41:31 2021
+Loaded player_servers ID: 1
+Retrieving contracts
+Loaded global gamble chat
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+TTT initializing convar settings...
+Swaglagmagrag tera.gg last joined 12 seconds ago.
+Swaglagmagrag tera.gg has disconnected. (STEAM_0:1:449721500)
+Dropped Swaglagmagrag tera.gg from server (UNAUTHORIZED RANK CHANGE - You have been permanently banned.)
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_invs_sql.lua:5: Tried to use a NULL entity!
+  1. SteamID - [C]:-1
+   2. get_steamid - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_invs_sql.lua:5
+    3. m_LoadInventoryForPlayer - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_invs_sql.lua:817
+     4. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_invs_sql.lua:1733
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_invs_sql.lua (line 1732)]
+Rosé Tera.gg last joined 19 seconds ago.
+ServerLog: Steam API Fail: unsuccessful
+deathwish last joined 22 seconds ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for deathwish
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+ServerLog: Steam API Fail: unsuccessful
+[Rosé Tera.gg|5|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Rosé Tera.gg|5|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00077919500000689 secs to Rosé Tera.gg
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.0010042580000231 secs to deathwish
+lottery_sent
+Retrieving contracts
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+ServerLog: Round proper has begun...
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Retrieving contracts
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for deathwish
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - DMG: 	 Rosé Tera.gg [traitor] damaged deathwish [innocent] for 11 dmg
+ServerLog: 00:19.62 - KILL:	 Rosé Tera.gg [traitor] killed deathwish [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for deathwish
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Rosé Tera.gg|5|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (versus.stats)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:1034
+   2. v - [C]:-1
+    3. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+ServerLog: Round proper has begun...
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350: attempt to concatenate upvalue 'map' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua (line 343)]
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Rosé Tera.gg: (AUTOMATED MESSAGE) I have been moved to the Spectator team because I was idle/AFK.
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637592328, 76561198848501723, "(AUTOMATED MESSAGE) I have been moved to the Spectator team because I was idle/AFK.", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+ServerLog: 02:41.32 - KILL:	 Rosé Tera.gg [innocent] killed Rosé Tera.gg [innocent]
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Rosé Tera.gg|5|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (roulette.roll)
+  1. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:606
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+ServerLog: Round proper has begun...
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350: attempt to concatenate upvalue 'map' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua (line 343)]
+Retrieving contracts
+Rosé Tera.gg has disconnected. (STEAM_0:1:444117997)
+Inventory saved for Rosé Tera.gg
+Dropped Rosé Tera.gg from server (Disconnect by user.)
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+Client "Swaglagmagrag tera.gg" connected (35.129.50.182:27005).
+MGA | STEAM_0:1:449721500 | Connecting
+Dropped Swaglagmagrag tera.gg from server (Get Fucked)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (TTT_LangMsg)
+  1. ProcessMsg - gamemodes/terrortown/gamemode/lang_shd.lua:53
+   2. Msg - gamemodes/terrortown/gamemode/lang_shd.lua:39
+    3. CheckForAbort - addons/moat_addons/lua/system/app/ttt/detours/sv_misc.lua:48
+     4. unknown - addons/moat_addons/lua/system/app/ttt/detours/sv_rounds.lua:53
+
+Rosé Tera.gg last joined 15 seconds ago.
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+[Rosé Tera.gg|6|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Rosé Tera.gg|6|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+ServerLog: Steam API Fail: unsuccessful
+Retrieving contracts
+ServerLog: Round proper has begun...
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350: attempt to concatenate upvalue 'map' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua:350
+
+Timer Failed! [Simple][@addons/moat_addons/lua/plugins/mapvote/core/sv_mapvote.lua (line 343)]
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+rcon from "208.103.169.62:42192": command "mga unban STEAM_0:1:449721500 sex"
+Console has unbanned STEAM_0:1:449721500. Reason: sex.
+🌈 `[02:47:23 PM]` • Player Unbanned • *!unban* • `shrekxy`
+ | `Console (CONSOLE)` has unbanned `STEAM_0:1:449721500`. Reason: *sex*.
+Retrieving contracts
+Retrieving contracts
+rcon from "208.103.169.62:42340": command "mga reload"
+SoundEmitter:  removing map sound overrides [396 to remove, 6 to restore]
+---- Host_Changelevel ----
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+
+[moat_addons] addons/moat_addons/lua/system/app/core/superadmin.lua:8: ')' expected near '"STEAM_0:1:157100235"'
+  1. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+   2. include - [C]:-1
+    3. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 09:47:44 2021
+MGA | MySQL connection established at Mon Nov 22 09:47:44 2021
+MySQL connection established at Mon Nov 22 09:47:44 2021
+Events | MySQL connection established at Mon Nov 22 09:47:44 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 09:47:44 2021
+Loaded player_servers ID: 1
+Client "Swaglagmagrag tera.gg" connected (35.129.50.182:27005).
+MGA | STEAM_0:1:449721500 | Connecting
+Retrieving contracts
+Loaded global gamble chat
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+TTT initializing convar settings...
+Swaglagmagrag tera.gg last joined 6 minutes ago.
+Retrieving contracts
+[Swaglagmagrag tera.gg|8|STEAM_0:1:449721500] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Swaglagmagrag tera.gg|8|STEAM_0:1:449721500] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+deathwish last joined 18 seconds ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+ServerLog: Steam API Fail: unsuccessful
+Inventory saved for deathwish
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[deathwish|3|STEAM_0:1:157100235] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.0013145770000165 secs to deathwish
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+Rosé Tera.gg last joined 27 seconds ago.
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+[Rosé Tera.gg|6|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Rosé Tera.gg|6|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00050766800006841 secs to Rosé Tera.gg
+ServerLog: Round proper has begun...
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+Retrieving contracts
+rcon from "208.103.169.62:42776": command "mga setgroup deathwish director"
+Console has set the rank of deathwish (STEAM_0:1:157100235) to director.
+💇‍ `[02:48:28 PM]` • Player Rank • *!setgroup* • `shrekxy`
+ | `Console (CONSOLE)` has set the rank of `deathwish (STEAM_0:1:157100235)` to *director*.
+deathwish has disconnected. (STEAM_0:1:157100235)
+Inventory saved for deathwish
+Dropped deathwish from server (UNAUTHORIZED RANK CHANGE - You have been permanently banned.)
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (roulette.roll)
+  1. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:606
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637592527, 76561198848501723, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+ServerLog: Round proper has begun...
+Retrieving contracts
+Retrieving contracts
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 12 dmg
+ServerLog: 00:16.84 - KILL:	 Rosé Tera.gg [traitor] killed Swaglagmagrag tera.gg [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat_OpenInventory)
+  1. moat_StartInventoryOpenAntimationEnd - addons/moat_addons/lua/plugins/moat/modules/inv2/shared/sh_anims.lua:56
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/shared/sh_anims.lua:80
+    3. xpcall - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/detours/server/net.lua:58
+      5. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+ServerLog: Round proper has begun...
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 13 dmg
+ServerLog: 00:37.66 - KILL:	 Rosé Tera.gg [innocent] killed Swaglagmagrag tera.gg [traitor]
+Inventory saved for Rosé Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (roulette.roll)
+  1. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:606
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+ServerLog: Round proper has begun...
+Retrieving contracts
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 14 dmg
+ServerLog: 00:02.78 - KILL:	 Rosé Tera.gg [traitor] killed Swaglagmagrag tera.gg [innocent]
+Inventory saved for Rosé Tera.gg
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+'s' access required!
+Inventory saved for Rosé Tera.gg
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (MOAT_REM_INV_ITEM)
+  1. m_RemoveInventoryItem - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:752
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:782
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: Round proper has begun...
+ServerLog: 00:02.72 - DMG: 	 Rosé Tera.gg [innocent] damaged Swaglagmagrag tera.gg [traitor] for 191 dmg
+ServerLog: 00:02.72 - KILL:	 Rosé Tera.gg [innocent] killed Swaglagmagrag tera.gg [traitor]
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (roulette.finishroll)
+  1. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:616
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: Round proper has begun...
+ServerLog: 00:01.28 - DMG: 	 Rosé Tera.gg [traitor] damaged Swaglagmagrag tera.gg [innocent] for 195 dmg
+ServerLog: 00:01.28 - KILL:	 Rosé Tera.gg [traitor] killed Swaglagmagrag tera.gg [innocent]
+ServerLog: Round ended.
+ServerLog: Result: traitors win.
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+[Swaglagmagrag tera.gg|8|STEAM_0:1:449721500] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+[Rosé Tera.gg|6|STEAM_0:1:444117997] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322: attempt to concatenate local 'map' (a nil value)
+  1. Show - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:322
+   2. unknown - addons/moat_addons/lua/plugins/mapvote/core/cl_mapvote.lua:61
+    3. unknown - addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41
+
+
+Retrieving contracts
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[ERROR] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (TTT_Role)
+  1. SendPlayerRoles - gamemodes/terrortown/gamemode/traitor_state.lua:21
+   2. unknown - gamemodes/terrortown/gamemode/traitor_state.lua:107
+
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+MGA | STEAM_0:1:157100235 | Connecting
+Dropped deathwish from server (Get Fucked)
+'s' access required!
+ServerLog: Round proper has begun...
+Retrieving contracts
+rcon from "208.103.169.62:44428": command "mga reload"
+SoundEmitter:  removing map sound overrides [396 to remove, 6 to restore]
+---- Host_Changelevel ----
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 09:51:46 2021
+MGA | MySQL connection established at Mon Nov 22 09:51:46 2021
+MySQL connection established at Mon Nov 22 09:51:46 2021
+Events | MySQL connection established at Mon Nov 22 09:51:46 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 09:51:46 2021
+Loaded player_servers ID: 1
+Retrieving contracts
+Loaded global gamble chat
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+TTT initializing convar settings...
+Swaglagmagrag tera.gg last joined 13 seconds ago.
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Rosé Tera.gg last joined 16 seconds ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+ServerLog: Steam API Fail: unsuccessful
+Inventory sent in 0.0010113470000306 secs to Rosé Tera.gg
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+Retrieving contracts
+ServerLog: Round proper has begun...
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Client "deathwish" connected (75.75.20.78:27005).
+Dropped deathwish from server (Get Fucked)
+MGA | STEAM_0:1:157100235 | Connecting
+Retrieving contracts
+Inventory saved for Swaglagmagrag tera.gg
+rcon from "208.103.169.62:44856": command "mga setgroup swaglagmagrag director"
+Console has set the rank of Swaglagmagrag tera.gg (STEAM_0:1:449721500) to director.
+💇‍ `[02:52:34 PM]` • Player Rank • *!setgroup* • `shrekxy`
+ | `Console (CONSOLE)` has set the rank of `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` to *director*.
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Swaglagmagrag tera.gg has unbanned STEAM_0:1:157100235. Reason: sex.
+🌈 `[02:52:42 PM]` • Player Unbanned • *!unban* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` has unbanned `STEAM_0:1:157100235`. Reason: *sex*.
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+MGA | STEAM_0:1:157100235 | Connecting
+Inventory saved for Rosé Tera.gg
+Swaglagmagrag tera.gg has fixed any invisible players.
+🥋 `[02:53:07 PM]` • Invisible Players • *!noinvis* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` has fixed any invisible players.
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+deathwish last joined 5 minutes ago.
+Retrieving contracts
+Could not find player by SteamID: rose.
+rcon from "208.103.169.62:45222": command "mga setgroup rose director"
+Inventory saved for deathwish
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory sent in 0.00053984500004844 secs to deathwish
+lottery_sent
+ServerLog: Steam API Fail: unsuccessful
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637592813, 76561198274466199, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Unknown rank name: �.
+rcon from "208.103.169.62:45344": command "mga setgroup RosÃ© director"
+MGA | MySQL error: Incorrect string value: '\xC3","\x83"...' for column `mgmt`.`player_logs`.`args` at row 1
+MGA |  | Query: INSERT INTO player_logs (steam_id, name, cmd, args) VALUES ("0", "Console", "setgroup", "[\"Ros\",\"\�\",\"�\",\"\�\",\"�\",\"director\"]");
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+deathwish: moat_drop_item 9
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637592821, 76561198274466199, "moat_drop_item 9", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Inventory saved for Rosé Tera.gg
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+deathwish has disconnected. (STEAM_0:1:157100235)
+Inventory saved for deathwish
+Dropped deathwish from server (Disconnect by user.)
+Swaglagmagrag tera.gg has set the rank of Rosé Tera.gg (STEAM_0:1:444117997) to director.
+💇‍ `[02:53:55 PM]` • Player Rank • *!setgroup* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` has set the rank of `Rosé Tera.gg (STEAM_0:1:444117997)` to *director*.
+Retrieving contracts
+Could not find player by SteamID: None.
+Could not find player by SteamID: None.
+Retrieving contracts
+Client "deathwish" connected (75.75.20.78:27005).
+MGA | STEAM_0:1:157100235 | Connecting
+Retrieving contracts
+Unknown command: mga
+deathwish last joined 28 seconds ago.
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Usage: SetGroup [string:Name/SteamID] [string:Rank] 
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for deathwish
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory sent in 0.0013972850001664 secs to deathwish
+ServerLog: Steam API Fail: unsuccessful
+lottery_sent
+Swaglagmagrag tera.gg has set the rank of deathwish (STEAM_0:1:157100235) to director.
+💇‍ `[02:54:34 PM]` • Player Rank • *!setgroup* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` has set the rank of `deathwish (STEAM_0:1:157100235)` to *director*.
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+ServerLog: 02:49.20 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 02:49.86 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 02:50.46 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 02:51.06 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Swaglagmagrag tera.gg was warned by deathwish. Reason: stop sayin nigger.
+⚠ `[02:55:05 PM]` • Player Warned • *!warn* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` was warned by `deathwish (STEAM_0:1:157100235)`. Reason: *stop sayin nigger*.
+Swaglagmagrag tera.gg was warned by deathwish. Reason: stop sayin nigger.
+⚠ `[02:55:06 PM]` • Player Warned • *!warn* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` was warned by `deathwish (STEAM_0:1:157100235)`. Reason: *stop sayin nigger*.
+Swaglagmagrag tera.gg was warned by deathwish. Reason: stop sayin nigger.
+⚠ `[02:55:07 PM]` • Player Warned • *!warn* • `shrekxy`
+ | `Swaglagmagrag tera.gg (STEAM_0:1:449721500)` was warned by `deathwish (STEAM_0:1:157100235)`. Reason: *stop sayin nigger*.
+Retrieving contracts
+[Swaglagmagrag tera.gg|8|STEAM_0:1:449721500] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/d3a/util.lua:130: attempt to concatenate a boolean value
+  1. FormatTimeNow - addons/moat_addons/lua/plugins/d3a/util.lua:130
+   2. DisplayWarns - addons/moat_addons/lua/plugins/d3a/client/cl_warns.lua:35
+    3. DoClick - addons/moat_addons/lua/plugins/d3a/client/cl_warns.lua:62
+     4. unknown - lua/vgui/dlabel.lua:232
+
+
+ServerLog: 02:56.18 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 02:56.68 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 02:57.30 - DMG: 	 Swaglagmagrag tera.gg [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 02:57.30 - KILL:	 Swaglagmagrag tera.gg [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Round ended.
+ServerLog: Result: innocent win.
+[moat.gg] Query Error: Unknown column 'karma' in 'field list' | With Query: UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;UPDATE mgmt.player SET karma = ? WHERE steam_id = ?;true
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (moat.contracts)
+  1. fun - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:733
+   2. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:642
+    3. v - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:735: bad argument #1 to 'WriteString' (string expected, got boolean)
+
+[moat_addons] Warning! A net message (moat.contracts) is already started! Discarding in favor of the new message! (roulette.roll)
+  1. v - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_games.lua:606
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+Retrieving contracts
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+deathwish was warned by Swaglagmagrag tera.gg. Reason: nigger faggot bitch slut.
+⚠ `[02:55:25 PM]` • Player Warned • *!warn* • `shrekxy`
+ | `deathwish (STEAM_0:1:157100235)` was warned by `Swaglagmagrag tera.gg (STEAM_0:1:449721500)`. Reason: *nigger faggot bitch slut*.
+Retrieving contracts
+deathwish closed your motd.
+You closed the motd for Swaglagmagrag tera.gg.
+📖 `[02:55:29 PM]` • Closed MOTD • *!closemotd* • `shrekxy`
+ | `deathwish (STEAM_0:1:157100235)` has closed the MOTD for `Swaglagmagrag tera.gg (STEAM_0:1:449721500)`.
+Swaglagmagrag tera.gg has disconnected. (STEAM_0:1:449721500)
+Inventory saved for Swaglagmagrag tera.gg
+Dropped Swaglagmagrag tera.gg from server (Disconnect by user.)
+Client "Swaglagmagrag tera.gg" connected (35.129.50.182:27005).
+MGA | STEAM_0:1:449721500 | Connecting
+ServerLog: Round proper has begun...
+Retrieving contracts
+Swaglagmagrag tera.gg last joined 11 seconds ago.
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Swaglagmagrag tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+Inventory saved for deathwish
+Retrieving contracts
+Inventory saved for deathwish
+Usage: Lua [string:Lua] 
+Retrieving contracts
+Retrieving contracts
+Inventory saved for Rosé Tera.gg

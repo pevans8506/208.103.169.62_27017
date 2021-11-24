@@ -1,0 +1,1469 @@
+------------------------------------
+--
+-- Paint Collection
+--
+------------------------------------
+
+
+mi.Item(683)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Paint Scraper"
+	:SetDesc "Using this item allows you to take off skins/paints/tints.."
+	:SetImage "https://tera.gg/ttt/misc/paint_scraper64.png"
+	:SetItemCheck (15)
+	:SetCollection "Paint Collection"
+	:SetShop (30000, true, 1615017600)
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(6017)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Detox Purple Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {157, 153, 188}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6049)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Pure Orange Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {100, 60, 0}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6002)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Joker Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {2, 153, 57}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6018)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Glossy Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {0, 70, 0}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6050)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Very Soft Pink Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {97, 69, 72}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6047)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Electric Lime Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {80, 100, 0}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6045)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Glycerine Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {3, 51, 9}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6042)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Serpentine Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {64, 124, 132}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6040)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Chameleon Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {0, 43, 21}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6039)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Bleak Banana Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {236, 255, 140}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6051)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "New Lime Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {3, 39, 15}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6004)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Bleek Banana Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {236, 255, 140}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6030)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Dr. Pepper Red Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {153, 34, 34}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6029)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Monster Energy Neon Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {51, 255, 153}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6028)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Red Bull Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {51, 51, 153}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6025)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Deep Red Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {229, 14, 6}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6032)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Electric Lime Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {206, 250, 5}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6006)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Magnetic Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {73, 76, 153}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6033)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Blazing Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {44, 117, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6087)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Monster Energy Neon Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {51, 255, 153}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6100)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Serpentine Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {64, 124, 132}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6098)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Chameleon Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {0, 43, 21}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6062)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Bleek Banana Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {236, 255, 140}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6109)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "New Lime Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {3, 39, 15}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6108)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Very Soft Pink Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {97, 69, 72}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6107)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Pure Orange Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {100, 60, 0}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6105)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Electric Lime Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {80, 100, 0}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6103)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Glycerine Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {3, 51, 9}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6083)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Deep Red Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {229, 14, 6}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6091)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Blazing Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {44, 117, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6090)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Electric Lime Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {206, 250, 5}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6088)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Dr. Pepper Red Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {153, 34, 34}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6086)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Red Bull Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {51, 51, 153}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6064)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Magnetic Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {73, 76, 153}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6060)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Joker Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {2, 153, 57}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6076)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Glossy Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {0, 70, 0}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6075)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Detox Purple Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {157, 153, 188}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6097)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Bleak Banana Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {236, 255, 140}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(6056)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Neon Lime Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {0, 150, 45}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6054)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Light Teal Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {103, 186, 181}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6034)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Sunshine Orange Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {255, 65, 5}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6052)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Brown Town Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {39, 15, 3}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6037)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Lazer Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {0, 15, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6043)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Menacing Red Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {52, 0, 17}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6041)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Perpiling Purple Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {140, 138, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6005)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Water Melon Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {187, 235, 42}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6031)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Razer Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {71, 225, 12}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6027)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Freeze Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {140, 255, 50}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6026)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Flueorescent Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {5, 193, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6013)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Neon Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {5, 193, 25}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6009)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Bright Purple Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {96, 62, 148}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6007)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Aqua Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {66, 208, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6065)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Aqua Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {66, 208, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6085)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Freeze Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {140, 255, 50}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6114)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Neon Lime Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {0, 150, 45}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6110)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Brown Town Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {39, 15, 3}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6099)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Perpiling Purple Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {140, 138, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6101)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Menacing Red Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {52, 0, 17}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6071)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Neon Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {5, 193, 25}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6067)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Bright Purple Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {96, 62, 148}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6095)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Lazer Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {0, 15, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6092)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Sunshine Orange Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {255, 65, 5}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6089)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Razer Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {71, 225, 12}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6112)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Light Teal Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {103, 186, 181}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6084)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Flueorescent Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {5, 193, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6063)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Water Melon Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {187, 235, 42}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(6055)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Neon Mint Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {0, 204, 120}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6053)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Nardo Grey Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {104, 106, 118}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6003)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Pindel Pink Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {247, 136, 206}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6046)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Corrosive Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {132, 255, 10}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6044)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Creamsicle Orange Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {242, 80, 32}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6035)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Electric Indigo Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {111, 0, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6019)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Sky Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {127, 200, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6038)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Neon Aqua Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {123, 255, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6048)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Deep Pink Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {100, 0, 40}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6012)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Turkey Stuffer Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {22, 161, 18}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6010)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Neon Pink Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {255, 105, 180}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6061)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Pindel Pink Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {247, 136, 206}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6068)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Neon Pink Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {255, 105, 180}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6111)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Nardo Grey Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {104, 106, 118}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6106)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Deep Pink Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {100, 0, 40}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6104)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Corrosive Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {132, 255, 10}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6102)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Creamsicle Orange Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {242, 80, 32}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6093)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Electric Indigo Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {111, 0, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6096)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Neon Aqua Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {123, 255, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6070)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Turkey Stuffer Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {22, 161, 18}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6077)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Sky Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {127, 200, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6113)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Neon Mint Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {0, 204, 120}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(6057)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Pure White Tint"
+	:NotDroppable (true)
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {255, 255, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6021)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Pure Black Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {0, 0, 0}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6036)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "American Rose Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {255, 3, 62}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6023)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Bright Orange Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {251, 86, 4}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6024)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Cotton Candy Pink Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {249, 82, 107}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6022)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Sharpe Yellow Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {255, 255, 1}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6020)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Neon Sky Blue Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {123, 255, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6001)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Mint Green Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {3, 255, 171}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6014)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Neon Purple Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {27, 29, 163}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6008)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Toxic Yellow Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {221, 225, 3}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6082)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Cotton Candy Pink Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {249, 82, 107}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6066)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Toxic Yellow Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {221, 225, 3}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6115)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Pure White Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {255, 255, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6059)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Mint Green Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {3, 255, 171}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6094)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "American Rose Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {255, 3, 62}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6080)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Sharpe Yellow Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {255, 255, 1}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6079)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Pure Black Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {0, 0, 0}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6078)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Neon Sky Blue Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {123, 255, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6072)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Neon Purple Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {27, 29, 163}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6081)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Bright Orange Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {251, 86, 4}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(6058)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "George's Surprise Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {115, 34, 136}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6016)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Hot Pink Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {255, 105, 180}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6015)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Dark Gold Chrome Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {251, 184, 41}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6011)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Bright Gold Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/misc/tint.png"
+	:SetClr {227, 190, 70}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6116)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "George's Surprise Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {115, 34, 136}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6074)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Hot Pink Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {255, 105, 180}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6073)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Dark Gold Chrome Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {251, 184, 41}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6069)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Bright Gold Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/misc/paint.png"
+	:SetClr {227, 190, 70}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(6566)
+	:SetRarity (9)
+	:SetType "Usable"
+	:SetName "Infinity Tint"
+	:SetDesc "Right click this tint to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/drops/inf.png"
+	:SetClr {255, 255, 255}
+	:SetPaintVer (1)
+	:SetItemCheck (11)
+	:ItemUsed (function(pl, slot, item) m_TintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"
+
+mi.Item(6565)
+	:SetRarity (9)
+	:SetType "Usable"
+	:SetName "Infinity Paint"
+	:SetDesc "Right click this paint to use it on an item."
+	:SetImage "https://tera.gg/ttt/drops/inf.png"
+	:SetClr {255, 255, 255}
+	:SetPaintVer (2)
+	:SetItemCheck (10)
+	:ItemUsed (function(pl, slot, item) m_PaintItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paint Collection"

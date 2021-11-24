@@ -1,0 +1,235 @@
+------------------------------------
+--
+-- Cinco de Mayo Collection
+--
+------------------------------------
+
+
+mi.Item(3394)
+	:SetRarity (3)
+	:SetType "Crate"
+	:SetName "Cinco De Mayo"
+	:NotDroppable (true)
+	:SetColor {255, 45, 45}
+	:SetEffect "enchanted"
+	:SetDesc "This box contains an item from the Cinco De Mayo Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/cinco_crate64.png"
+	:SetCollection "Cinco de Mayo Collection"
+	:SetShop (5550, true)
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(3337)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Young"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3337)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Young"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Cinco de Mayo Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(3339)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Mexican"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3339)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Mexican"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Cinco de Mayo Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(3397)
+	:SetRarity (4)
+	:SetType "Body"
+	:SetName "Balloonicorno"
+	:SetDesc "Hey look, you finally have a friend now."
+	:SetModel "models/gmod_tower/balloonicorn_nojiggle.mdl"
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3397)
+	:SetRarity (4)
+	:SetType "Body"
+	:SetName "Balloonicorno"
+	:SetDesc "Hey look, you finally have a friend now."
+	:SetModel "models/gmod_tower/balloonicorn_nojiggle.mdl"
+	:SetCollection "Cinco de Mayo Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(3345)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Authentic"
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3396)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Mexican Sombrero"
+	:SetDesc "A special hat in the annual celebration of Cinco de Mayo.."
+	:SetModel "models/gmod_tower/sombrero.mdl"
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3345)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Authentic"
+	:SetEffect "glow"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3396)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Mexican Sombrero"
+	:SetDesc "A special hat in the annual celebration of Cinco de Mayo.."
+	:SetModel "models/gmod_tower/sombrero.mdl"
+	:SetCollection "Cinco de Mayo Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(3347)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Community"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3347)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Community"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Cinco de Mayo Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(3348)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Kinship"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Cinco de Mayo Collection"
+
+mi.Item(3348)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Kinship"
+	:SetEffect "glow"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Cinco de Mayo Collection"

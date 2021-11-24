@@ -1,0 +1,16 @@
+------------------------------------
+--
+-- Golden Easter Collection
+--
+------------------------------------
+
+
+mi.Item(8997)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Golden Easter Basket"
+	:NotDroppable (true)
+	:SetDesc "This basket contains a rare item from the Easter Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/easter_basket64.png"
+	:SetCollection "Golden Easter Collection"
+	:SetShop (350, false)

@@ -1,0 +1,46 @@
+------------------------------------
+--
+-- Dual Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(13372)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Dual"
+	:SetColor {0, 255, 128}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+		:SetTalent (1, "Twins")
+	:SetCollection "Dual Collection"
+
+mi.Item(13372)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Dual"
+	:SetColor {0, 255, 128}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+		:SetTalent (1, "Twins")
+	:SetCollection "Dual Collection"

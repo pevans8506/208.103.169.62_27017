@@ -1,0 +1,80 @@
+------------------------------------
+--
+-- Community Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(1574)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Soulbound"
+	:NotDroppable (true)
+	:SetColor {112, 176, 74}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -0, -5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 0, 5)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", 0, -5)
+		:SetStat ("Range", 0, 5)
+	:SetTalents (3, 3)
+	:SetCollection "Community Collection"
+
+mi.Item(1575)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Self-Made"
+	:NotDroppable (true)
+	:SetColor {112, 176, 74}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (4, 4)
+	:SetCollection "Community Collection"
+
+mi.Item(1574)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Soulbound"
+	:NotDroppable (true)
+	:SetColor {112, 176, 74}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -0, -5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 0, 5)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", 0, -5)
+		:SetStat ("Range", 0, 5)
+	:SetTalents (3, 3)
+	:SetCollection "Community Collection"
+
+mi.Item(1575)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Self-Made"
+	:NotDroppable (true)
+	:SetColor {112, 176, 74}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (4, 4)
+	:SetCollection "Community Collection"

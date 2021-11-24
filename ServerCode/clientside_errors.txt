@@ -1,0 +1,110 @@
+Rosé Tera.gg|2|STEAM_0:1:444117997
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+
+deathwish|3|STEAM_0:1:157100235
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+
+Jadem Tera.gg|4|STEAM_0:1:218853807
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - lua/includes/modules/hook.lua:84
+
+
+
+Jadem Tera.gg|4|STEAM_0:1:218853807
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+
+deathwish|5|STEAM_0:1:157100235
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+
+deathwish|5|STEAM_0:1:157100235
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/cl_moat_titles.lua:842: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. open_profile_card - addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/cl_moat_titles.lua:842
+    3. func - addons/moat_addons/lua/plugins/moat/modules/scoreboard/cl_moat_scoreboard.lua:163
+     4. DoClick - addons/moat_addons/lua/plugins/moat/modules/scoreboard/cl_moat_scoreboard.lua:107
+      5. OnMouseReleased - lua/vgui/dlabel.lua:237
+       6. unknown - addons/moat_addons/lua/plugins/moat/modules/gwen/cl_moat_skin.lua:1352
+
+
+
+D12|6|STEAM_0:0:238573055
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269: attempt to call global 'm_DrawFoundItem' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269
+   2. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+D12|6|STEAM_0:0:238573055
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269: attempt to call global 'm_DrawFoundItem' (a nil value)
+  1. unknown - addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_inspect.lua:269
+   2. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+D12|6|STEAM_0:0:238573055
+
+[moat_addons] addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Update - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107
+    3. DrawSettings - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:117
+     4. OpenMenu - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:94
+      5. Think - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:114
+       6. v - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:129
+        7. unknown - lua/includes/modules/hook.lua:84
+
+
+
+deathwish|8|STEAM_0:1:157100235
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58: attempt to call upvalue 'Struct' (a nil value)
+  1. unknown - addons/moat_addons/lua/system/app/yugh/extensions/http.lua:58
+
+
+
+D12|6|STEAM_0:0:238573055
+
+[moat_addons] addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Update - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107
+    3. DrawSettings - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:117
+     4. OpenMenu - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:94
+      5. Think - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:114
+       6. v - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:129
+        7. unknown - lua/includes/modules/hook.lua:84
+
+
+
+deathwish|8|STEAM_0:1:157100235
+
+[moat_addons] addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Update - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:107
+    3. DrawSettings - addons/moat_addons/lua/plugins/logs/damagelogs/utils/cl_tabs/settings.lua:117
+     4. OpenMenu - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:94
+      5. Think - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:114
+       6. v - addons/moat_addons/lua/plugins/logs/damagelogs/client/cl_damagelog.lua:129
+        7. unknown - lua/includes/modules/hook.lua:84
+
+
+

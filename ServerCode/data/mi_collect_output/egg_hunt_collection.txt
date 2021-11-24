@@ -1,0 +1,3061 @@
+------------------------------------
+--
+-- Egg Hunt Collection
+--
+------------------------------------
+
+
+mi.Item(8983)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Old Timey Easter Egg"
+	:SetDesc "A usable capable of summoning an easter egg."
+	:SetImage "https://tera.gg/ttt/misc/easter_eggold64.png"
+	:SetCollection "Egg Hunt Collection"
+	:SetShop (100, false)
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(9000)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bluesteel Egg Of Genius"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bluesteel_egg_of_genius.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9001)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Aqueous Egg Of River Riding"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/aqueous_egg_of_river_riding.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9002)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wikipedian Egg Of Alien Mind Control"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/wikipedian_egg_of_alien_mind_control.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9003)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Vicious Egg Of Singularity"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/vicious_egg_of_singularity.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9004)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chrome Egg Of Speeding Bullet"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/chrome_egg_of_speeding_bullet.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9005)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dodge Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dodge_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9006)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggotrip"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggotrip.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9007)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Unassuming Egg Of Shyness"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/unassuming_egg_of_shyness.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9008)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dark Crimson Egg Of Nemesis"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dark_crimson_egg_of_nemesis.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9009)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Duskeye Egg Of The Crossroads"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/duskeye_egg_of_the_crossroads.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9010)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Terrordactyl Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/terrordactyl_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9011)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggsplosive Bomb Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggsplosive_bomb_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9012)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggtus"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggtus.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9013)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Strawbeggy"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/strawbeggy.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9014)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Stooge Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/stooge_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9015)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Blinking Egg Of Relocation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/blinking_egg_of_relocation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9016)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Starry Egg Of The Wild Ride"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/starry_egg_of_the_wild_ride.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9017)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Self Replicating Egg Of Grey Goo"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/self_replicating_egg_of_grey_goo.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9018)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Rusty Egg Of Magnetism"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/rusty_egg_of_magnetism.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9019)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Ruby Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/ruby_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9020)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Beehive Egg Of Infinite Stings"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/beehive_egg_of_infinite_stings.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9021)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Puzzling Egg Of Enigma"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/puzzling_egg_of_enigma.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9022)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Organic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/organic_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9023)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Normal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/normal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9024)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of All-Devouring Darkness"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_all-devouring_darkness.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9025)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lumineggscence"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/lumineggscence.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9026)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Kind Egg Of Sharing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/kind_egg_of_sharing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9027)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggvertisement Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggvertisement_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9028)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Flawless Teamwork"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_flawless_teamwork.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9029)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Invisible Egg Of Shadow"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/invisible_egg_of_shadow.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9030)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggsterminator Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggsterminator_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9031)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Impossible Egg Of Genius"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/impossible_egg_of_genius.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9032)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cataclysmic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cataclysmic_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9033)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Heat-Seeking Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/heat-seeking_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9034)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Four Wonders"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_four_wonders.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9035)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Golden Egg Of Kings"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/golden_egg_of_kings.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9036)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Full Moon Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/full_moon_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9037)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Equinox Day"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_equinox_day.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9038)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Extinct Egg Of Dino On Ice"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/extinct_egg_of_dino_on_ice.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9039)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Fiery Egg Of Egg Testing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/fiery_egg_of_egg_testing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9040)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Explosive Egg Of Kaboom"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/explosive_egg_of_kaboom.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9041)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Invisible Egg Of Shadow Notinvisible"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/invisible_egg_of_shadow_notinvisible.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9042)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Insanely Valuable Crystal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/insanely_valuable_crystal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9043)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Shield"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_shield.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9044)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Subterranean Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/subterranean_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9045)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bouncing Egg Of Boing Boing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bouncing_egg_of_boing_boing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9046)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg-Bit"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg-bit.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9047)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Verticality"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_verticality.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9048)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Basic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/basic_egg_2014.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9049)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Colored Dot Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/colored_dot_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9050)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Frostbitten Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/frostbitten_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9051)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bombastic Egg Of Annihilation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bombastic_egg_of_annihilation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9052)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggmageddon"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggmageddon.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9053)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Epic Growth"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_epic_growth.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9054)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dust Deviled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dust_deviled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9055)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chocolate Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/chocolate_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9056)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Brighteyes Pink Egg Of Anticipation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/brighteyes_pink_egg_of_anticipation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9057)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Brighteyes Lavender Egg Of Anticipation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/brighteyes_lavender_egg_of_anticipation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9058)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Equinox Night"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_equinox_night.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9059)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Destiny"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_destiny.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9060)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Frost"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_frost.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9061)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Arborists Verdant Egg Of Leafyness"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/arborists_verdant_egg_of_leafyness.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9062)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Royal Agate Egg Of Beautiful Dreams"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/royal_agate_egg_of_beautiful_dreams.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9063)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Radioactive Egg Of Undead Apocalypse"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/radioactive_egg_of_undead_apocalypse.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9064)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tiger Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tiger_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9065)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tldr Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tldr_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9066)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Violently Pink Egg Of Violent Opinions"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/violently_pink_egg_of_violent_opinions.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9067)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Friendship"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_friendship.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9068)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Futuristic Egg Of Antigravity"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/futuristic_egg_of_antigravity.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9069)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggscrutiatingly Deviled Scripter"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggscrutiatingly_deviled_scripter.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9070)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scenic Egg Of The Clouds"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scenic_egg_of_the_clouds.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9071)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Preggstoric Fossil"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/preggstoric_fossil.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9072)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Shiny Gold Egg Of Switcheroo"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/shiny_gold_egg_of_switcheroo.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9073)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Yolks On Us"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/yolks_on_us.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9074)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mean Eggstructor"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mean_eggstructor.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9075)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Aqua Pal Of Egglantis"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/aqua_pal_of_egglantis.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9077)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wanwood Egg Of Zomg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/wanwood_egg_of_zomg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9078)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Last Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_last_egg_2013.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9079)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Fiery Dreggon"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/fiery_dreggon.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9080)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Elevated Egg Of The Eyrie"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/elevated_egg_of_the_eyrie.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9081)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cracked Egg Of Pwnage"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cracked_egg_of_pwnage.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9082)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Rabid Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/rabid_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9083)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Easiest Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_easiest_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9084)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggcellent Pearl"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggcellent_pearl.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9085)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bird Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bird_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9086)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of The Phoenix"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_the_phoenix.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9087)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Watermelon"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/watermelon.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9088)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Mad Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_mad_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9089)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Cooperation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_cooperation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9090)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cracked Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cracked_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9091)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Cloud Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_cloud_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9092)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Partnership"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_partnership.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9093)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggsplosion"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggsplosion.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9094)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Last Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_last_egg_2012.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9095)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Thundering Egg Of Lightning Strikes"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/thundering_egg_of_lightning_strikes.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9096)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Eggverse"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_eggverse.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9097)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Obsidian Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_obsidian_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9098)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pow To The Moon Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/pow_to_the_moon_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9099)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggdress Of The Chief"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggdress_of_the_chief.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9100)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "IEgg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/iegg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9101)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tldr Egg Of Eggstreme Aggravation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tldr_egg_of_eggstreme_aggravation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9102)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Timer"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_timer.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9103)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggy Pop"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggy_pop.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9104)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Top Of The World Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/top_of_the_world_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9105)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Luregg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/luregg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9106)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scrambled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scrambled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9107)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Vanishing Ninja Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/vanishing_ninja_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9108)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Vampiric Egg Of Twilight"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/vampiric_egg_of_twilight.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9109)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dicey Egg Of Chance"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dicey_egg_of_chance.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9110)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Unstable Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/unstable_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9111)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Phantom Of The Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/phantom_of_the_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9112)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Pirate Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_pirate_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9113)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Answer Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_answer_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9114)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lost In Transit Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/lost_in_transit_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9115)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Plum Nesting Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/plum_nesting_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9116)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lemon Nesting Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/lemon_nesting_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9117)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Amber Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_amber_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9118)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Fancy Egg Of Fabulous"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/fancy_egg_of_fabulous.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9119)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Last Egg Standing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/last_egg_standing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9120)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mystical Eggchemist"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mystical_eggchemist.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9121)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cherry Nesting Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cherry_nesting_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9122)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tesla Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tesla_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9123)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tabby Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tabby_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9124)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Super Bomb Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/super_bomb_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9125)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pompeiian Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/pompeiian_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9126)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Specular Egg Of Red No Blue"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/specular_egg_of_red_no_blue.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9127)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Petrified Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/petrified_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9128)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Hyperactive Egg Of Hyperactivity"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/hyperactive_egg_of_hyperactivity.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9129)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Seal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/seal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9130)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggvertisement Egg  Pastel Boogaloo"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggvertisement_egg_2_pastel_boogaloo.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9131)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggcano"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggcano.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9132)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggrachnophobia"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggrachnophobia.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9133)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Zenos Egg Of Paradox"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/zenos_egg_of_paradox.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9134)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Stationary Egg Of Boring"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/stationary_egg_of_boring.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9135)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sharing Egg Of Gifting"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/sharing_egg_of_gifting.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9136)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Billy The Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/billy_the_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9137)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pegguin"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/pegguin.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9138)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Ra"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_ra.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9139)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scramblin Egg Of Teleporting"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scramblin_egg_of_teleporting.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9140)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Abyssal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_abyssal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9141)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Office Professional Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/office_professional_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9142)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg 9000"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg9000.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9143)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Agonizingly Ugly Egg Of Screensplat"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/agonizingly_ugly_egg_of_screensplat.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9144)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Farmer"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_farmer.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9145)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Luck"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_luck.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9146)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Deviled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/deviled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9147)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Flawless Deduction"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_flawless_deduction.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9148)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Humpty Dumpty"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/humpty_dumpty.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9149)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Martian Egghunter"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/martian_egghunter.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9150)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Ebr Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/ebr_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9151)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggressor"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggressor.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9152)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Peep-A-Boo Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/peep-a-boo_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9153)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggvalanche!"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggvalanche!.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9154)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mummy Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mummy_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9155)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Faster Than Light Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/faster_than_light_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9156)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Admin Egg Of Mischief"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/admin_egg_of_mischief.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9157)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Pearl"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_pearl.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9158)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Leftover Egg Of Whatevers Left"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/leftover_egg_of_whatevers_left.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9159)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Ethereal Ghost Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/ethereal_ghost_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9160)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggtraterrestrial"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggtraterrestrial.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9161)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gge"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/gge.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9162)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Basket Of Eggception"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/basket_of_eggception.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9163)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Air Balloon Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/s.s_egg_-_the_mighty_dirigible.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9164)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wizard Of Astral Isles"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/wizard_of_astral_isles.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9165)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Racin Egg Of Fast Cars"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/racin_egg_of_fast_cars.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9166)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tiny Egg Of Nonexistence"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tiny_egg_of_nonexistence.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9167)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Treasure Eggland"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/treasure_eggland.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9168)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Space"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_space.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9169)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggcognito Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggcognito_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9170)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Innocence"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_innocence.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9171)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Sands Of Time"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_sands_of_time.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9172)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Eggteen-Twelve Overture"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_eggteen-twelve_overture.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9173)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cannonical Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cannonical_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9174)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Alien Arteggfact"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/alien_arteggfact.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9175)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bellegg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bellegg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9176)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scribbled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scribbled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9177)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Malicious Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/malicious_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9178)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Close Eggcounters"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/close_eggcounters.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9179)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Life"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_life.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9180)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sorcus Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/sorcus_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9181)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Duty"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_duty.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9182)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sand Shark Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/sand_shark_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9183)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Golden Achievement"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_golden_achievement.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9184)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Scales"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_scales.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9185)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Combo Egg Of Trolllolol"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/combo_egg_of_trolllolol.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9186)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Snowspheroid"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/snowspheroid.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9187)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mercurial Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mercurial_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9188)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Supersonic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/supersonic_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9189)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Eggtopus"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_eggtopus.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9190)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gooey Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/gooey_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9000)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bluesteel Egg Of Genius"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bluesteel_egg_of_genius.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9001)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Aqueous Egg Of River Riding"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/aqueous_egg_of_river_riding.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9002)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wikipedian Egg Of Alien Mind Control"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/wikipedian_egg_of_alien_mind_control.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9003)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Vicious Egg Of Singularity"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/vicious_egg_of_singularity.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9004)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chrome Egg Of Speeding Bullet"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/chrome_egg_of_speeding_bullet.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9005)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dodge Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dodge_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9006)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggotrip"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggotrip.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9007)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Unassuming Egg Of Shyness"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/unassuming_egg_of_shyness.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9008)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dark Crimson Egg Of Nemesis"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dark_crimson_egg_of_nemesis.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9009)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Duskeye Egg Of The Crossroads"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/duskeye_egg_of_the_crossroads.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9010)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Terrordactyl Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/terrordactyl_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9011)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggsplosive Bomb Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggsplosive_bomb_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9012)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggtus"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggtus.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9013)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Strawbeggy"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/strawbeggy.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9014)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Stooge Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/stooge_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9015)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Blinking Egg Of Relocation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/blinking_egg_of_relocation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9016)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Starry Egg Of The Wild Ride"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/starry_egg_of_the_wild_ride.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9017)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Self Replicating Egg Of Grey Goo"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/self_replicating_egg_of_grey_goo.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9018)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Rusty Egg Of Magnetism"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/rusty_egg_of_magnetism.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9019)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Ruby Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/ruby_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9020)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Beehive Egg Of Infinite Stings"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/beehive_egg_of_infinite_stings.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9021)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Puzzling Egg Of Enigma"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/puzzling_egg_of_enigma.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9022)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Organic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/organic_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9023)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Normal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/normal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9024)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of All-Devouring Darkness"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_all-devouring_darkness.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9025)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lumineggscence"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/lumineggscence.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9026)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Kind Egg Of Sharing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/kind_egg_of_sharing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9027)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggvertisement Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggvertisement_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9028)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Flawless Teamwork"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_flawless_teamwork.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9029)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Invisible Egg Of Shadow"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/invisible_egg_of_shadow.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9030)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggsterminator Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggsterminator_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9031)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Impossible Egg Of Genius"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/impossible_egg_of_genius.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9032)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cataclysmic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cataclysmic_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9033)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Heat-Seeking Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/heat-seeking_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9034)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Four Wonders"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_four_wonders.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9035)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Golden Egg Of Kings"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/golden_egg_of_kings.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9036)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Full Moon Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/full_moon_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9037)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Equinox Day"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_equinox_day.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9038)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Extinct Egg Of Dino On Ice"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/extinct_egg_of_dino_on_ice.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9039)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Fiery Egg Of Egg Testing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/fiery_egg_of_egg_testing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9040)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Explosive Egg Of Kaboom"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/explosive_egg_of_kaboom.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9041)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Invisible Egg Of Shadow Notinvisible"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/invisible_egg_of_shadow_notinvisible.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9042)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Insanely Valuable Crystal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/insanely_valuable_crystal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9043)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Shield"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_shield.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9044)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Subterranean Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/subterranean_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9045)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bouncing Egg Of Boing Boing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bouncing_egg_of_boing_boing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9046)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg-Bit"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg-bit.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9047)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Verticality"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_verticality.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9048)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Basic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/basic_egg_2014.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9049)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Colored Dot Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/colored_dot_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9050)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Frostbitten Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/frostbitten_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9051)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bombastic Egg Of Annihilation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bombastic_egg_of_annihilation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9052)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggmageddon"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggmageddon.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9053)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Epic Growth"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_epic_growth.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9054)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dust Deviled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dust_deviled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9055)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Chocolate Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/chocolate_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9056)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Brighteyes Pink Egg Of Anticipation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/brighteyes_pink_egg_of_anticipation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9057)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Brighteyes Lavender Egg Of Anticipation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/brighteyes_lavender_egg_of_anticipation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9058)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Equinox Night"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_equinox_night.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9059)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Destiny"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_destiny.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9060)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Frost"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_frost.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9061)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Arborists Verdant Egg Of Leafyness"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/arborists_verdant_egg_of_leafyness.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9062)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Royal Agate Egg Of Beautiful Dreams"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/royal_agate_egg_of_beautiful_dreams.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9063)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Radioactive Egg Of Undead Apocalypse"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/radioactive_egg_of_undead_apocalypse.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9064)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tiger Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tiger_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9065)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tldr Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tldr_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9066)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Violently Pink Egg Of Violent Opinions"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/violently_pink_egg_of_violent_opinions.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9067)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Friendship"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_friendship.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9068)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Futuristic Egg Of Antigravity"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/futuristic_egg_of_antigravity.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9069)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggscrutiatingly Deviled Scripter"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggscrutiatingly_deviled_scripter.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9070)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scenic Egg Of The Clouds"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scenic_egg_of_the_clouds.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9071)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Preggstoric Fossil"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/preggstoric_fossil.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9072)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Shiny Gold Egg Of Switcheroo"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/shiny_gold_egg_of_switcheroo.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9073)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Yolks On Us"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/yolks_on_us.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9074)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mean Eggstructor"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mean_eggstructor.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9075)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Aqua Pal Of Egglantis"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/aqua_pal_of_egglantis.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9077)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wanwood Egg Of Zomg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/wanwood_egg_of_zomg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9078)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Last Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_last_egg_2013.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9079)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Fiery Dreggon"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/fiery_dreggon.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9080)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Elevated Egg Of The Eyrie"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/elevated_egg_of_the_eyrie.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9081)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cracked Egg Of Pwnage"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cracked_egg_of_pwnage.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9082)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Rabid Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/rabid_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9083)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Easiest Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_easiest_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9084)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggcellent Pearl"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggcellent_pearl.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9085)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bird Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bird_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9086)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of The Phoenix"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_the_phoenix.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9087)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Watermelon"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/watermelon.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9088)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Mad Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_mad_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9089)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Cooperation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_cooperation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9090)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cracked Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cracked_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9091)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Cloud Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_cloud_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9092)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Partnership"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_partnership.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9093)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggsplosion"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggsplosion.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9094)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Last Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_last_egg_2012.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9095)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Thundering Egg Of Lightning Strikes"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/thundering_egg_of_lightning_strikes.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9096)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Eggverse"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_eggverse.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9097)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Obsidian Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_obsidian_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9098)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pow To The Moon Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/pow_to_the_moon_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9099)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggdress Of The Chief"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggdress_of_the_chief.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9100)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "IEgg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/iegg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9101)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tldr Egg Of Eggstreme Aggravation"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tldr_egg_of_eggstreme_aggravation.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9102)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Timer"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_timer.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9103)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggy Pop"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggy_pop.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9104)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Top Of The World Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/top_of_the_world_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9105)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Luregg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/luregg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9106)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scrambled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scrambled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9107)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Vanishing Ninja Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/vanishing_ninja_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9108)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Vampiric Egg Of Twilight"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/vampiric_egg_of_twilight.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9109)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Dicey Egg Of Chance"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/dicey_egg_of_chance.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9110)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Unstable Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/unstable_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9111)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Phantom Of The Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/phantom_of_the_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9112)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Pirate Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_pirate_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9113)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Answer Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_answer_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9114)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lost In Transit Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/lost_in_transit_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9115)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Plum Nesting Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/plum_nesting_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9116)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Lemon Nesting Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/lemon_nesting_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9117)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Amber Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_amber_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9118)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Fancy Egg Of Fabulous"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/fancy_egg_of_fabulous.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9119)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Last Egg Standing"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/last_egg_standing.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9120)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mystical Eggchemist"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mystical_eggchemist.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9121)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cherry Nesting Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cherry_nesting_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9122)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tesla Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tesla_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9123)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tabby Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tabby_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9124)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Super Bomb Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/super_bomb_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9125)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pompeiian Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/pompeiian_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9126)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Specular Egg Of Red No Blue"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/specular_egg_of_red_no_blue.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9127)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Petrified Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/petrified_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9128)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Hyperactive Egg Of Hyperactivity"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/hyperactive_egg_of_hyperactivity.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9129)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Seal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/seal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9130)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggvertisement Egg  Pastel Boogaloo"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggvertisement_egg_2_pastel_boogaloo.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9131)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggcano"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggcano.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9132)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggrachnophobia"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggrachnophobia.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9133)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Zenos Egg Of Paradox"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/zenos_egg_of_paradox.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9134)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Stationary Egg Of Boring"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/stationary_egg_of_boring.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9135)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sharing Egg Of Gifting"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/sharing_egg_of_gifting.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9136)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Billy The Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/billy_the_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9137)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Pegguin"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/pegguin.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9138)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Ra"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_ra.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9139)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scramblin Egg Of Teleporting"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scramblin_egg_of_teleporting.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9140)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Abyssal Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_abyssal_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9141)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Office Professional Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/office_professional_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9142)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg 9000"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg9000.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9143)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Agonizingly Ugly Egg Of Screensplat"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/agonizingly_ugly_egg_of_screensplat.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9144)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Farmer"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_farmer.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9145)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Luck"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_luck.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9146)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Deviled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/deviled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9147)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Flawless Deduction"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_flawless_deduction.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9148)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Humpty Dumpty"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/humpty_dumpty.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9149)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Martian Egghunter"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/martian_egghunter.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9150)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Ebr Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/ebr_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9151)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggressor"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggressor.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9152)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Peep-A-Boo Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/peep-a-boo_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9153)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggvalanche!"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggvalanche!.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9154)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mummy Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mummy_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9155)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Faster Than Light Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/faster_than_light_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9156)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Admin Egg Of Mischief"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/admin_egg_of_mischief.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9157)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Pearl"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_pearl.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9158)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Leftover Egg Of Whatevers Left"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/leftover_egg_of_whatevers_left.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9159)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Ethereal Ghost Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/ethereal_ghost_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9160)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggtraterrestrial"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggtraterrestrial.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9161)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gge"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/gge.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9162)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Basket Of Eggception"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/basket_of_eggception.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9163)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Air Balloon Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/s.s_egg_-_the_mighty_dirigible.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9164)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Wizard Of Astral Isles"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/wizard_of_astral_isles.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9165)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Racin Egg Of Fast Cars"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/racin_egg_of_fast_cars.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9166)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Tiny Egg Of Nonexistence"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/tiny_egg_of_nonexistence.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9167)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Treasure Eggland"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/treasure_eggland.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9168)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Space"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_space.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9169)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Eggcognito Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/eggcognito_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9170)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Innocence"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_innocence.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9171)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Sands Of Time"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_sands_of_time.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9172)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Eggteen-Twelve Overture"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_eggteen-twelve_overture.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9173)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Cannonical Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/cannonical_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9174)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Alien Arteggfact"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/alien_arteggfact.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9175)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Bellegg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/bellegg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9176)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Scribbled Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/scribbled_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9177)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Malicious Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/malicious_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9178)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Close Eggcounters"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/close_eggcounters.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9179)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Life"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_life.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9180)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sorcus Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/sorcus_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9181)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Duty"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_duty.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9182)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Sand Shark Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/sand_shark_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9183)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Golden Achievement"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_golden_achievement.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9184)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Egg Of Scales"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/egg_of_scales.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9185)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Combo Egg Of Trolllolol"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/combo_egg_of_trolllolol.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9186)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Snowspheroid"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/snowspheroid.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9187)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Mercurial Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/mercurial_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9188)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Supersonic Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/supersonic_egg.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9189)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "The Eggtopus"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/the_eggtopus.mdl"
+	:SetCollection "Egg Hunt Collection"
+
+mi.Item(9190)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "Gooey Egg"
+	:SetDesc "A rare cosmetic egg from the Easter holiday event! Right click while in loadout to customize position/size.."
+	:SetModel "models/roblox_assets/gooey_egg.mdl"
+	:SetCollection "Egg Hunt Collection"

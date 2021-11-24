@@ -1,0 +1,48 @@
+------------------------------------
+--
+-- Omega Collection2
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(2670)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "End Game"
+	:NotDroppable (true)
+	:SetStats (9, 9)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Deployrate", -90, 90)
+		:SetStat ("Reloadrate", -90, 90)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (4, 4)
+	:SetCollection "Omega Collection2"
+
+mi.Item(2670)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "End Game"
+	:NotDroppable (true)
+	:SetStats (9, 9)
+		:SetStat ("Weight", 50, -50)
+		:SetStat ("Magazine", -70, 70)
+		:SetStat ("Kick", 45, -45)
+		:SetStat ("Deployrate", -90, 90)
+		:SetStat ("Reloadrate", -90, 90)
+		:SetStat ("Accuracy", -55, 55)
+		:SetStat ("Damage", -40, 40)
+		:SetStat ("Firerate", -45, 45)
+		:SetStat ("Range", -65, 65)
+	:SetTalents (4, 4)
+	:SetCollection "Omega Collection2"

@@ -1,0 +1,915 @@
+------------------------------------
+--
+-- Space Collection
+--
+------------------------------------
+
+
+mi.Item(597)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Space Crate"
+	:SetDesc "This crate contains an item from the Space Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/space_crate512.png"
+	:SetCollection "Space Collection"
+	:SetShop (300, true, 1614585600)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(598)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Sky"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(596)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Day"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(595)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Night"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(598)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Sky"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(596)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Day"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(595)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Night"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -2, 3)
+		:SetStat ("Deployrate", -4, 5)
+		:SetStat ("Reloadrate", -6, 7)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(587)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Moon"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(590)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Phobos"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(593)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Charon"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(587)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Moon"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(590)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Phobos"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(593)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Charon"
+	:SetStats (4, 6)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Deployrate", 5, 10)
+		:SetStat ("Reloadrate", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(583)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Titan"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(9607)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Io"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(568)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Callisto"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(565)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Europa"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(583)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Titan"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(9607)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Io"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(568)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Callisto"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+mi.Item(565)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Europa"
+	:SetStats (5, 7)
+		:SetStat ("Deployrate", 10, 15)
+		:SetStat ("Reloadrate", 10, 15)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(525)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Neptune"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(523)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Mercury"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(416)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Venus"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(415)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Jupiter"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -2, -5)
+		:SetStat ("Magazine", 13, 20)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+		:SetStat ("Accuracy", 8, 15)
+		:SetStat ("Damage", 8, 15)
+		:SetStat ("Firerate", 8, 15)
+		:SetStat ("Range", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(525)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Neptune"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(523)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Mercury"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(416)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Venus"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(415)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Jupiter"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 13, 20)
+		:SetStat ("Reloadrate", 13, 20)
+	:SetTalents (1, 2)
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(588)
+	:SetRarity (5)
+	:SetType "Model"
+	:SetName "Captain Kirk Model"
+	:SetDesc "“Beam me up, Scotty.”."
+	:SetModel "models/startrek/player/kirk/kirk.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(414)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Dawn"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(413)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Cira"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(412)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Cyra"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(411)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Alba"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(366)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Helio"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(588)
+	:SetRarity (5)
+	:SetType "Model"
+	:SetName "Captain Kirk Model"
+	:SetDesc "“Beam me up, Scotty.”."
+	:SetModel "models/startrek/player/kirk/kirk.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(414)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Dawn"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(413)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Cira"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(412)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Cyra"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(411)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Alba"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+mi.Item(366)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Helio"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 16, 24)
+		:SetStat ("Reloadrate", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(589)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Captain Rex Model"
+	:SetDesc "“The war left its scars on all of us.”."
+	:SetModel "models/tera_gg/loudmantis/501/rex.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(364)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Orion"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(363)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Pelican"
+	:SetStats (7, 9)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(362)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Energizing VSS"
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_vss"
+	:SetStats (6, 8)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Space Collection"
+
+mi.Item(11000)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Cosmos Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/cosmos_space.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/cosmos_space.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Space Collection"
+
+mi.Item(11003)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Sunset Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/sunset_sapce.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/sunset_space.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Space Collection"
+
+mi.Item(11001)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Dreamy Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/dreamy_sapce.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/dreamy_space.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Space Collection"
+
+mi.Item(589)
+	:SetRarity (6)
+	:SetType "Model"
+	:SetName "Captain Rex Model"
+	:SetDesc "“The war left its scars on all of us.”."
+	:SetModel "models/tera_gg/loudmantis/501/rex.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(364)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Orion"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(363)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Pelican"
+	:SetStats (7, 9)
+		:SetStat ("Deployrate", 19, 28)
+		:SetStat ("Reloadrate", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(362)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Energizing VSS"
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_vss"
+	:SetStats (6, 8)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(360)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Milky Way"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(359)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Blackhole"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(358)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Energizing G11"
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_g11"
+	:SetStats (6, 8)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Space Collection"
+
+mi.Item(11002)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Split Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/split_space.jpg"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/split_space.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Space Collection"
+
+mi.Item(360)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Milky Way"
+	:SetStats (9, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(359)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Blackhole"
+	:SetStats (9, 9)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Space Collection"
+
+mi.Item(358)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Energizing G11"
+	:SetEffect "electric"
+	:SetWeapon "weapon_ttt_g11"
+	:SetStats (6, 8)
+		:SetStat ("Deployrate", 30, 40)
+		:SetStat ("Reloadrate", 30, 40)
+	:SetTalents (3, 4)
+		:SetTalent (1, "Energizing")
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(684)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Clone Assassin Model"
+	:NotDroppable (true)
+	:SetDesc "“Earned by playing during launch week and being an AOTR member.”."
+	:SetModel "models/tera_gg/assassin/trooper/assassin.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(684)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Clone Assassin Model"
+	:NotDroppable (true)
+	:SetDesc "“Earned by playing during launch week and being an AOTR member.”."
+	:SetModel "models/tera_gg/assassin/trooper/assassin.mdl"
+	:SetCollection "Space Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(594)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Zero Suit Samus Model"
+	:SetDesc "“I got tits.”."
+	:SetModel "models/Player_ZssSamusU.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(357)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Earth Is Flat"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Space Collection"
+
+mi.Item(594)
+	:SetRarity (9)
+	:SetType "Model"
+	:SetName "Zero Suit Samus Model"
+	:SetDesc "“I got tits.”."
+	:SetModel "models/Player_ZssSamusU.mdl"
+	:SetCollection "Space Collection"
+
+mi.Item(357)
+	:SetRarity (9)
+	:SetType "tier"
+	:SetName "Earth Is Flat"
+	:SetStats (9, 9)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Deployrate", 23, 33)
+		:SetStat ("Reloadrate", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (4, 4)
+	:SetCollection "Space Collection"

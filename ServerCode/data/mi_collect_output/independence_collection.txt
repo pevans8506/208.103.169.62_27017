@@ -1,0 +1,1061 @@
+------------------------------------
+--
+-- Independence Collection
+--
+------------------------------------
+
+
+mi.Item(1991)
+	:SetRarity (8)
+	:SetType "Crate"
+	:SetName "Independence Crate"
+	:SetColor {0, 255, 255}
+	:SetEffect "enchanted"
+	:SetDesc "This crate contains an item from the Independence Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/usa_crate64.png"
+	:SetCollection "Independence Collection"
+	:SetShop (28450, true)
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(2007)
+	:SetRarity (8)
+	:SetType "Melee"
+	:SetName "American Baton"
+	:SetImage "https://tera.gg/ttt/misc/moat_baton.png"
+	:SetWeapon "weapon_ttt_baton"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 30, 60)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 5, 20)
+		:SetStat ("Weight", -15, -25)
+		:SetStat ("Pushrate", 50, 100)
+	:SetTalents (0, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2550)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Patriotic"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2551)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Military-Grade"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2551)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Military-Grade"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2561)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "AMERICAN"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Brutal")
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2561)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "AMERICAN"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Brutal")
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2550)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Patriotic"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2552)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Independent"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2552)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Independent"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2553)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Redneck"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2553)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Redneck"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2554)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bombing"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2554)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bombing"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2555)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Freedom"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2555)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Freedom"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2556)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Country"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2556)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Country"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2557)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Western"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2557)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Western"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2558)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Trumping"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2558)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Trumping"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2559)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Explosive"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2559)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Explosive"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2097)
+	:SetRarity (8)
+	:SetType "Body"
+	:SetName "Balloonicorn"
+	:SetDesc "Hey look, you finally have a friend now."
+	:SetModel "models/gmod_tower/balloonicorn_nojiggle.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2067)
+	:SetRarity (8)
+	:SetType "Body"
+	:SetName "Duck Tube"
+	:SetDesc "The king of the pool party."
+	:SetModel "models/captainbigbutt/skeyler/accessories/duck_tube.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2562)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "The Nationalist"
+	:SetWeapon "weapon_ttt_te_g36c"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2562)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "The Nationalist"
+	:SetWeapon "weapon_patriot"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2580)
+	:SetRarity (8)
+	:SetType "Special"
+	:SetName "USA American Vape"
+	:SetDesc "A patriotic vape made in honor of President Trump."
+	:SetImage "https://tera.gg/ttt/misc/moat_vape.png"
+	:SetWeapon "weapon_vape_american"
+	:SetCollection "Independence Collection"
+
+mi.Item(2673)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Bear Hat"
+	:SetDesc "Now you will always have your teddy bear with you, in a hat form."
+	:SetModel "models/captainbigbutt/skeyler/hats/bear_hat.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2498)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Piswasser Beer Hat"
+	:SetDesc "It's true. German beer is literally Piss Water."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (0)
+	:SetCollection "Independence Collection"
+
+mi.Item(2499)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Super Wet Beer Hat"
+	:SetDesc "It was so tempting to put a 'Yo Mama' joke here."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (1)
+	:SetCollection "Independence Collection"
+
+mi.Item(2500)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Patriot Beer Hat"
+	:SetDesc "For the True Redneck."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (2)
+	:SetCollection "Independence Collection"
+
+mi.Item(2501)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Benedict Beer Hat"
+	:SetDesc "Clench your thirst with this Hat."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2502)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Blarneys Beer Hat"
+	:SetDesc "Sounds like a knock off Barney the Dinosaur."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (4)
+	:SetCollection "Independence Collection"
+
+mi.Item(2503)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA J Lager Beer Hat"
+	:SetDesc "Jelly Lager? Delicious."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (5)
+	:SetCollection "Independence Collection"
+
+mi.Item(2096)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA 3D Glasses"
+	:SetDesc "The most practical way to get your head in the game."
+	:SetModel "models/gmod_tower/3dglasses.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2057)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Aviators"
+	:SetDesc "You look like the terminator with these badass glasses on."
+	:SetModel "models/gmod_tower/aviators.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2401)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA White Hawk Mask"
+	:SetDesc "Show off your true Patriotism."
+	:SetModel "models/sal/hawk_1.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2402)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Brown Hawk Mask"
+	:SetDesc "Show off your true Patriotism."
+	:SetModel "models/sal/hawk_2.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2452)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Police Ninja Mask"
+	:SetDesc "Police Ninja. Sounds like the best movie ever."
+	:SetModel "models/sal/halloween/ninja.mdl"
+	:SetSkin (10)
+	:SetCollection "Independence Collection"
+
+mi.Item(2070)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Shutter Glasses"
+	:SetDesc "The party is just getting started."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses03.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2007)
+	:SetRarity (8)
+	:SetType "Melee"
+	:SetName "American Baton"
+	:SetImage "https://tera.gg/ttt/misc/moat_baton.png"
+	:SetWeapon "weapon_ttt_baton"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 30, 60)
+		:SetStat ("Force", 13, 20)
+		:SetStat ("Damage", 5, 20)
+		:SetStat ("Weight", -15, -25)
+		:SetStat ("Pushrate", 50, 100)
+	:SetTalents (0, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2550)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Patriotic"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2551)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Military-Grade"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2551)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Military-Grade"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2561)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "AMERICAN"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Brutal")
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2561)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "AMERICAN"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+		:SetTalent (1, "Brutal")
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2550)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Patriotic"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2552)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Independent"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2552)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Independent"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2553)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Redneck"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2553)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Redneck"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2554)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bombing"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2554)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Bombing"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2555)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Freedom"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2555)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Freedom"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2556)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Country"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2556)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Country"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2557)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Western"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2557)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Western"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2558)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Trumping"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2558)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Trumping"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2559)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Explosive"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2559)
+	:SetRarity (8)
+	:SetType "tier"
+	:SetName "Explosive"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+		:SetTalent (2, "Explosive")
+	:SetCollection "Independence Collection"
+
+mi.Item(2097)
+	:SetRarity (8)
+	:SetType "Body"
+	:SetName "Balloonicorn"
+	:SetDesc "Hey look, you finally have a friend now."
+	:SetModel "models/gmod_tower/balloonicorn_nojiggle.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2067)
+	:SetRarity (8)
+	:SetType "Body"
+	:SetName "Duck Tube"
+	:SetDesc "The king of the pool party."
+	:SetModel "models/captainbigbutt/skeyler/accessories/duck_tube.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2562)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "The Nationalist"
+	:SetWeapon "weapon_ttt_te_g36c"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2562)
+	:SetRarity (8)
+	:SetType "Unique"
+	:SetName "The Nationalist"
+	:SetWeapon "weapon_patriot"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2580)
+	:SetRarity (8)
+	:SetType "Special"
+	:SetName "USA American Vape"
+	:SetDesc "A patriotic vape made in honor of President Trump."
+	:SetImage "https://tera.gg/ttt/misc/moat_vape.png"
+	:SetWeapon "weapon_vape_american"
+	:SetCollection "Independence Collection"
+
+mi.Item(2673)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Bear Hat"
+	:SetDesc "Now you will always have your teddy bear with you, in a hat form."
+	:SetModel "models/captainbigbutt/skeyler/hats/bear_hat.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2498)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Piswasser Beer Hat"
+	:SetDesc "It's true. German beer is literally Piss Water."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (0)
+	:SetCollection "Independence Collection"
+
+mi.Item(2499)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Super Wet Beer Hat"
+	:SetDesc "It was so tempting to put a 'Yo Mama' joke here."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (1)
+	:SetCollection "Independence Collection"
+
+mi.Item(2500)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Patriot Beer Hat"
+	:SetDesc "For the True Redneck."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (2)
+	:SetCollection "Independence Collection"
+
+mi.Item(2501)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Benedict Beer Hat"
+	:SetDesc "Clench your thirst with this Hat."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (3)
+	:SetCollection "Independence Collection"
+
+mi.Item(2502)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA Blarneys Beer Hat"
+	:SetDesc "Sounds like a knock off Barney the Dinosaur."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (4)
+	:SetCollection "Independence Collection"
+
+mi.Item(2503)
+	:SetRarity (8)
+	:SetType "Hat"
+	:SetName "USA J Lager Beer Hat"
+	:SetDesc "Jelly Lager? Delicious."
+	:SetModel "models/sal/acc/fix/beerhat.mdl"
+	:SetSkin (5)
+	:SetCollection "Independence Collection"
+
+mi.Item(2096)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA 3D Glasses"
+	:SetDesc "The most practical way to get your head in the game."
+	:SetModel "models/gmod_tower/3dglasses.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2057)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Aviators"
+	:SetDesc "You look like the terminator with these badass glasses on."
+	:SetModel "models/gmod_tower/aviators.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2401)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA White Hawk Mask"
+	:SetDesc "Show off your true Patriotism."
+	:SetModel "models/sal/hawk_1.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2402)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Brown Hawk Mask"
+	:SetDesc "Show off your true Patriotism."
+	:SetModel "models/sal/hawk_2.mdl"
+	:SetCollection "Independence Collection"
+
+mi.Item(2452)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Police Ninja Mask"
+	:SetDesc "Police Ninja. Sounds like the best movie ever."
+	:SetModel "models/sal/halloween/ninja.mdl"
+	:SetSkin (10)
+	:SetCollection "Independence Collection"
+
+mi.Item(2070)
+	:SetRarity (8)
+	:SetType "Mask"
+	:SetName "USA Shutter Glasses"
+	:SetDesc "The party is just getting started."
+	:SetModel "models/captainbigbutt/skeyler/accessories/glasses03.mdl"
+	:SetCollection "Independence Collection"

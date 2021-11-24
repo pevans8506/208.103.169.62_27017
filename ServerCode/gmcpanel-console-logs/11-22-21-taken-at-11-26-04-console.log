@@ -1,0 +1,1057 @@
+Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Initializing Steam libraries for Workshop..
+WS: No +host_workshop_collection or it is invalid!
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/_ugc_ws'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/gmcpanel-workshop-merged'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/moat_addons'
+Adding Filesystem Addon '/home/gmcgame/lelandk/174/garrysmod/addons/ttt_mc_teenroom'
+Unknown command "cl_cmdrate"
+Unknown command "cl_updaterate"
+Unknown command "rate"
+Changing gamemode to Trouble in Terrorist Town (terrortown)
+Usage: sv_setsteamaccount <login_token>
+"host_workshop_collection" = ""
+ game
+WARNING: Port 28005 was unavailable - bound to port 28007 instead
+Network: IP 208.103.169.62, mode MP, dedicated Yes, ports 27017 SV / 28007 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+PREP OK
+
+[moat_addons] addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109: attempt to concatenate a nil value
+  1. Servers - addons/moat_addons/lua/system/app/yugh/modules/servers.lua:109
+   2. unknown - addons/moat_addons/lua/system/app/core/servers.lua:9
+    3. include - [C]:-1
+     4. unknown - addons/moat_addons/lua/system/app/core/init.lua:602
+      5. include - [C]:-1
+       6. unknown - addons/moat_addons/lua/autorun/init.lua:4
+
+MGA | Commands loaded. Count: 61
+[AddCSLuaFile] Couldn't find '_games/stalker/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/stalker/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[AddCSLuaFile] Couldn't find '_games/hh/m_cl.lua' (@addons/moat_addons/lua/plugins/minigames/init.lua (line 14))
+Couldn't include file '_games/hh/m_sv.lua' (File not found) (@addons/moat_addons/lua/plugins/minigames/init.lua (line 15))
+[Tera Minigames]Loaded successfully.
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] |
+[moat.gg] | Welcome to moat.gg TTT!
+[moat.gg] |
+[moat.gg] | We're changing the way people play and experience TTT together.
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | TERA TTT's Development Team
+[moat.gg] |
+[moat.gg] | Tom > https://steamcommunity.com/profiles/76561198848501723
+[moat.gg] | Deathwish > https://steamcommunity.com/profiles/76561198274466199
+[moat.gg] | swag > https://steamcommunity.com/profiles/76561198859708729
+[moat.gg] |
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] | Need to report a bug? We'd love to hear from you
+[moat.gg] | The best way to contact us is on our Discord server.
+[moat.gg] |
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] | > https://discord.moat.gg
+[moat.gg] ---------------------------------------------------------------------------------------
+[moat.gg] ---------------------------------------------------------------------------------------
+Particles: Missing 'particles/tfa_dshotgun_muzzle.pcf'
+[AddCSLuaFile] Couldn't find 'weapons/tfa_doom_ssg/shared.lua' (<nowhere>)
+[AddCSLuaFile] Couldn't find 'weapons/weapon_head_taker/shared.lua' (<nowhere>)
+tfa_damage_multiplier is missing!  You might've hit the lua limit.  Contact the SWEP author(s). Reverting multiplier to 1.
+
+[moat_addons] addons/moat_addons/lua/weapons/weapon_tfabase.lua:332: attempt to index a nil value
+  1. unknown - addons/moat_addons/lua/weapons/weapon_tfabase.lua:332
+
+[AddCSLuaFile] Refusing to AddCSLuaFile 'weapons/weapons - shortcut.lnk/shared.lua' (<nowhere>) because its name contains dodgy symbols
+Trouble In Terrorist Town gamemode initializing...
+This is TTT version 2016-04-20
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file cfg/mapcycle.txt.
+Attempting to force sv_hibernate_think to 1. Don't blame me for this!
+Initializing Steam libraries for secure Internet server
+No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+Unknown command "----TTT"
+[moat.gg] | MySQL connection established at Mon Nov 22 11:11:11 2021
+MGA | MySQL connection established at Mon Nov 22 11:11:11 2021
+MySQL connection established at Mon Nov 22 11:11:11 2021
+Events | MySQL connection established at Mon Nov 22 11:11:11 2021
+Loading player_servers for 208.103.169.62:27017
+MSE | MySQL connection established at Mon Nov 22 11:11:11 2021
+Retrieving contracts
+Loaded global gamble chat
+Loaded player_servers ID: 1
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:273: attempt to index a nil value
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_tabs_bounties.lua:324: attempt to index a nil value
+Connection to Steam servers successful.
+   Public IP is 208.103.169.62.
+Assigned anonymous gameserver Steam ID [A-1:4206951435(18947)].
+VAC secure mode is activated.
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Client "Patrick Bateman" connected (75.97.73.46:27005).
+MGA | STEAM_0:1:95702521 | Connecting
+Client "Rosé Tera.gg" connected (71.217.171.205:27005).
+MGA | STEAM_0:1:444117997 | Connecting
+Retrieving contracts
+TTT initializing convar settings...
+Patrick Bateman last joined 1 minute ago.
+[Patrick Bateman|2|STEAM_0:1:95702521] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+[Patrick Bateman|2|STEAM_0:1:95702521] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text_out)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:405
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory saved for Patrick Bateman
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Inventory saved for Patrick Bateman
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Retrieving contracts
+ServerLog: Steam API Fail: unsuccessful
+Rosé Tera.gg last joined 2 minutes ago.
+ServerLog: Starting Cleanup Map
+ServerLog: Clean Up Map Done
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+[moat.gg] Query Error: Unknown column 'inventory_backup' in 'field list' | With Query: UPDATE core_dev_ttt SET inventory_backup='' WHERE steamid = ?;true
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: Steam API Fail: unsuccessful
+Inventory sent in 0.00064499999999867 secs to Rosé Tera.gg
+Retrieving contracts
+lottery_sent
+Inventory saved for Rosé Tera.gg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: Round proper has begun...
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:00.16 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 185 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:00.16 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Unknown command: advert
+Inventory sent in 0.00078131399999393 secs to Patrick Bateman
+lottery_sent
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:16.40 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 35 dmg
+ServerLog: 00:17.00 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 14 dmg
+ServerLog: 00:17.20 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 00:17.42 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 00:17.64 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:17.64 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+ServerLog: 00:22.64 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 00:22.86 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 106 dmg
+ServerLog: 00:22.86 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Unknown command: advert
+Retrieving contracts
+Unknown command: advert
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 00:51.90 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 35 dmg
+ServerLog: 00:52.12 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 35 dmg
+Retrieving contracts
+ServerLog: 00:52.34 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 00:53.40 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:53.62 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:54.18 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:54.34 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 00:54.52 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:54.52 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 00:59.10 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 00:59.18 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 00:59.26 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 00:59.58 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 00:59.66 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 00:59.74 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 01:00.14 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 35 dmg
+ServerLog: 01:00.14 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+Unknown command: advert
+Retrieving contracts
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Inventory saved for Patrick Bateman
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Inventory saved for Patrick Bateman
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:38: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:6>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Retrieving contracts
+ServerLog: 02:12.40 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 106 dmg
+ServerLog: 02:12.40 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 02:19.74 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 02:19.82 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 02:19.90 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 02:19.98 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 02:20.06 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 02:20.18 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 02:20.10 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 14 dmg
+ServerLog: 02:20.14 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 02:20.22 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 02:20.22 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Unknown command: advert
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+ServerLog: 03:13.52 - KILL:	 <something/world> killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Retrieving contracts
+ServerLog: 03:33.40 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 03:33.80 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 03:34.00 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 03:34.00 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 03:47.94 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 36 dmg
+ServerLog: 03:49.36 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 36 dmg
+ServerLog: 03:50.24 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 36 dmg
+ServerLog: 03:50.24 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 03:57.82 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 03:57.82 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Retrieving contracts
+ServerLog: 04:05.60 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 04:05.62 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 14 dmg
+ServerLog: 04:06.04 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 14 dmg
+ServerLog: 04:06.20 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 04:06.20 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Unknown command: advert
+Unknown command: advert
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 04:11.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 36 dmg
+ServerLog: 04:12.04 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 04:12.04 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Retrieving contracts
+ServerLog: 04:25.52 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 04:25.52 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637597786, 76561198151670771, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 04:32.22 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 04:32.30 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 04:32.38 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 04:32.46 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Retrieving contracts
+ServerLog: 04:32.70 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 04:32.78 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 04:32.84 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 36 dmg
+ServerLog: 04:32.86 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 04:32.86 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 04:57.58 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 04:57.98 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 04:58.38 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 04:58.38 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 05:02.46 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 05:02.66 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Retrieving contracts
+ServerLog: 05:02.86 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 05:02.86 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 05:07.74 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 05:07.94 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 05:08.14 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 05:08.14 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+ServerLog: 05:13.72 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 05:14.12 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 14 dmg
+ServerLog: 05:15.12 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 05:15.52 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 05:15.52 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 05:22.46 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 05:22.58 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 76 dmg
+ServerLog: 05:22.58 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Unknown command: advert
+ServerLog: 05:36.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 05:38.12 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 05:38.12 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637597881, 76561198151670771, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Retrieving contracts
+Unknown command: advert
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 06:07.08 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:07.16 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:07.32 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:07.40 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:07.48 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:07.56 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:07.64 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:07.64 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:11.04 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:11.12 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:11.20 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:11.52 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:12.24 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:12.22 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 12 dmg
+ServerLog: 06:12.32 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:12.32 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Retrieving contracts
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:17.52 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:17.50 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 12 dmg
+ServerLog: 06:17.76 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:17.74 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 12 dmg
+ServerLog: 06:17.92 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:18.00 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 06:18.00 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:18.08 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:18.08 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:21.90 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:21.88 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 7 dmg
+ServerLog: 06:22.14 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:22.22 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:22.30 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:22.38 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 06:22.46 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:22.46 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+Retrieving contracts
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:29.66 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:29.80 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:29.94 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:30.08 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:30.22 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:31.06 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:31.62 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:31.62 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+Retrieving contracts
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:40.44 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:40.58 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:40.72 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:40.98 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 36 dmg
+ServerLog: 06:41.56 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:41.84 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:41.92 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 25 dmg
+ServerLog: 06:42.12 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 06:42.12 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 14 dmg
+ServerLog: 06:42.24 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 6 dmg
+ServerLog: 06:42.54 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:42.54 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+Retrieving contracts
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:46.66 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:46.86 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:47.06 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:47.06 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:50.48 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:50.68 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:50.88 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:51.08 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:51.08 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Retrieving contracts
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:55.24 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:55.44 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:56.04 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:56.04 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:59.24 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:59.44 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 06:59.64 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 06:59.64 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+ServerLog: 07:03.88 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 07:04.22 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 07:04.22 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 07:10.40 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:10.48 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:10.64 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:10.72 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:10.72 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:20.10 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:20.18 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:20.34 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:20.50 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:21.06 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:21.30 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:21.38 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:21.38 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+Retrieving contracts
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:32.26 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 07:32.26 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 07:37.72 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 07:37.86 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 07:38.00 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 07:38.14 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 07:38.54 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 07:38.68 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 07:38.82 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:38.82 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:48.24 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 24 dmg
+ServerLog: 07:48.44 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 07:48.44 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 07:57.14 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 7 dmg
+ServerLog: 07:57.26 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:57.46 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:57.54 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:57.62 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:57.86 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 07:58.30 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 24 dmg
+ServerLog: 07:58.52 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 07:58.52 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:06.10 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 08:06.30 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 08:06.50 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:06.50 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+ServerLog: 08:13.80 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 08:14.00 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 08:14.46 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 08:14.80 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:14.80 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Rosé Tera.gg has frozen Patrick Bateman.
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:25.98 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 08:25.98 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 08:30.46 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 08:30.46 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+ServerLog: 08:38.52 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 08:38.60 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 08:38.68 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 08:38.76 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 08:38.90 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 08:38.92 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 08:39.00 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+ServerLog: 08:39.24 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 16 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:39.24 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+Inventory saved for Patrick Bateman
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:45.42 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 45 dmg
+ServerLog: 08:46.40 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 08:46.50 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 20 dmg
+ServerLog: 08:47.02 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 45 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:47.02 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Rosé Tera.gg has frozen Patrick Bateman.
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 08:58.72 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 08:58.72 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Unknown command: advert
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Retrieving contracts
+Unknown player None.
+ServerLog: 09:08.48 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 09:08.48 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Retrieving contracts
+ServerLog: 09:13.20 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Rosé Tera.gg has teleported you.
+Rosé Tera.gg has teleported Rosé Tera.gg.
+↗ `[04:21:13 PM]` • Player Teleported • *!tele* • `Garry's Mod`
+ | `Rosé Tera.gg (STEAM_0:1:444117997)` has teleported `Rosé Tera.gg (STEAM_0:1:444117997)`.
+ServerLog: 09:15.06 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 31 dmg
+ServerLog: 09:15.12 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 44 dmg
+ServerLog: 09:15.30 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 09:15.44 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 09:15.58 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Rosé Tera.gg has teleported you.
+Rosé Tera.gg has teleported Rosé Tera.gg.
+↗ `[04:21:15 PM]` • Player Teleported • *!tele* • `Garry's Mod`
+ | `Rosé Tera.gg (STEAM_0:1:444117997)` has teleported `Rosé Tera.gg (STEAM_0:1:444117997)`.
+ServerLog: 09:15.98 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 6 dmg
+Your server is using an outdated mysqloo9 version
+Download the latest version from here:
+https://github.com/syl0r/MySQLOO/releases
+ServerLog: 09:19.64 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+ServerLog: 09:19.76 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 6 dmg
+ServerLog: 09:20.20 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 15 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 09:20.20 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 09:27.74 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+ServerLog: 09:32.60 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 37 dmg
+Retrieving contracts
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Client "Jadem Tera.gg" connected (146.200.156.189:27005).
+MGA | STEAM_0:1:218853807 | Connecting for the first time.
+ServerLog: 09:35.98 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 52 dmg
+ServerLog: 09:37.52 - DMG: 	 Rosé Tera.gg [traitor] damaged Patrick Bateman [innocent] for 107 dmg
+ServerLog: 09:37.52 - KILL:	 Rosé Tera.gg [traitor] killed Patrick Bateman [innocent]
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Patrick Bateman (STEAM_0:1:95702521).
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637598114, 76561198151670771, "", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Retrieving contracts
+Patrick Bateman: Fracture Explosive 
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637598126, 76561198151670771, "Fracture Explosive ", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Retrieving contracts
+ServerLog: 10:13.50 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 54 dmg
+ServerLog: 10:15.14 - DMG: 	 Patrick Bateman [innocent] damaged Rosé Tera.gg [traitor] for 54 dmg
+Model missing: models/avengers/iron man/mark7_player.mdl
+ServerLog: 10:15.14 - KILL:	 Patrick Bateman [innocent] killed Rosé Tera.gg [traitor]
+ServerLog: Caught ragdoll entity moving too fast (inf), removing offending ragdoll entity from world.
+Inventory saved for Rosé Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+Inventory saved for Rosé Tera.gg
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Jadem Tera.gg has joined for the first time.
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+Unknown stat key: o
+Inventory saved for Jadem Tera.gg
+[Jadem Tera.gg|4|STEAM_0:1:218853807] Lua Error:
+
+[moat_addons] RunConsoleCommand: Command is blocked! (con_filter_text)
+  1. v - addons/moat_addons/lua/plugins/moat/init/cl_util.lua:404
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/hook.lua:46
+
+
+Inventory sent in 0.00079141900005197 secs to Jadem Tera.gg
+ServerLog: Steam API Fail: unsuccessful
+Retrieving contracts
+lottery_sent
+Retrieving contracts
+error on query `INSERT INTO chat_log (time, steam_id, message, server) VALUES (1637598176, 76561198151670771, "{primary} is the best pleasure on earth!", "208.103.169.62:27017");`: Table 'mgmt.chat_log' doesn't exist
+Inventory saved for Jadem Tera.gg
+Unknown command: advert
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:59: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:58>
+	[C]: in function 'ipairs'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:250: in function 'm_DropInventoryItem'
+	addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:38: in function <addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_crates.lua:6>
+	[C]: in function 'xpcall'
+	addons/moat_addons/lua/system/app/core/detours/server/net.lua:58: in function <addons/moat_addons/lua/system/app/core/detours/server/net.lua:17>
+	addons/moat_addons/lua/system/app/yugh/extensions/net.lua:41: in function <addons/moat_addons/lua/system/app/yugh/extensions/net.lua:29>
+Lua ERROR: addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:17: attempt to compare number with nil
+Retrieving contracts
+Lua ERROR: addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_items_drops.lua:17: attempt to compare number with nil
+Retrieving contracts
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Lua ERROR: addons/moat_addons/lua/plugins/crashscreen/main_sv.lua:50: bad argument #1 to 'runConsoleCommand' (string expected, got nil)
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Unknown command: advert
+Retrieving contracts
+Inventory saved for Patrick Bateman
+Retrieving contracts
+ServerLog: 12:44.38 - KILL:	 Patrick Bateman [innocent] killed Patrick Bateman [innocent]
+Unknown command: advert
+Player must be banned first.
+Retrieving contracts
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Rosé Tera.gg (STEAM_0:1:444117997) has respawned Rosé Tera.gg (STEAM_0:1:444117997).
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Model missing: models/avengers/iron man/mark7_player.mdl
+Retrieving contracts
+Unknown command: advert
+Retrieving contracts
+Retrieving contracts
+[Patrick Bateman|2|STEAM_0:1:95702521] Lua Error:
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/cl_moat_titles.lua:842: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. open_profile_card - addons/moat_addons/lua/plugins/moat/modules/scoreboard/titles/cl_moat_titles.lua:842
+    3. DoClick - addons/moat_addons/lua/plugins/moat/modules/inv2/client/cl_tabs_games.lua:5036
+     4. unknown - lua/vgui/dlabel.lua:232
+
+
+[Patrick Bateman|2|STEAM_0:1:95702521] Lua Error:
+
+[ERROR] Warning! A net message (player_card) is already started! Discarding in favor of the new message! (ttt_player_target)
+  1. unknown - gamemodes/terrortown/gamemode/cl_chat.lua:16
+
+
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Rosé Tera.gg
+Lua ERROR: addons/moat_addons/lua/plugins/crashscreen/main_sv.lua:50: bad argument #1 to 'runConsoleCommand' (string expected, got nil)
+
+[moat_addons] addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394: attempt to index a nil value
+  1. success - addons/moat_addons/lua/plugins/moat/modules/inv2/server/sv_inv.lua:394
+   2. unknown - addons/moat_addons/lua/system/app/yugh/libraries/http.lua:24
+
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Rosé Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Inventory saved for Jadem Tera.gg
+Retrieving contracts
+Inventory saved for Jadem Tera.gg
+Retrieving contracts

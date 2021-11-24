@@ -1,0 +1,28 @@
+------------------------------------
+--
+-- George Collection
+--
+------------------------------------
+
+
+
+------------------------------------
+-- Extinct Items
+------------------------------------
+
+
+mi.Item(530)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Classy Gentleman Model"
+	:SetDesc "Only for the Most Dapper of Tea-Sipping Gentlemen."
+	:SetModel "models/player/macdguy.mdl"
+	:SetCollection "George Collection"
+
+mi.Item(530)
+	:SetRarity (8)
+	:SetType "Model"
+	:SetName "Classy Gentleman Model"
+	:SetDesc "Only for the Most Dapper of Tea-Sipping Gentlemen."
+	:SetModel "models/player/macdguy.mdl"
+	:SetCollection "George Collection"

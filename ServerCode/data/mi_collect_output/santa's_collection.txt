@@ -1,0 +1,15 @@
+------------------------------------
+--
+-- Santa's Collection
+--
+------------------------------------
+
+
+mi.Item(7101)
+	:SetRarity (8)
+	:SetType "Usable"
+	:SetName "Santa's Present"
+	:SetDesc "Every player will receive a Holiday Crate when this item is used."
+	:SetImage "https://tera.gg/ttt/misc/gift_usable64.png"
+	:SetCollection "Santa's Collection"
+	:SetShop (50000, false, 1577779200, 'Every player will receive a Holiday Crate when this item is used!')

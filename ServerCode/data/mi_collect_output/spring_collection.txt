@@ -1,0 +1,1966 @@
+------------------------------------
+--
+-- Spring Collection
+--
+------------------------------------
+
+
+mi.Item(810)
+	:SetRarity (2)
+	:SetType "Crate"
+	:SetName "Spring Crate"
+	:SetDesc "This crate contains an item from the Spring Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/spring_crate64.png"
+	:SetCollection "Spring Collection"
+	:SetShop (175, true)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(737)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Petty"
+	:SetColor {255, 182, 193}
+	:SetStats (1, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(738)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Soft"
+	:SetColor {175, 238, 238}
+	:SetStats (1, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(736)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Weak"
+	:SetStats (1, 3)
+		:SetStat ("Firerate", -3, 3)
+		:SetStat ("Magazine", -7, 7)
+		:SetStat ("Accuracy", -2, 2)
+		:SetStat ("Damage", -2, 3)
+		:SetStat ("Kick", -2, 2)
+		:SetStat ("Range", -7, 8)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(737)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Petty"
+	:SetColor {255, 182, 193}
+	:SetStats (1, 3)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(738)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Soft"
+	:SetColor {175, 238, 238}
+	:SetStats (1, 3)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(736)
+	:SetRarity (1)
+	:SetType "tier"
+	:SetName "Weak"
+	:SetStats (1, 3)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(740)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Crisp"
+	:SetColor {123, 104, 238}
+	:SetStats (2, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(739)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Fair"
+	:SetColor {135, 206, 250}
+	:SetStats (2, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(741)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Fresh"
+	:SetColor {102, 205, 170}
+	:SetStats (2, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(742)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Pure"
+	:SetColor {64, 224, 208}
+	:SetStats (2, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(775)
+	:SetRarity (2)
+	:SetType "Unique"
+	:SetName "Trenchinator"
+	:SetWeapon "weapon_ttt_m590"
+	:SetStats (2, 4)
+		:SetStat ("Firerate", 0, 5)
+		:SetStat ("Magazine", 5, 10)
+		:SetStat ("Accuracy", 0, 5)
+		:SetStat ("Damage", 0, 5)
+		:SetStat ("Kick", -1, -5)
+		:SetStat ("Range", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(710)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "Agree Taunt"
+	:SetDesc "I concur doctor."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_agree"
+	:SetCollection "Spring Collection"
+
+mi.Item(715)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "Disagree Taunt"
+	:SetDesc "I don't think so."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_disagree"
+	:SetCollection "Spring Collection"
+
+mi.Item(740)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Crisp"
+	:SetColor {123, 104, 238}
+	:SetStats (2, 4)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(739)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Fair"
+	:SetColor {135, 206, 250}
+	:SetStats (2, 4)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(741)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Fresh"
+	:SetColor {102, 205, 170}
+	:SetStats (2, 4)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(742)
+	:SetRarity (2)
+	:SetType "tier"
+	:SetName "Pure"
+	:SetColor {64, 224, 208}
+	:SetStats (2, 4)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(775)
+	:SetRarity (2)
+	:SetType "Unique"
+	:SetName "Trenchinator"
+	:SetWeapon "weapon_ttt_m590"
+	:SetStats (2, 4)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(710)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "Agree Taunt"
+	:SetDesc "I concur doctor."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_agree"
+	:SetCollection "Spring Collection"
+
+mi.Item(715)
+	:SetRarity (2)
+	:SetType "Special"
+	:SetName "Disagree Taunt"
+	:SetDesc "I don't think so."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_disagree"
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(729)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "A Fish"
+	:SetColor {255, 160, 122}
+	:SetWeapon "weapon_fish"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(730)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Fists"
+	:SetImage "https://tera.gg/ttt/misc/moat_fists.png"
+	:SetWeapon "weapon_ttt_fists"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 50)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(746)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Bright"
+	:SetColor {199, 21, 133}
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(745)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Lush"
+	:SetColor {154, 205, 50}
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(743)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Sweet"
+	:SetColor {221, 160, 221}
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(744)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Warm"
+	:SetColor {173, 255, 47}
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(785)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "Akimbonators"
+	:SetWeapon "weapon_akimbo"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(773)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "Alien Poo90"
+	:SetWeapon "weapon_rcp120"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(792)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "Intruder Killer"
+	:SetWeapon "weapon_doubleb"
+	:SetStats (3, 5)
+		:SetStat ("Weight", -1, -3)
+		:SetStat ("Firerate", 5, 10)
+		:SetStat ("Magazine", 10, 15)
+		:SetStat ("Accuracy", 5, 10)
+		:SetStat ("Damage", 5, 10)
+		:SetStat ("Kick", -5, -10)
+		:SetStat ("Range", 10, 15)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(725)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Smokinator"
+	:SetDesc "A smoke grenade that's %s_ more dense than a regular smoke grenade."
+	:SetWeapon "weapon_ttt_smokegrenade"
+	:SetStats (1, 1)
+		:SetStat (1, 25, 100)
+	:SetCollection "Spring Collection"
+
+mi.Item(711)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Call For Taunt"
+	:SetDesc "Come over here please."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_beacon"
+	:SetCollection "Spring Collection"
+
+mi.Item(712)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Bow Taunt"
+	:SetDesc "Thank you very much, I know I'm awesome."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_bow"
+	:SetCollection "Spring Collection"
+
+mi.Item(721)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Salute Taunt"
+	:SetDesc "Press F to pay respects."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_salute"
+	:SetCollection "Spring Collection"
+
+mi.Item(729)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "A Fish"
+	:SetColor {255, 160, 122}
+	:SetWeapon "weapon_fish"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(730)
+	:SetRarity (3)
+	:SetType "Melee"
+	:SetName "Fists"
+	:SetImage "https://tera.gg/ttt/misc/moat_fists.png"
+	:SetWeapon "weapon_ttt_fists"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 20, 50)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -10, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(746)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Bright"
+	:SetColor {199, 21, 133}
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(745)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Lush"
+	:SetColor {154, 205, 50}
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(743)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Sweet"
+	:SetColor {221, 160, 221}
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(744)
+	:SetRarity (3)
+	:SetType "tier"
+	:SetName "Warm"
+	:SetColor {173, 255, 47}
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(785)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "Akimbonators"
+	:SetWeapon "weapon_akimbo"
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(773)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "Alien Poo90"
+	:SetWeapon "weapon_rcp120"
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(792)
+	:SetRarity (3)
+	:SetType "Unique"
+	:SetName "Intruder Killer"
+	:SetWeapon "weapon_doubleb"
+	:SetStats (3, 5)
+		:SetStat ("Damage", 5, 10)
+	:SetTalents (1, 1)
+	:SetCollection "Spring Collection"
+
+mi.Item(725)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Smokinator"
+	:SetDesc "A smoke grenade that's %s_ more dense than a regular smoke grenade."
+	:SetWeapon "weapon_ttt_smokegrenade"
+	:SetStats (1, 1)
+		:SetStat (1, 25, 100)
+	:SetCollection "Spring Collection"
+
+mi.Item(711)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Call For Taunt"
+	:SetDesc "Come over here please."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_beacon"
+	:SetCollection "Spring Collection"
+
+mi.Item(712)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Bow Taunt"
+	:SetDesc "Thank you very much, I know I'm awesome."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_bow"
+	:SetCollection "Spring Collection"
+
+mi.Item(721)
+	:SetRarity (3)
+	:SetType "Special"
+	:SetName "Salute Taunt"
+	:SetDesc "Press F to pay respects."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_salute"
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(801)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Sword"
+	:SetColor {70, 130, 180}
+	:SetWeapon "weapon_pvpsword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(734)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Tomahawk"
+	:SetColor {47, 79, 79}
+	:SetWeapon "weapon_tomahawk"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(747)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Airy"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(749)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Floral"
+	:SetColor {144, 238, 144}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(748)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Fluffy"
+	:SetColor {238, 130, 238}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(750)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Joyful"
+	:SetColor {147, 112, 219}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(800)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Goongsto"
+	:SetWeapon "weapon_thompson"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(784)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Hedge Shooter"
+	:SetWeapon "weapon_spas12pvp"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(778)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Semi-Glock-17"
+	:SetWeapon "weapon_semiauto"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(780)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Space90"
+	:SetWeapon "weapon_rcp120"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(770)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Trusty Steed"
+	:SetWeapon "weapon_supershotty"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Kick", -8, -15)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(701)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Confusionade"
+	:SetDesc "A throwable grenade that discombobulates enimies %s_ more than a regular discombobulator."
+	:SetWeapon "weapon_ttt_confgrenade"
+	:SetStats (1, 1)
+		:SetStat (1, 25, 100)
+	:SetCollection "Spring Collection"
+
+mi.Item(713)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Cheer Taunt"
+	:SetDesc "WOOOOO."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_cheer"
+	:SetCollection "Spring Collection"
+
+mi.Item(717)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Hands Up Taunt"
+	:SetDesc "Please don't shoot me."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_hands"
+	:SetCollection "Spring Collection"
+
+mi.Item(723)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Wave Taunt"
+	:SetDesc "Hey Guys."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_wave"
+	:SetCollection "Spring Collection"
+
+mi.Item(801)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Sword"
+	:SetColor {70, 130, 180}
+	:SetWeapon "weapon_pvpsword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -20)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(734)
+	:SetRarity (4)
+	:SetType "Melee"
+	:SetName "A Tomahawk"
+	:SetColor {47, 79, 79}
+	:SetWeapon "weapon_tomahawk"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(747)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Airy"
+	:SetColor {0, 191, 255}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(749)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Floral"
+	:SetColor {144, 238, 144}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(748)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Fluffy"
+	:SetColor {238, 130, 238}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(750)
+	:SetRarity (4)
+	:SetType "tier"
+	:SetName "Joyful"
+	:SetColor {147, 112, 219}
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(800)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Goongsto"
+	:SetWeapon "weapon_thompson"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(784)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Hedge Shooter"
+	:SetWeapon "weapon_spas12pvp"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(778)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Semi-Glock-17"
+	:SetWeapon "weapon_semiauto"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(780)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Space90"
+	:SetWeapon "weapon_rcp120"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 8, 12)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(770)
+	:SetRarity (4)
+	:SetType "Unique"
+	:SetName "Trusty Steed"
+	:SetWeapon "weapon_supershotty"
+	:SetStats (6, 6)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Magazine", 8, 15)
+		:SetStat ("Accuracy", 5, 12)
+		:SetStat ("Damage", 4, 8)
+		:SetStat ("Range", 30, 60)
+	:SetTalents (1, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(701)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Confusionade"
+	:SetDesc "A throwable grenade that discombobulates enimies %s_ more than a regular discombobulator."
+	:SetWeapon "weapon_ttt_confgrenade"
+	:SetStats (1, 1)
+		:SetStat (1, 25, 100)
+	:SetCollection "Spring Collection"
+
+mi.Item(713)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Cheer Taunt"
+	:SetDesc "WOOOOO."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_cheer"
+	:SetCollection "Spring Collection"
+
+mi.Item(717)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Hands Up Taunt"
+	:SetDesc "Please don't shoot me."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_hands"
+	:SetCollection "Spring Collection"
+
+mi.Item(723)
+	:SetRarity (4)
+	:SetType "Special"
+	:SetName "Wave Taunt"
+	:SetDesc "Hey Guys."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_wave"
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(728)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Diamond Pickaxe"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_pick"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -15, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(735)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Toy Hammer"
+	:SetWeapon "weapon_toy_hammer"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(754)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Blissful"
+	:SetColor {200, 200, 0}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(751)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Blooming"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(753)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Energized"
+	:SetColor {65, 105, 225}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(752)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Vibrant"
+	:SetColor {255, 105, 180}
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(776)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Akimbonitos"
+	:SetWeapon "weapon_akimbo"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(771)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "The Patriot"
+	:SetWeapon "weapon_patriot"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(772)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Raginator"
+	:SetWeapon "weapon_ragingbull"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(793)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Stealthano"
+	:SetWeapon "weapon_sp"
+	:SetStats (5, 7)
+		:SetStat ("Weight", -3, -7)
+		:SetStat ("Firerate", 11, 19)
+		:SetStat ("Magazine", 16, 24)
+		:SetStat ("Accuracy", 11, 19)
+		:SetStat ("Damage", 11, 19)
+		:SetStat ("Kick", -11, -19)
+		:SetStat ("Range", 16, 24)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(805)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Angry Shoe"
+	:SetDesc "A shoe you can annoy and distract enimes with."
+	:SetWeapon "weapon_angryhobo"
+	:SetCollection "Spring Collection"
+
+mi.Item(726)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Molotovian"
+	:SetDesc "A molotov grenade that lasts %s_ longer than a regular molotov grenade.."
+	:SetWeapon "weapon_zm_molotov"
+	:SetStats (1, 1)
+		:SetStat (1, 25, 100)
+	:SetCollection "Spring Collection"
+
+mi.Item(716)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Flail Taunt"
+	:SetDesc "Asdfghjkl;'."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_flail"
+	:SetCollection "Spring Collection"
+
+mi.Item(718)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Laugh Taunt"
+	:SetDesc "haHA."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_laugh"
+	:SetCollection "Spring Collection"
+
+mi.Item(808)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Dynamite"
+	:SetDesc "A throwable set of TNT that detonates a few seconds after being thrown."
+	:SetWeapon "weapon_virustnt"
+	:SetCollection "Spring Collection"
+
+mi.Item(728)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Diamond Pickaxe"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_pick"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -15, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(735)
+	:SetRarity (5)
+	:SetType "Melee"
+	:SetName "A Toy Hammer"
+	:SetWeapon "weapon_toy_hammer"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -5, -15)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(754)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Blissful"
+	:SetColor {200, 200, 0}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(751)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Blooming"
+	:SetColor {220, 20, 60}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(753)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Energized"
+	:SetColor {65, 105, 225}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(752)
+	:SetRarity (5)
+	:SetType "tier"
+	:SetName "Vibrant"
+	:SetColor {255, 105, 180}
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(776)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Akimbonitos"
+	:SetWeapon "weapon_akimbo"
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(771)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "The Patriot"
+	:SetWeapon "weapon_patriot"
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(772)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Raginator"
+	:SetWeapon "weapon_ragingbull"
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(793)
+	:SetRarity (5)
+	:SetType "Unique"
+	:SetName "Stealthano"
+	:SetWeapon "weapon_sp"
+	:SetStats (5, 7)
+	:SetTalents (2, 2)
+	:SetCollection "Spring Collection"
+
+mi.Item(805)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Angry Shoe"
+	:SetDesc "A shoe you can annoy and distract enimes with."
+	:SetWeapon "weapon_angryhobo"
+	:SetCollection "Spring Collection"
+
+mi.Item(726)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Molotovian"
+	:SetDesc "A molotov grenade that lasts %s_ longer than a regular molotov grenade.."
+	:SetWeapon "weapon_zm_molotov"
+	:SetStats (1, 1)
+		:SetStat (1, 25, 100)
+	:SetCollection "Spring Collection"
+
+mi.Item(716)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Flail Taunt"
+	:SetDesc "Asdfghjkl;'."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_flail"
+	:SetCollection "Spring Collection"
+
+mi.Item(718)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Laugh Taunt"
+	:SetDesc "haHA."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_laugh"
+	:SetCollection "Spring Collection"
+
+mi.Item(808)
+	:SetRarity (5)
+	:SetType "Special"
+	:SetName "Dynamite"
+	:SetDesc "A throwable set of TNT that detonates a few seconds after being thrown."
+	:SetWeapon "weapon_virustnt"
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(731)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Katana"
+	:SetWeapon "weapon_katana"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(733)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Diamond Sword"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_sword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(802)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Smart Pen"
+	:SetWeapon "weapon_smartpen"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 15, 35)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(757)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Flourishing"
+	:SetColor {255, 20, 147}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(755)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Heavenly"
+	:SetColor {255, 215, 0}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(756)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Spectacular"
+	:SetColor {0, 255, 127}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(758)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Sunny"
+	:SetColor {255, 255, 0}
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(782)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Bond's Double Friend"
+	:SetWeapon "weapon_virussil"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(804)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Compactachi"
+	:SetWeapon "weapon_xm8b"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(789)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "DBMonster"
+	:SetWeapon "weapon_doubleb"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(779)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Executioner"
+	:SetWeapon "weapon_flakgun"
+	:SetStats (6, 7)
+		:SetStat ("Weight", -4, -7)
+		:SetStat ("Firerate", 14, 23)
+		:SetStat ("Magazine", 19, 28)
+		:SetStat ("Accuracy", 14, 23)
+		:SetStat ("Damage", 14, 23)
+		:SetStat ("Kick", -14, -23)
+		:SetStat ("Range", 19, 28)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(806)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "Babynade"
+	:SetDesc "A throwable baby that explodes like dynamite."
+	:SetWeapon "weapon_babynade"
+	:SetCollection "Spring Collection"
+
+mi.Item(719)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "Play Dead Taunt"
+	:SetDesc "Too bad you don't get a treat for this one diggity dog."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_lay"
+	:SetCollection "Spring Collection"
+
+mi.Item(720)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "Robot Taunt"
+	:SetDesc "Beep boop beep bop beep."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_robot"
+	:SetCollection "Spring Collection"
+
+mi.Item(731)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Katana"
+	:SetWeapon "weapon_katana"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(733)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Diamond Sword"
+	:SetColor {0, 255, 255}
+	:SetWeapon "weapon_diamond_sword"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(802)
+	:SetRarity (6)
+	:SetType "Melee"
+	:SetName "A Smart Pen"
+	:SetWeapon "weapon_smartpen"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 15, 35)
+		:SetStat ("Weight", -20, -30)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(757)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Flourishing"
+	:SetColor {255, 20, 147}
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(755)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Heavenly"
+	:SetColor {255, 215, 0}
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(756)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Spectacular"
+	:SetColor {0, 255, 127}
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(758)
+	:SetRarity (6)
+	:SetType "tier"
+	:SetName "Sunny"
+	:SetColor {255, 255, 0}
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(782)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Bond's Double Friend"
+	:SetWeapon "weapon_virussil"
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(804)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Compactachi"
+	:SetWeapon "weapon_xm8b"
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(789)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "DBMonster"
+	:SetWeapon "weapon_doubleb"
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(779)
+	:SetRarity (6)
+	:SetType "Unique"
+	:SetName "Executioner"
+	:SetWeapon "weapon_flakgun"
+	:SetStats (6, 7)
+	:SetTalents (2, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(806)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "Babynade"
+	:SetDesc "A throwable baby that explodes like dynamite."
+	:SetWeapon "weapon_babynade"
+	:SetCollection "Spring Collection"
+
+mi.Item(719)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "Play Dead Taunt"
+	:SetDesc "Too bad you don't get a treat for this one diggity dog."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_lay"
+	:SetCollection "Spring Collection"
+
+mi.Item(720)
+	:SetRarity (6)
+	:SetType "Special"
+	:SetName "Robot Taunt"
+	:SetDesc "Beep boop beep bop beep."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_robot"
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(732)
+	:SetRarity (7)
+	:SetType "Melee"
+	:SetName "A Lightsaber"
+	:SetWeapon "weapon_light_saber"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -35)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(761)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Cloudless"
+	:SetColor {0, 191, 255}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(759)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Incredible"
+	:SetColor {255, 0, 0}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(760)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Stunning"
+	:SetColor {148, 0, 211}
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(774)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Bond's Worst Friend"
+	:SetWeapon "weapon_golden_revolver"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(783)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Nintendo Switchpa"
+	:SetWeapon "weapon_zapperpvp"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(790)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Spasinator"
+	:SetWeapon "weapon_spas12pvp"
+	:SetStats (7, 7)
+		:SetStat ("Weight", -5, -7)
+		:SetStat ("Firerate", 17, 28)
+		:SetStat ("Magazine", 23, 33)
+		:SetStat ("Accuracy", 17, 28)
+		:SetStat ("Damage", 17, 28)
+		:SetStat ("Kick", -17, -28)
+		:SetStat ("Range", 23, 33)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(807)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Stealth Box"
+	:SetDesc "A box you can use to hide from enimes. Crouching makes the box completely still."
+	:SetWeapon "weapon_stealthbox"
+	:SetCollection "Spring Collection"
+
+mi.Item(714)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Dab Taunt"
+	:SetDesc "Hit em with it."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_dab"
+	:SetCollection "Spring Collection"
+
+mi.Item(722)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Sexy Taunt"
+	:SetDesc "Work that big booty of yours you sexy thang."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_sexy"
+	:SetCollection "Spring Collection"
+
+mi.Item(724)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Zombie Climb Taunt"
+	:SetDesc "Best dance move eva."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_climb"
+	:SetCollection "Spring Collection"
+
+mi.Item(732)
+	:SetRarity (7)
+	:SetType "Melee"
+	:SetName "A Lightsaber"
+	:SetWeapon "weapon_light_saber"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 10, 30)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", -20, -35)
+		:SetStat ("Pushrate", 5, 10)
+	:SetTalents (0, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(761)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Cloudless"
+	:SetColor {0, 191, 255}
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(759)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Incredible"
+	:SetColor {255, 0, 0}
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(760)
+	:SetRarity (7)
+	:SetType "tier"
+	:SetName "Stunning"
+	:SetColor {148, 0, 211}
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(774)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Bond's Worst Friend"
+	:SetWeapon "weapon_golden_revolver"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(783)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Nintendo Switchpa"
+	:SetWeapon "weapon_zapperpvp"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(790)
+	:SetRarity (7)
+	:SetType "Unique"
+	:SetName "Spasinator"
+	:SetWeapon "weapon_spas12pvp"
+	:SetStats (7, 7)
+	:SetTalents (3, 3)
+	:SetCollection "Spring Collection"
+
+mi.Item(807)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Stealth Box"
+	:SetDesc "A box you can use to hide from enimes. Crouching makes the box completely still."
+	:SetWeapon "weapon_stealthbox"
+	:SetCollection "Spring Collection"
+
+mi.Item(714)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Dab Taunt"
+	:SetDesc "Hit em with it."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_dab"
+	:SetCollection "Spring Collection"
+
+mi.Item(722)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Sexy Taunt"
+	:SetDesc "Work that big booty of yours you sexy thang."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_sexy"
+	:SetCollection "Spring Collection"
+
+mi.Item(724)
+	:SetRarity (7)
+	:SetType "Special"
+	:SetName "Zombie Climb Taunt"
+	:SetDesc "Best dance move eva."
+	:SetImage "https://tera.gg/ttt/misc/moat_taunt.png"
+	:SetWeapon "weapon_ttt_taunt_climb"
+	:SetCollection "Spring Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(999999)
+	:SetRarity (9)
+	:SetType "Melee"
+	:SetName "Unwashed Hands"
+	:SetImage "https://tera.gg/ttt/misc/moat_fists.png"
+	:SetWeapon "weapon_ttt_fists"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 80, 80)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", 45, 25)
+		:SetStat ("Pushrate", 100, 100)
+	:SetTalents (2, 2)
+		:SetTalent (1, "Nerf")
+		:SetTalent (2, "cough")
+	:SetCollection "Spring Collection"
+
+mi.Item(999999)
+	:SetRarity (9)
+	:SetType "Melee"
+	:SetName "Unwashed Hands"
+	:SetImage "https://tera.gg/ttt/misc/moat_fists.png"
+	:SetWeapon "weapon_ttt_fists"
+	:SetStats (5, 5)
+		:SetStat ("Firerate", 80, 80)
+		:SetStat ("Force", 13, 35)
+		:SetStat ("Damage", 10, 25)
+		:SetStat ("Weight", 45, 25)
+		:SetStat ("Pushrate", 100, 100)
+	:SetTalents (2, 2)
+		:SetTalent (1, "Nerf")
+		:SetTalent (2, "cough")
+	:SetCollection "Spring Collection"

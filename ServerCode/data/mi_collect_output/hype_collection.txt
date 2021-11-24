@@ -1,0 +1,1607 @@
+------------------------------------
+--
+-- Hype Collection
+--
+------------------------------------
+
+
+mi.Item(8151)
+	:SetRarity (3)
+	:SetType "Crate"
+	:SetName "Hype Crate"
+	:SetDesc "This crate contains an item from the Hype Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/hype_crate64.png"
+	:SetCollection "Hype Collection"
+	:SetShop (625, true, 1541818391)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(8095)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Floral Giggle"
+	:SetDesc "My goodness! Don't you just love flower tracking on a warm sunny day?!."
+	:SetModel "models/moat/mg_hat_sun.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8006)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Pipo Helmet"
+	:SetDesc "The Peak Point Helmet, also known as Pipo Helmet, is an experimental device made by the developers. This device controls the wearer and increases its intelligence.."
+	:SetModel "models/custom_prop/moatgaming/apeescape/apeescape.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8029)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Hannibal Mask"
+	:SetDesc "Clarice...."
+	:SetModel "models/custom_prop/moatgaming/hannibal/hannibal.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8101)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Liberal Hattington"
+	:SetDesc "Oh what the f... fart.."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8102)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Pensive Hattington"
+	:SetDesc "Avert your eyes children! AVERT THEM!."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8103)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Cold Hattington"
+	:SetDesc "Good try, but try gooder.."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (2)
+	:SetCollection "Hype Collection"
+
+mi.Item(8095)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Floral Giggle"
+	:SetDesc "My goodness! Don't you just love flower tracking on a warm sunny day?!."
+	:SetModel "models/moat/mg_hat_sun.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8006)
+	:SetRarity (1)
+	:SetType "Hat"
+	:SetName "Pipo Helmet"
+	:SetDesc "The Peak Point Helmet, also known as Pipo Helmet, is an experimental device made by the developers. This device controls the wearer and increases its intelligence.."
+	:SetModel "models/custom_prop/moatgaming/apeescape/apeescape.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8029)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Hannibal Mask"
+	:SetDesc "Clarice...."
+	:SetModel "models/custom_prop/moatgaming/hannibal/hannibal.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8101)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Liberal Hattington"
+	:SetDesc "Oh what the f... fart.."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8102)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Pensive Hattington"
+	:SetDesc "Avert your eyes children! AVERT THEM!."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8103)
+	:SetRarity (1)
+	:SetType "Mask"
+	:SetName "Cold Hattington"
+	:SetDesc "Good try, but try gooder.."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (2)
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(8012)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Bunny Hood"
+	:SetDesc "You got the Bunny Hood! My, what long ears it has! Will the power of the wild spring forth?."
+	:SetModel "models/custom_prop/moatgaming/bunnyhood/bunnyhood.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8020)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Doctor Fez Cap"
+	:SetDesc "A fez is another name for a condom. Kind of like a fez but for your other head.."
+	:SetModel "models/custom_prop/moatgaming/doctorfez/doctorfez.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8025)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Foolish Topper"
+	:SetDesc "You must have sucked someone to get this... (kirby joke lol)."
+	:SetModel "models/custom_prop/moatgaming/foolish/foolish.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8005)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Anonymous Mask"
+	:SetDesc "KNOWLEDGE IS EXPENSIVE. WE ARE IDENTIFIED. WE ARE FEW. WE DO FORGIVE. WE DO FORGET. DO NOT EXPECT US."
+	:SetModel "models/custom_prop/moatgaming/anonymous/anonymous.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8027)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Gas Mask"
+	:SetDesc "This allows whoever is wearing the gas mask to inhale farts without plugging their nose.."
+	:SetModel "models/custom_prop/moatgaming/gasmask/gasmask.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8105)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Anxious Hattington"
+	:SetDesc "Oh no! This isn't going to be good. Clench your butt! AHHHHHHHH."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (4)
+	:SetCollection "Hype Collection"
+
+mi.Item(8106)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Ecstatic Hattington"
+	:SetDesc "Give yourself a round of applause. You're not banned!."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (5)
+	:SetCollection "Hype Collection"
+
+mi.Item(8104)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Impartial Hattington"
+	:SetDesc "I was going tell you how much you suck. Turns out you don't!."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (3)
+	:SetCollection "Hype Collection"
+
+mi.Item(8040)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Majora's Moon Mask"
+	:SetDesc "I... I shall consume. Consume... Consume everything..."
+	:SetModel "models/custom_prop/moatgaming/moon/moon.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8049)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "ReDead Mask"
+	:SetDesc "Reeeeeee!."
+	:SetModel "models/custom_prop/moatgaming/redead/redead.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8012)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Bunny Hood"
+	:SetDesc "You got the Bunny Hood! My, what long ears it has! Will the power of the wild spring forth?."
+	:SetModel "models/custom_prop/moatgaming/bunnyhood/bunnyhood.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8020)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Doctor Fez Cap"
+	:SetDesc "A fez is another name for a condom. Kind of like a fez but for your other head.."
+	:SetModel "models/custom_prop/moatgaming/doctorfez/doctorfez.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8025)
+	:SetRarity (2)
+	:SetType "Hat"
+	:SetName "Foolish Topper"
+	:SetDesc "You must have sucked someone to get this... (kirby joke lol)."
+	:SetModel "models/custom_prop/moatgaming/foolish/foolish.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8005)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Anonymous Mask"
+	:SetDesc "KNOWLEDGE IS EXPENSIVE. WE ARE IDENTIFIED. WE ARE FEW. WE DO FORGIVE. WE DO FORGET. DO NOT EXPECT US."
+	:SetModel "models/custom_prop/moatgaming/anonymous/anonymous.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8027)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Gas Mask"
+	:SetDesc "This allows whoever is wearing the gas mask to inhale farts without plugging their nose.."
+	:SetModel "models/custom_prop/moatgaming/gasmask/gasmask.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8105)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Anxious Hattington"
+	:SetDesc "Oh no! This isn't going to be good. Clench your butt! AHHHHHHHH."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (4)
+	:SetCollection "Hype Collection"
+
+mi.Item(8106)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Ecstatic Hattington"
+	:SetDesc "Give yourself a round of applause. You're not banned!."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (5)
+	:SetCollection "Hype Collection"
+
+mi.Item(8104)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Impartial Hattington"
+	:SetDesc "I was going tell you how much you suck. Turns out you don't!."
+	:SetModel "models/moat/mg_mask_hattington.mdl"
+	:SetSkin (3)
+	:SetCollection "Hype Collection"
+
+mi.Item(8040)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "Majora's Moon Mask"
+	:SetDesc "I... I shall consume. Consume... Consume everything..."
+	:SetModel "models/custom_prop/moatgaming/moon/moon.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8049)
+	:SetRarity (2)
+	:SetType "Mask"
+	:SetName "ReDead Mask"
+	:SetDesc "Reeeeeee!."
+	:SetModel "models/custom_prop/moatgaming/redead/redead.mdl"
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(8041)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Olimar's Helmet"
+	:SetDesc "Though it does no longer work, this helmet was said to track down Traitors in 2001.."
+	:SetModel "models/custom_prop/moatgaming/olimar/olimar.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8083)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Smore Chef"
+	:SetDesc "Warning! This cozy comfy smores like hat is not edible while shooting terrorists!."
+	:SetModel "models/moat/mg_hat_law.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8094)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Spinny Hat"
+	:SetDesc "You can sexually identify as an attack helicopter with this propeller on your head.."
+	:SetModel "models/moat/mg_hat_spinny.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8099)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Steampunk Tophat"
+	:SetDesc "OMG YOU GUYS it has come to my attention that SOMEONE on the internet is saying that my fictional 19th century zombies are NOT SCIENTIFICALLY SOUND. Naturally, I am crushed. To think, IF ONLY I’d consulted with a zombologist or two before sitting down to write, I could’ve avoided ALL THIS EMBARRASSMENT.."
+	:SetModel "models/sterling/mg_hat_punk.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8010)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Billy Mask"
+	:SetDesc "The prettiest boy in all the land.."
+	:SetModel "models/custom_prop/moatgaming/billy/billy.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8013)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Crusaders Helment"
+	:SetDesc "Join for Glory so all will remember you as a soldier of Moat."
+	:SetModel "models/custom_prop/moatgaming/crusaders/crusaders.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8037)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Metroid Hat"
+	:SetDesc "I first battled the Metroids on planet Zebes. It was there that I foiled the plans of the Space Pirate leader, Mother Brain, to use the creatures to attack galactic civilization.."
+	:SetModel "models/custom_prop/moatgaming/metroid/metroid.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8039)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Monstro Head"
+	:SetDesc "Biblethump had a baby, and it's pretty weird looking.."
+	:SetModel "models/custom_prop/moatgaming/monstro/monstro.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8051)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Saiyan Scouter"
+	:SetDesc "Something, something, power level, something, 9000...."
+	:SetModel "models/custom_prop/moatgaming/saiyanvisor/saiyanvisor.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8062)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Trapper's Mask"
+	:SetDesc "Perfect to cover a bald head and an ugly face!."
+	:SetModel "models/custom_prop/moatgaming/trapper/trapper.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8041)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Olimar's Helmet"
+	:SetDesc "Though it does no longer work, this helmet was said to track down Traitors in 2001.."
+	:SetModel "models/custom_prop/moatgaming/olimar/olimar.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8083)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Smore Chef"
+	:SetDesc "Warning! This cozy comfy smores like hat is not edible while shooting terrorists!."
+	:SetModel "models/moat/mg_hat_law.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8094)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Spinny Hat"
+	:SetDesc "You can sexually identify as an attack helicopter with this propeller on your head.."
+	:SetModel "models/moat/mg_hat_spinny.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8099)
+	:SetRarity (3)
+	:SetType "Hat"
+	:SetName "Steampunk Tophat"
+	:SetDesc "OMG YOU GUYS it has come to my attention that SOMEONE on the internet is saying that my fictional 19th century zombies are NOT SCIENTIFICALLY SOUND. Naturally, I am crushed. To think, IF ONLY I’d consulted with a zombologist or two before sitting down to write, I could’ve avoided ALL THIS EMBARRASSMENT.."
+	:SetModel "models/sterling/mg_hat_punk.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8010)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Billy Mask"
+	:SetDesc "The prettiest boy in all the land.."
+	:SetModel "models/custom_prop/moatgaming/billy/billy.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8013)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Crusaders Helment"
+	:SetDesc "Join for Glory so all will remember you as a soldier of Moat."
+	:SetModel "models/custom_prop/moatgaming/crusaders/crusaders.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8037)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Metroid Hat"
+	:SetDesc "I first battled the Metroids on planet Zebes. It was there that I foiled the plans of the Space Pirate leader, Mother Brain, to use the creatures to attack galactic civilization.."
+	:SetModel "models/custom_prop/moatgaming/metroid/metroid.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8039)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Monstro Head"
+	:SetDesc "Biblethump had a baby, and it's pretty weird looking.."
+	:SetModel "models/custom_prop/moatgaming/monstro/monstro.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8051)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Saiyan Scouter"
+	:SetDesc "Something, something, power level, something, 9000...."
+	:SetModel "models/custom_prop/moatgaming/saiyanvisor/saiyanvisor.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8062)
+	:SetRarity (3)
+	:SetType "Mask"
+	:SetName "Trapper's Mask"
+	:SetDesc "Perfect to cover a bald head and an ugly face!."
+	:SetModel "models/custom_prop/moatgaming/trapper/trapper.mdl"
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(8021)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Crocodile Dundee Hat"
+	:SetDesc "That's not a knife. [draws a large Bowie knife] That's a knife.."
+	:SetModel "models/custom_prop/moatgaming/dundee/dundee.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8022)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Evil Plant Head"
+	:SetDesc "The cutest little horrific flower baby!."
+	:SetModel "models/custom_prop/moatgaming/evilplant/evilplant.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8082)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Kung Lao's Hat"
+	:SetDesc "I will not be so passive in your demise.."
+	:SetModel "models/moat/mg_hat_kunglao.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8088)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Naruto's Sleeping Cap"
+	:SetDesc "A Shinobi's life is not measured by how they lived but rather what they managed to accomplish before their death.."
+	:SetModel "models/moat/mg_hat_narutosleeping.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8096)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Teemo Hat"
+	:SetDesc "Never underestimate the power of the Scout's code.."
+	:SetModel "models/moat/mg_hat_teemo.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8004)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Alien Head"
+	:SetDesc "The head of a person from outerspace. It was generally peace loving and wise, but it only came to Earth because we've got velcro and it loved that shit. Save velcro!."
+	:SetModel "models/custom_prop/moatgaming/alien/alien.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8009)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Bender Head"
+	:SetDesc "Blackmail is such an ugly word. I prefer extortion. The 'x' makes it sound cool.."
+	:SetModel "models/custom_prop/moatgaming/bender/bender.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8093)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Confined Cranium"
+	:SetDesc "Your thoughts will be trapped for eternity.."
+	:SetModel "models/moat/mg_hat_skullcage.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8017)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Demon Shank Mask"
+	:SetDesc "Raised from the depths of hell, to die, again and again."
+	:SetModel "models/custom_prop/moatgaming/demonshank/demonshank.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8075)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Hei Mask"
+	:SetDesc "Bearing the sins of the children of earth, the moon begins to consume it's light. What's Darker than Black?."
+	:SetModel "models/moat/mg_hat_darkerthenblack.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8098)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Iron Helmet"
+	:SetDesc "+42 Damage resistance against dragons."
+	:SetModel "models/moat/mg_helmet_iron.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8046)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Jack-O-Lantern Mask"
+	:SetDesc "The pumpkin king comes to freight tonight...."
+	:SetModel "models/custom_prop/moatgaming/pumpkin/pumpkin.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8043)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Pennywise Mask"
+	:SetDesc "You'll float too.."
+	:SetModel "models/custom_prop/moatgaming/pennywise/pennywise.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8053)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Scream Mask"
+	:SetDesc "You're not going to pee alone any more. If you pee, I pee. Is that clear?."
+	:SetModel "models/custom_prop/moatgaming/scream/scream.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8021)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Crocodile Dundee Hat"
+	:SetDesc "That's not a knife. [draws a large Bowie knife] That's a knife.."
+	:SetModel "models/custom_prop/moatgaming/dundee/dundee.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8022)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Evil Plant Head"
+	:SetDesc "The cutest little horrific flower baby!."
+	:SetModel "models/custom_prop/moatgaming/evilplant/evilplant.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8082)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Kung Lao's Hat"
+	:SetDesc "I will not be so passive in your demise.."
+	:SetModel "models/moat/mg_hat_kunglao.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8088)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Naruto's Sleeping Cap"
+	:SetDesc "A Shinobi's life is not measured by how they lived but rather what they managed to accomplish before their death.."
+	:SetModel "models/moat/mg_hat_narutosleeping.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8096)
+	:SetRarity (4)
+	:SetType "Hat"
+	:SetName "Teemo Hat"
+	:SetDesc "Never underestimate the power of the Scout's code.."
+	:SetModel "models/moat/mg_hat_teemo.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8004)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Alien Head"
+	:SetDesc "The head of a person from outerspace. It was generally peace loving and wise, but it only came to Earth because we've got velcro and it loved that shit. Save velcro!."
+	:SetModel "models/custom_prop/moatgaming/alien/alien.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8009)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Bender Head"
+	:SetDesc "Blackmail is such an ugly word. I prefer extortion. The 'x' makes it sound cool.."
+	:SetModel "models/custom_prop/moatgaming/bender/bender.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8093)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Confined Cranium"
+	:SetDesc "Your thoughts will be trapped for eternity.."
+	:SetModel "models/moat/mg_hat_skullcage.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8017)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Demon Shank Mask"
+	:SetDesc "Raised from the depths of hell, to die, again and again."
+	:SetModel "models/custom_prop/moatgaming/demonshank/demonshank.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8075)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Hei Mask"
+	:SetDesc "Bearing the sins of the children of earth, the moon begins to consume it's light. What's Darker than Black?."
+	:SetModel "models/moat/mg_hat_darkerthenblack.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8098)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Iron Helmet"
+	:SetDesc "+42 Damage resistance against dragons."
+	:SetModel "models/moat/mg_helmet_iron.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8046)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Jack-O-Lantern Mask"
+	:SetDesc "The pumpkin king comes to freight tonight...."
+	:SetModel "models/custom_prop/moatgaming/pumpkin/pumpkin.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8043)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Pennywise Mask"
+	:SetDesc "You'll float too.."
+	:SetModel "models/custom_prop/moatgaming/pennywise/pennywise.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8053)
+	:SetRarity (4)
+	:SetType "Mask"
+	:SetName "Scream Mask"
+	:SetDesc "You're not going to pee alone any more. If you pee, I pee. Is that clear?."
+	:SetModel "models/custom_prop/moatgaming/scream/scream.mdl"
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(8074)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "A Crown"
+	:SetDesc "The eastern-american pronounciation of the word 'crayons', but in hat form.."
+	:SetModel "models/moat/mg_hat_crown.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8078)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Estilo Muerto"
+	:SetDesc "Help the traitors celebrate Day of the Dead by wearing this hat and then killing them.."
+	:SetModel "models/moat/mg_hat_estilomuerto.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8089)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "King Neptune's Crown"
+	:SetDesc "I win!."
+	:SetModel "models/moat/mg_hat_neptune.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8081)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Krusty Krab Hat"
+	:SetDesc "I'm ready! I'm ready! I'm ready!."
+	:SetModel "models/moat/mg_hat_krustykrab.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8086)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Mad Hatter Hat"
+	:SetDesc "We're all mad here! or Whats the hatter with me! (get it? it's a pun)."
+	:SetModel "models/moat/mg_hat_madhatter.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8044)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Princess Peach's Crown"
+	:SetDesc "I am in another castle!."
+	:SetModel "models/custom_prop/moatgaming/princess/princess.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8092)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Robot Chicken Hat"
+	:SetDesc "Why did the chicken REALLY cross the road? To get hit by a car, stolen by a mad scientist, and transformed into a terrifying cyborg that you can wear on your head. So the next time you hear someone telling you that joke, set that smug joke-teller straight, because you've got the FACTS.."
+	:SetModel "models/moat/mg_hat_robotchicken.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8060)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Straw Hat"
+	:SetDesc "Welcome to the rice fields, mutha fucka.."
+	:SetModel "models/custom_prop/moatgaming/strawhat/strawhat.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8007)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Arkham Knight Helmet "
+	:SetDesc "The damn straight best super hero ever.."
+	:SetModel "models/custom_prop/moatgaming/arkham/arkham.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8008)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Bane Mask"
+	:SetDesc "ass batman villian that uses a super steroid called 'Venom' to destroy anything with brute strength.."
+	:SetModel "models/custom_prop/moatgaming/bane/bane.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8032)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Biblethump Mask"
+	:SetDesc "The face of a crying baby from the indie game The Binding of Isaac. Also a Twitch emote.."
+	:SetModel "models/custom_prop/moatgaming/isaac/isaac.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8016)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Darth Vader Helmet"
+	:SetDesc "Give yourself to the Dark Side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong.."
+	:SetModel "models/custom_prop/moatgaming/darthvader/darthvader.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8028)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Gray Fox Mask"
+	:SetDesc "Make me feel alive again!."
+	:SetModel "models/custom_prop/moatgaming/greyfox/greyfox.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8034)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Magneto's Helmet"
+	:SetDesc "Mankind has always feared what it doesn't understand."
+	:SetModel "models/custom_prop/moatgaming/magneto/magneto.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8036)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Mega Man Helmet"
+	:SetDesc "Watch out for the spikes blocks.."
+	:SetModel "models/custom_prop/moatgaming/megaman/megaman.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8038)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Miraak's Mask"
+	:SetDesc "That name sounds familiar, but I just can't put my finger on it..."
+	:SetModel "models/custom_prop/moatgaming/miraak/miraak.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8045)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Psycho Mask"
+	:SetDesc "Strip the flesh, Salt the wound.."
+	:SetModel "models/custom_prop/moatgaming/psycho/psycho.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8050)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Robocop Helmet"
+	:SetDesc "Dead or Alive, you're coming with me.."
+	:SetModel "models/custom_prop/moatgaming/robocop/robocop.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8052)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Sauron's Helmet"
+	:SetDesc "Kneel before the witch king!."
+	:SetModel "models/custom_prop/moatgaming/sauron/sauron.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8067)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Zahkriisos' Mask"
+	:SetDesc "The dragon mask acquired from the remains of Zahkriisos, one of four named Dragon Priests on Solstheim.."
+	:SetModel "models/custom_prop/moatgaming/zhariisos/zhariisos.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8074)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "A Crown"
+	:SetDesc "The eastern-american pronounciation of the word 'crayons', but in hat form.."
+	:SetModel "models/moat/mg_hat_crown.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8078)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Estilo Muerto"
+	:SetDesc "Help the traitors celebrate Day of the Dead by wearing this hat and then killing them.."
+	:SetModel "models/moat/mg_hat_estilomuerto.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8089)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "King Neptune's Crown"
+	:SetDesc "I win!."
+	:SetModel "models/moat/mg_hat_neptune.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8081)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Krusty Krab Hat"
+	:SetDesc "I'm ready! I'm ready! I'm ready!."
+	:SetModel "models/moat/mg_hat_krustykrab.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8086)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Mad Hatter Hat"
+	:SetDesc "We're all mad here! or Whats the hatter with me! (get it? it's a pun)."
+	:SetModel "models/moat/mg_hat_madhatter.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8044)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Princess Peach's Crown"
+	:SetDesc "I am in another castle!."
+	:SetModel "models/custom_prop/moatgaming/princess/princess.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8092)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Robot Chicken Hat"
+	:SetDesc "Why did the chicken REALLY cross the road? To get hit by a car, stolen by a mad scientist, and transformed into a terrifying cyborg that you can wear on your head. So the next time you hear someone telling you that joke, set that smug joke-teller straight, because you've got the FACTS.."
+	:SetModel "models/moat/mg_hat_robotchicken.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8060)
+	:SetRarity (5)
+	:SetType "Hat"
+	:SetName "Straw Hat"
+	:SetDesc "Welcome to the rice fields, mutha fucka.."
+	:SetModel "models/custom_prop/moatgaming/strawhat/strawhat.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8007)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Arkham Knight Helmet "
+	:SetDesc "The damn straight best super hero ever.."
+	:SetModel "models/custom_prop/moatgaming/arkham/arkham.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8008)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Bane Mask"
+	:SetDesc "ass batman villian that uses a super steroid called 'Venom' to destroy anything with brute strength.."
+	:SetModel "models/custom_prop/moatgaming/bane/bane.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8032)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Biblethump Mask"
+	:SetDesc "The face of a crying baby from the indie game The Binding of Isaac. Also a Twitch emote.."
+	:SetModel "models/custom_prop/moatgaming/isaac/isaac.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8016)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Darth Vader Helmet"
+	:SetDesc "Give yourself to the Dark Side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong.."
+	:SetModel "models/custom_prop/moatgaming/darthvader/darthvader.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8028)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Gray Fox Mask"
+	:SetDesc "Make me feel alive again!."
+	:SetModel "models/custom_prop/moatgaming/greyfox/greyfox.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8034)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Magneto's Helmet"
+	:SetDesc "Mankind has always feared what it doesn't understand."
+	:SetModel "models/custom_prop/moatgaming/magneto/magneto.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8036)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Mega Man Helmet"
+	:SetDesc "Watch out for the spikes blocks.."
+	:SetModel "models/custom_prop/moatgaming/megaman/megaman.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8038)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Miraak's Mask"
+	:SetDesc "That name sounds familiar, but I just can't put my finger on it..."
+	:SetModel "models/custom_prop/moatgaming/miraak/miraak.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8045)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Psycho Mask"
+	:SetDesc "Strip the flesh, Salt the wound.."
+	:SetModel "models/custom_prop/moatgaming/psycho/psycho.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8050)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Robocop Helmet"
+	:SetDesc "Dead or Alive, you're coming with me.."
+	:SetModel "models/custom_prop/moatgaming/robocop/robocop.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8052)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Sauron's Helmet"
+	:SetDesc "Kneel before the witch king!."
+	:SetModel "models/custom_prop/moatgaming/sauron/sauron.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8067)
+	:SetRarity (5)
+	:SetType "Mask"
+	:SetName "Zahkriisos' Mask"
+	:SetDesc "The dragon mask acquired from the remains of Zahkriisos, one of four named Dragon Priests on Solstheim.."
+	:SetModel "models/custom_prop/moatgaming/zhariisos/zhariisos.mdl"
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(8073)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Chicken Hat"
+	:SetDesc "The paramount of stealth.."
+	:SetModel "models/moat/mg_hat_chicken.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8090)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Pac-Man Helmet"
+	:SetDesc "Waka Waka Waka Waka...."
+	:SetModel "models/moat/mg_hat_packman.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8085)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Philosophy Bulb"
+	:SetDesc "Basically gives you a headache with pictures.."
+	:SetModel "models/moat/mg_hat_lightb.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8069)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Pimp Hat"
+	:SetDesc "25% off. Everything must go. Maybe even you.."
+	:SetModel "models/moat/mg_fedora.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8056)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Shredder Helmet"
+	:SetDesc "TEENAGE MUTANT NINJA TURTLES."
+	:SetModel "models/custom_prop/moatgaming/shredder/shredder.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8079)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "The Goofy Goober"
+	:SetDesc "I'm a goofy goober, ROCK! You're a goofy goober, ROCK! We're all goofy goobers, ROCK! Goofy goofy goober goober!, ROCK!."
+	:SetModel "models/moat/mg_hat_goofygoober.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8076)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "The Stout Shako"
+	:SetDesc "The grand achievement of Victorian military fashion.."
+	:SetModel "models/moat/mg_hat_drummer.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8091)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Top Hat Of Bling Bling"
+	:SetDesc "For those times when a plain old top hat made out of solid gold just won't do.."
+	:SetModel "models/moat/mg_hat_robloxmoney.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8097)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Umbrella Hat"
+	:SetDesc "You can stand under my umbrella, ella, ella, eh, eh, eh...."
+	:SetModel "models/moat/mg_hat_unbrella.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8072)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Zeppeli Hat"
+	:SetDesc "What is Courage? Courage is owning your fear!."
+	:SetModel "models/moat/mg_hat_checkered_top.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8002)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Aku Aku Mask"
+	:SetDesc "A floating mask from the Crash Bandicoot game series. He aids Crash & co. in some way.."
+	:SetModel "models/custom_prop/moatgaming/aku/aku.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8011)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Bondrewd's Helmet"
+	:SetDesc "World's best dad."
+	:SetModel "models/custom_prop/moatgaming/bondrewd/bondrewd.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8023)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Captain Falcon's Helmet"
+	:SetDesc "FALCOOOOON PUNCH!!!"
+	:SetModel "models/custom_prop/moatgaming/falcon/falcon.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8024)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Helmet Of Fate"
+	:SetDesc "This is the Helmet of Fate. It is not a 'shiny target'. It holds untold power.."
+	:SetModel "models/custom_prop/moatgaming/fate/fate.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8031)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Hollow Knight Mask"
+	:SetDesc "Brave the depths of a forgotten kingdom with this mask.."
+	:SetModel "models/custom_prop/moatgaming/hollow/hollow.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8057)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Kawaii Dozer Mask"
+	:SetDesc "SENPAI NOTICED ME."
+	:SetModel "models/custom_prop/moatgaming/skullgirl/skullgirl.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8033)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Level 3 Helmet"
+	:SetDesc "Bite the bullet."
+	:SetModel "models/custom_prop/moatgaming/lvl3/lvl3.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8035)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Marshmello's Helmet"
+	:SetDesc "I heard you keeping it 'Mello' Eh Eh no okay...."
+	:SetModel "models/custom_prop/moatgaming/marshmello/marshmello.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8063)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Night Vision Goggles"
+	:SetDesc "Either this guy is hacking, or he actually managed to turn on the goggles...."
+	:SetModel "models/custom_prop/moatgaming/trihelmet/trihelmet.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8055)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Shovel Knight Helmet"
+	:SetDesc "SHOVEL JUSTICE!"
+	:SetModel "models/custom_prop/moatgaming/shovel/shovel.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8065)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Vault Boy Mask"
+	:SetDesc "The real pussy destroyer. I'm a motherfuckin' pimp-ass mask who loves hot babes on the daily.."
+	:SetModel "models/custom_prop/moatgaming/vaultboy/vaultboy.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8066)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Zer0's Mask"
+	:SetDesc "Your eyes deceive you, an illusion fools you all.."
+	:SetModel "models/custom_prop/moatgaming/zero/zero.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8073)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Chicken Hat"
+	:SetDesc "The paramount of stealth.."
+	:SetModel "models/moat/mg_hat_chicken.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8090)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Pac-Man Helmet"
+	:SetDesc "Waka Waka Waka Waka...."
+	:SetModel "models/moat/mg_hat_packman.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8085)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Philosophy Bulb"
+	:SetDesc "Basically gives you a headache with pictures.."
+	:SetModel "models/moat/mg_hat_lightb.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8069)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Pimp Hat"
+	:SetDesc "25% off. Everything must go. Maybe even you.."
+	:SetModel "models/moat/mg_fedora.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8056)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Shredder Helmet"
+	:SetDesc "TEENAGE MUTANT NINJA TURTLES."
+	:SetModel "models/custom_prop/moatgaming/shredder/shredder.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8079)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "The Goofy Goober"
+	:SetDesc "I'm a goofy goober, ROCK! You're a goofy goober, ROCK! We're all goofy goobers, ROCK! Goofy goofy goober goober!, ROCK!."
+	:SetModel "models/moat/mg_hat_goofygoober.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8076)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "The Stout Shako"
+	:SetDesc "The grand achievement of Victorian military fashion.."
+	:SetModel "models/moat/mg_hat_drummer.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8091)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Top Hat Of Bling Bling"
+	:SetDesc "For those times when a plain old top hat made out of solid gold just won't do.."
+	:SetModel "models/moat/mg_hat_robloxmoney.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8097)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Umbrella Hat"
+	:SetDesc "You can stand under my umbrella, ella, ella, eh, eh, eh...."
+	:SetModel "models/moat/mg_hat_unbrella.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8072)
+	:SetRarity (6)
+	:SetType "Hat"
+	:SetName "Zeppeli Hat"
+	:SetDesc "What is Courage? Courage is owning your fear!."
+	:SetModel "models/moat/mg_hat_checkered_top.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8002)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Aku Aku Mask"
+	:SetDesc "A floating mask from the Crash Bandicoot game series. He aids Crash & co. in some way.."
+	:SetModel "models/custom_prop/moatgaming/aku/aku.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8011)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Bondrewd's Helmet"
+	:SetDesc "World's best dad."
+	:SetModel "models/custom_prop/moatgaming/bondrewd/bondrewd.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8023)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Captain Falcon's Helmet"
+	:SetDesc "FALCOOOOON PUNCH!!!"
+	:SetModel "models/custom_prop/moatgaming/falcon/falcon.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8024)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Helmet Of Fate"
+	:SetDesc "This is the Helmet of Fate. It is not a 'shiny target'. It holds untold power.."
+	:SetModel "models/custom_prop/moatgaming/fate/fate.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8031)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Hollow Knight Mask"
+	:SetDesc "Brave the depths of a forgotten kingdom with this mask.."
+	:SetModel "models/custom_prop/moatgaming/hollow/hollow.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8057)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Kawaii Dozer Mask"
+	:SetDesc "SENPAI NOTICED ME."
+	:SetModel "models/custom_prop/moatgaming/skullgirl/skullgirl.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8033)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Level 3 Helmet"
+	:SetDesc "Bite the bullet."
+	:SetModel "models/custom_prop/moatgaming/lvl3/lvl3.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8035)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Marshmello's Helmet"
+	:SetDesc "I heard you keeping it 'Mello' Eh Eh no okay...."
+	:SetModel "models/custom_prop/moatgaming/marshmello/marshmello.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8063)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Night Vision Goggles"
+	:SetDesc "Either this guy is hacking, or he actually managed to turn on the goggles...."
+	:SetModel "models/custom_prop/moatgaming/trihelmet/trihelmet.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8055)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Shovel Knight Helmet"
+	:SetDesc "SHOVEL JUSTICE!"
+	:SetModel "models/custom_prop/moatgaming/shovel/shovel.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8065)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Vault Boy Mask"
+	:SetDesc "The real pussy destroyer. I'm a motherfuckin' pimp-ass mask who loves hot babes on the daily.."
+	:SetModel "models/custom_prop/moatgaming/vaultboy/vaultboy.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8066)
+	:SetRarity (6)
+	:SetType "Mask"
+	:SetName "Zer0's Mask"
+	:SetDesc "Your eyes deceive you, an illusion fools you all.."
+	:SetModel "models/custom_prop/moatgaming/zero/zero.mdl"
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(8026)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Galactus Helmet"
+	:SetDesc "Behold... The Power Cosmic itself!."
+	:SetModel "models/custom_prop/moatgaming/galactus/galactus.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8054)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Sharky Hat"
+	:SetDesc "Your friend from the ocean!."
+	:SetModel "models/custom_prop/moatgaming/shark/shark.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8058)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Sorting Hat"
+	:SetDesc "Hmm, difficult. VERY difficult. Plenty of courage, I see. Not a bad mind, either. There's talent, oh yes. And a thirst to prove yourself. But where to put you?."
+	:SetModel "models/custom_prop/moatgaming/sortinghat/sortinghat.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8061)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Thor's Helmet"
+	:SetDesc "The god of Thunder. Can drink anyone under the table. Not a deity to fuck with.."
+	:SetModel "models/custom_prop/moatgaming/thundergod/thundergod.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8087)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Towering Pillar Of Hats"
+	:SetDesc "A-ha-ha! You are as PRESUMPTUOUS as you are POOR and IRISH. Tarnish notte the majesty of my TOWER of HATS.."
+	:SetModel "models/moat/mg_hat_multi.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8068)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Clout Goggles"
+	:SetDesc "A pair of iconic glasses that should be treasured and only worn by the best of people.."
+	:SetModel "models/moat/mg_clout_goggles.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8014)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Daft Punk Helmet"
+	:SetDesc "She's up all night to the sun, I'm up all night to get some, She's up all night for good fun, I'm up all night to get lucky."
+	:SetModel "models/custom_prop/moatgaming/daft/daft.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8001)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Duck Mask"
+	:SetDesc "The name is supposed to be Fuck Mask, but it was auto-corrected to Duck Mask?."
+	:SetModel "models/custom_prop/moatgaming/duck/duck.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8042)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Ori Mask"
+	:SetDesc "When my child's strength faltered, and the last breath was drawn, my light revived Ori, a new age had dawned.."
+	:SetModel "models/custom_prop/moatgaming/ori/ori.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8059)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Spawn Mask"
+	:SetDesc "You sent me to Hell. I'm here to return the favor.."
+	:SetModel "models/custom_prop/moatgaming/spawn/spawn.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8064)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Stormtrooper Helmet"
+	:SetDesc "You can go about your business.."
+	:SetModel "models/custom_prop/moatgaming/trooperhelmet/trooperhelmet.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8026)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Galactus Helmet"
+	:SetDesc "Behold... The Power Cosmic itself!."
+	:SetModel "models/custom_prop/moatgaming/galactus/galactus.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8054)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Sharky Hat"
+	:SetDesc "Your friend from the ocean!."
+	:SetModel "models/custom_prop/moatgaming/shark/shark.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8058)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Sorting Hat"
+	:SetDesc "Hmm, difficult. VERY difficult. Plenty of courage, I see. Not a bad mind, either. There's talent, oh yes. And a thirst to prove yourself. But where to put you?."
+	:SetModel "models/custom_prop/moatgaming/sortinghat/sortinghat.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8061)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Thor's Helmet"
+	:SetDesc "The god of Thunder. Can drink anyone under the table. Not a deity to fuck with.."
+	:SetModel "models/custom_prop/moatgaming/thundergod/thundergod.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8087)
+	:SetRarity (7)
+	:SetType "Hat"
+	:SetName "Towering Pillar Of Hats"
+	:SetDesc "A-ha-ha! You are as PRESUMPTUOUS as you are POOR and IRISH. Tarnish notte the majesty of my TOWER of HATS.."
+	:SetModel "models/moat/mg_hat_multi.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8068)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Clout Goggles"
+	:SetDesc "A pair of iconic glasses that should be treasured and only worn by the best of people.."
+	:SetModel "models/moat/mg_clout_goggles.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8014)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Daft Punk Helmet"
+	:SetDesc "She's up all night to the sun, I'm up all night to get some, She's up all night for good fun, I'm up all night to get lucky."
+	:SetModel "models/custom_prop/moatgaming/daft/daft.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8001)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Duck Mask"
+	:SetDesc "The name is supposed to be Fuck Mask, but it was auto-corrected to Duck Mask?."
+	:SetModel "models/custom_prop/moatgaming/duck/duck.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8042)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Ori Mask"
+	:SetDesc "When my child's strength faltered, and the last breath was drawn, my light revived Ori, a new age had dawned.."
+	:SetModel "models/custom_prop/moatgaming/ori/ori.mdl"
+	:SetSkin (1)
+	:SetCollection "Hype Collection"
+
+mi.Item(8059)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Spawn Mask"
+	:SetDesc "You sent me to Hell. I'm here to return the favor.."
+	:SetModel "models/custom_prop/moatgaming/spawn/spawn.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8064)
+	:SetRarity (7)
+	:SetType "Mask"
+	:SetName "Stormtrooper Helmet"
+	:SetDesc "You can go about your business.."
+	:SetModel "models/custom_prop/moatgaming/trooperhelmet/trooperhelmet.mdl"
+	:SetCollection "Hype Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(8080)
+	:SetRarity (9)
+	:SetType "Hat"
+	:SetName "The IC Warrior"
+	:SetDesc "A haiku for war. To default one's enemies. Honor the IC.."
+	:SetModel "models/moat/mg_hat_killerskabuto.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8100)
+	:SetRarity (9)
+	:SetType "Hat"
+	:SetName "The #1 Hat"
+	:SetDesc "Hey man, that's Smitty Werben Man Jensen's hat, give it back! He was #1!."
+	:SetModel "models/sterling/mg_hat_number1.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8080)
+	:SetRarity (9)
+	:SetType "Hat"
+	:SetName "The IC Warrior"
+	:SetDesc "A haiku for war. To default one's enemies. Honor the IC.."
+	:SetModel "models/moat/mg_hat_killerskabuto.mdl"
+	:SetCollection "Hype Collection"
+
+mi.Item(8100)
+	:SetRarity (9)
+	:SetType "Hat"
+	:SetName "The #1 Hat"
+	:SetDesc "Hey man, that's Smitty Werben Man Jensen's hat, give it back! He was #1!."
+	:SetModel "models/sterling/mg_hat_number1.mdl"
+	:SetCollection "Hype Collection"

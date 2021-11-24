@@ -1,0 +1,531 @@
+------------------------------------
+--
+-- Paper Tiqers Collection
+--
+------------------------------------
+
+
+mi.Item(7332)
+	:SetRarity (4)
+	:SetType "Crate"
+	:SetName "Paper Tiqers Crate"
+	:SetDesc "This crate contains a skin from the Paper Tiqers Collection! Right click to open."
+	:SetImage "https://tera.gg/ttt/misc/paper_crate64.png"
+	:SetCollection "Paper Tiqers Collection"
+	:SetShop (1500, true, 1577779200)
+
+
+------------------------------------
+-- Worn Items
+------------------------------------
+
+
+mi.Item(6304)
+	:SetRarity (1)
+	:SetType "Usable"
+	:SetName "Midnight Sun Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/midnight_sun.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/midnight_sun.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6320)
+	:SetRarity (1)
+	:SetType "Usable"
+	:SetName "Yore Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/yore.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/yore.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6307)
+	:SetRarity (1)
+	:SetType "Usable"
+	:SetName "Nimbus Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/nimbus.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/nimbus.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6294)
+	:SetRarity (1)
+	:SetType "Usable"
+	:SetName "Alabaster Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/alabaster.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/alabaster.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6301)
+	:SetRarity (1)
+	:SetType "Usable"
+	:SetName "Interconnected Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/interconnected.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/interconnected.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- Standard Items
+------------------------------------
+
+
+mi.Item(6305)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Milky Way Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/milky_way.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/milky_way.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6323)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Zodiac Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/zodiac.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/zodiac.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6308)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Nippon Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/nippon.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/nippon.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6310)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Pollution Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/pollution.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/pollution.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6326)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Crepuscule Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/crepuscule.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/crepuscule.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6312)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Scintilla Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/scintilla.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/scintilla.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6300)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Ignite Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/ignite.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/ignite.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6316)
+	:SetRarity (2)
+	:SetType "Usable"
+	:SetName "Tsunami Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/tsunami.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/tsunami.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- Specialized Items
+------------------------------------
+
+
+mi.Item(6309)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Overwrought Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/overwrought.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/overwrought.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6296)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Good Fortune Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/good_fortune.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/good_fortune.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6299)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Hyper Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/hyper.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/hyper.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6331)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Frigid Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/frigid.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/frigid.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6317)
+	:SetRarity (3)
+	:SetType "Usable"
+	:SetName "Verge Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/verge.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/verge.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- Superior Items
+------------------------------------
+
+
+mi.Item(6306)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Nemesis Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/nemesis.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/nemesis.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6322)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Zircon Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/zircon.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/zircon.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6325)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Contrast Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/contrast.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/contrast.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6298)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Hellbent Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/hellbent.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/hellbent.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6314)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Stigma Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/stigma.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/stigma.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6318)
+	:SetRarity (4)
+	:SetType "Usable"
+	:SetName "Viscous Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/viscous.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/viscous.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- High-End Items
+------------------------------------
+
+
+mi.Item(6324)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Amaterasu Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/amaterasu.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/amaterasu.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6295)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Gleam Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/gleam.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/gleam.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6311)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Sardonyx Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/sardonyx.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/sardonyx.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6303)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Megatherm Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/megatherm.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/megatherm.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6319)
+	:SetRarity (5)
+	:SetType "Usable"
+	:SetName "Whimsical Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/whimsical.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/whimsical.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- Ascended Items
+------------------------------------
+
+
+mi.Item(6327)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Daybreak Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/daybreak.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/daybreak.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6328)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Descent Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/descent.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/descent.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6297)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Heavenly Body Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/heavenly_body.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/heavenly_body.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6330)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "Ethereal Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/ethereal.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/ethereal.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6315)
+	:SetRarity (6)
+	:SetType "Usable"
+	:SetName "The Starry Night Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/the_starry_night.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/the_starry_night.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- Cosmic Items
+------------------------------------
+
+
+mi.Item(6329)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Drift Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/drift.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/drift.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6332)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Gaia Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/gaia.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/gaia.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6302)
+	:SetRarity (7)
+	:SetType "Usable"
+	:SetName "Manic Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/manic.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/manic.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+
+------------------------------------
+-- Planetary Items
+------------------------------------
+
+
+mi.Item(6321)
+	:SetRarity (9)
+	:SetType "Usable"
+	:SetName "Zed Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/zed.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/zed.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
+
+mi.Item(6313)
+	:SetRarity (9)
+	:SetType "Usable"
+	:SetName "Spectrum Skin"
+	:SetDesc "Right click this skin to use it on a weapon."
+	:SetImage "https://tera.gg/ttt/skins/img/spectrum.png"
+	:SetTexture "https://tera.gg/ttt/skins/vtf/spectrum.vtf"
+	:SetPaintVer (2)
+	:SetItemCheck (12)
+	:ItemUsed (function(pl, slot, item) m_TextureItem(pl, slot, item, self.ID) end)
+	:SetCollection "Paper Tiqers Collection"
